@@ -1,356 +1,222 @@
 #EXTM3U
 
-#EXTINF:-1,4E GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/2221.ts
-#EXTINF:-1,Action24 GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/2220.ts
-#EXTINF:-1,Alpha GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/2219.ts
-#EXTINF:-1,Ant 1 GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/2239.ts
-#EXTINF:-1,Antena 1 GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/2218.ts
-#EXTINF:-1,Blue Sky GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/2217.ts
-#EXTINF:-1,Animal Planet GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/2237.ts
-#EXTINF:-1,4E Star GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/2238.ts
-#EXTINF:-1,Nat Geo HD GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/2236.ts
-#EXTINF:-1,E! GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/2216.ts
-#EXTINF:-1,ERT 1 GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/2215.ts
-#EXTINF:-1,ERT 2 GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/2214.ts
-#EXTINF:-1,ERT 3 GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/2213.ts
-#EXTINF:-1,EuroNews GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/2230.ts
-#EXTINF:-1,EuroSport 1 GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/2212.ts
-#EXTINF:-1,Extra GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/2229.ts
-#EXTINF:-1,Kontra GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/2210.ts
-#EXTINF:-1,Kriti TV GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/2209.ts
-#EXTINF:-1,Makedonia GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/2208.ts
-#EXTINF:-1,Mega GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/2235.ts
-#EXTINF:-1,Messinia TV GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/2207.ts
-#EXTINF:-1,Nea TV GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/2206.ts
-#EXTINF:-1,Net TV GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/2205.ts
-#EXTINF:-1,Nickelodeon GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/2196.ts
-#EXTINF:-1,Nova GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/2204.ts
-#EXTINF:-1,Omega TV GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/2203.ts
-#EXTINF:-1,Nat Geo Wild HD GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/2234.ts
-#EXTINF:-1,History HD GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/2233.ts
-#EXTINF:-1,Discovery Channel GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/2232.ts
-#EXTINF:-1,Samiaki GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/2202.ts
-#EXTINF:-1,SBC HD GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/2228.ts
-#EXTINF:-1,Sigma GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/2231.ts
-#EXTINF:-1,Skai GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/2201.ts
-#EXTINF:-1,Smile GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/2200.ts
-#EXTINF:-1,Star GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/2199.ts
-#EXTINF:-1,TileSport TV GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/2198.ts
-#EXTINF:-1,Discovery ShowCase HD GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/2197.ts
-#EXTINF:-1,Travel Channel HD GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/2211.ts
-#EXTINF:-1,Vouli GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/2227.ts
-#EXTINF:-1,Zougla GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/2226.ts
-#EXTINF:-1,OTE Cinema 1 HD GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/6110.ts
-#EXTINF:-1,OTE Cinema 2 HD GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/6111.ts
-#EXTINF:-1,OTE Sport 1 GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/2225.ts
-#EXTINF:-1,OTE Sport 2 GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/2224.ts
-#EXTINF:-1,OTE Sport 3 GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/2223.ts
-#EXTINF:-1,OTE Sport 4 GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/2222.ts
-#EXTINF:-1,OTE Sport 1 HD GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5702.ts
-#EXTINF:-1,OTE Sport 2 HD GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5703.ts
-#EXTINF:-1,OTE Sport 3 HD GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5704.ts
-#EXTINF:-1,OTE Sport 4 HD GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5705.ts
-#EXTINF:-1,OTE Sport 5 HD GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5706.ts
-#EXTINF:-1,OTE Sport 6 HD GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5707.ts
-#EXTINF:-1,OTE Sport 7 HD GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5708.ts
-#EXTINF:-1,OTE Sport 8 HD GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5709.ts
-#EXTINF:-1,AB GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5827.ts
-#EXTINF:-1,Acheloos TV GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5821.ts
-#EXTINF:-1,Alpha Cyprus GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5818.ts
-#EXTINF:-1,Alpha HD GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5833.ts
-#EXTINF:-1,Animal Planet HD GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5862.ts
-#EXTINF:-1,ANT1 HD GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5834.ts
-#EXTINF:-1,ART Channel GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5822.ts
-#EXTINF:-1,Baby TV GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5850.ts
-#EXTINF:-1,Best Movies 1 GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5879.ts
-#EXTINF:-1,Best Movies 2 GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5878.ts
-#EXTINF:-1,Best Movies 3 GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5877.ts
-#EXTINF:-1,Best Movies 4 GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5876.ts
-#EXTINF:-1,Best Movies 5 GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5875.ts
-#EXTINF:-1,Best Movies 6 GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5874.ts
-#EXTINF:-1,Capital Cyprus GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5815.ts
-#EXTINF:-1,Cinema Greek 1 GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5873.ts
-#EXTINF:-1,Cinema Greek 2 GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5872.ts
-#EXTINF:-1,Discovery ID GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5859.ts
-#EXTINF:-1,Discovery IDX GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5860.ts
-#EXTINF:-1,Discovery Science GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5857.ts
-#EXTINF:-1,Disney Channel GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5853.ts
-#EXTINF:-1,Disney Junior GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5852.ts
-#EXTINF:-1,Disney XD GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5851.ts
-#EXTINF:-1,Food Network FHD GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5858.ts
-#EXTINF:-1,E! HD GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5825.ts
-#EXTINF:-1,Epirus TV GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5824.ts
-#EXTINF:-1,Epsilon GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5829.ts
-#EXTINF:-1,Epsilon HD GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5828.ts
-#EXTINF:-1,ERT HD GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5836.ts
-#EXTINF:-1,ERT TV HD GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5835.ts
-#EXTINF:-1,Fishing Ellinika GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5854.ts
-#EXTINF:-1,Greek Cinema 80s 1 GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5871.ts
-#EXTINF:-1,Greek Cinema 80s 2 GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5870.ts
-#EXTINF:-1,Greek Cinema 80s 3 GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5869.ts
-#EXTINF:-1,Greek Mix GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5837.ts
-#EXTINF:-1,Greek Old Movies 1 GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5868.ts
-#EXTINF:-1,Greek Old Movies 2 GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5867.ts
-#EXTINF:-1,Greek Old Movies 3 GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5866.ts
-#EXTINF:-1,Greek Series 1 GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5865.ts
-#EXTINF:-1,Greek Series 2 GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5864.ts
-#EXTINF:-1,Hunting Ellinika GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5855.ts
-#EXTINF:-1,Ionian TV GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5823.ts
-#EXTINF:-1,Kids 1 GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5849.ts
-#EXTINF:-1,Kids 2 GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5848.ts
-#EXTINF:-1,Kids 3 GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5847.ts
-#EXTINF:-1,Kids 4 GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5846.ts
-#EXTINF:-1,Kids 5 GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5845.ts
-#EXTINF:-1,Kids 6 GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5844.ts
-#EXTINF:-1,Kids 7 GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5843.ts
-#EXTINF:-1,Kids 9 GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5841.ts
-#EXTINF:-1,Kids 10 GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5840.ts
-#EXTINF:-1,MAD TV GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5839.ts
-#EXTINF:-1,MAD TV Cyprus GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5814.ts
-#EXTINF:-1,Makedonia TV HD GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5830.ts
-#EXTINF:-1,MegaOne Cyprus GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5817.ts
-#EXTINF:-1,OTE History GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5863.ts
-#EXTINF:-1,Plus Cyprus GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5816.ts
-#EXTINF:-1,RIK 1 Cyprus GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5820.ts
-#EXTINF:-1,RIK 2 Cyprus GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5819.ts
-#EXTINF:-1,RISE GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5838.ts
-#EXTINF:-1,Skai HD GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5832.ts
-#EXTINF:-1,Star HD GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5831.ts
-#EXTINF:-1,NovaCinema 1 HD GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5881.ts
-#EXTINF:-1,NovaSport 2 GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5880.ts
-#EXTINF:-1,TLC GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5856.ts
-#EXTINF:-1,Toronto TV GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5826.ts
-#EXTINF:-1,Viasat History GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5861.ts
-#EXTINF:-1,Zouzounia GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/5842.ts
-#EXTINF:-1,Antenna Sat USA (Nova USA) FHD GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/7066.ts
-#EXTINF:-1,Edge Sports FHD GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/7067.ts
-#EXTINF:-1,EuroSport 2 GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/7069.ts
-#EXTINF:-1,Fox HD GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/7074.ts
-#EXTINF:-1,Fox Life HD GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/7073.ts
-#EXTINF:-1,Motor Vision GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/7068.ts
-#EXTINF:-1,Nova Cinema 2 HD GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/7080.ts
-#EXTINF:-1,NovaCinema 3 HD GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/7079.ts
-#EXTINF:-1,NovaCinema 4 HD GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/7078.ts
-#EXTINF:-1,NovaSports 1 GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/7071.ts
-#EXTINF:-1,NovaSports 2 GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/7070.ts
-#EXTINF:-1,OTE Cinema 1 FHD GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/7081.ts
-#EXTINF:-1,OTE Cinema 2 FHD GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/7082.ts
-#EXTINF:-1,OTE Cinema 3 HD GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/7077.ts
-#EXTINF:-1,OTE Cinema 4 HD GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/7076.ts
-#EXTINF:-1,Sundance HD GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/7072.ts
-#EXTINF:-1,Village HD GR
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/7075.ts
-#EXTINF:-1,##########   Adults   ##########
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/2547.ts
-#EXTINF:-1,Beate-Uhse TV (20-06) Adult
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/2276.ts
-#EXTINF:-1,BRAZZERS TV Europe Adult
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/2275.ts
-#EXTINF:-1,Hot Adult
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/2274.ts
-#EXTINF:-1,CentoXCento Adult
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/2273.ts
-#EXTINF:-1,Desire Adult
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/2272.ts
-#EXTINF:-1,Dorcel TV HD Adult
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/2271.ts
-#EXTINF:-1,DUSK! DeLuxe Adult
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/2270.ts
-#EXTINF:-1,Eroxx HD Adult
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/2269.ts
-#EXTINF:-1,Evil Angel TV Adult
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/2268.ts
-#EXTINF:-1,FreeX TV Adult
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/2267.ts
-#EXTINF:-1,Hot Club 1 HD Adult
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/2266.ts
-#EXTINF:-1,Hot Club 2 HD Adult
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/2265.ts
-#EXTINF:-1,Hot Club 3 HD Adult
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/2264.ts
-#EXTINF:-1,Hustler HD Adult
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/2263.ts
-#EXTINF:-1,Jasmin.tv Adult
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/2262.ts
-#EXTINF:-1,Meidenvan Holland HARD Adult
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/2261.ts
-#EXTINF:-1,Soft Sex Adult
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/2260.ts
-#EXTINF:-1,Nubiles Adult
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/2259.ts
-#EXTINF:-1,Reality Kings TV Adult
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/2247.ts
-#EXTINF:-1,RedLight HD Adult
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/2246.ts
-#EXTINF:-1,PassieXXX Adult
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/2258.ts
-#EXTINF:-1,Penthouse 1 HD Adult
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/2257.ts
-#EXTINF:-1,Pink Erotic 1 Adult
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/2256.ts
-#EXTINF:-1,Pink Erotic 2 Adult
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/2255.ts
-#EXTINF:-1,Pink Erotic 4 Adult
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/2254.ts
-#EXTINF:-1,Pink Erotic 5 Adult
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/2253.ts
-#EXTINF:-1,Pink Erotic 6 Adult
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/2252.ts
-#EXTINF:-1,PINKO TV Adult
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/2251.ts
-#EXTINF:-1,Venus TV Adult
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/2250.ts
-#EXTINF:-1,Playboy TV Adult
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/2249.ts
-#EXTINF:-1,Private TV Adult
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/2248.ts
-#EXTINF:-1,SCT Adult
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/2245.ts
-#EXTINF:-1,Sexto SensoTv Adult
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/2244.ts
-#EXTINF:-1,Sirina 1 Adult
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/2243.ts
-#EXTINF:-1,Sirina 2 Adult
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/2242.ts
-#EXTINF:-1,SuperOne Adult
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/2241.ts
-#EXTINF:-1,Enjoye Premium Adult
-http://portal.geniptv.com:8080/live/PXeT7MLaSF/9rM9yxuWFh/2240.ts
+#EXTINF:-1,GR:4E Star
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9388.ts
+#EXTINF:-1,GR:AB Channel
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9389.ts
+#EXTINF:-1,GR:Acheloos TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9387.ts
+#EXTINF:-1,GR:ACTION 24
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9386.ts
+#EXTINF:-1,GR:Alpha Cyprus
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9384.ts
+#EXTINF:-1,GR:Alpha HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9385.ts
+#EXTINF:-1,GR:Animal Planet
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9320.ts
+#EXTINF:-1,GR:Animal Planet HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9321.ts
+#EXTINF:-1,GR:ANT1 HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9383.ts
+#EXTINF:-1,GR:ART Channel
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9382.ts
+#EXTINF:-1,GR:Baby TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9307.ts
+#EXTINF:-1,GR:Best Movies 1
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9351.ts
+#EXTINF:-1,GR:Best Movies 2
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9350.ts
+#EXTINF:-1,GR:Best Movies 3
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9349.ts
+#EXTINF:-1,GR:Best Movies 4
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9348.ts
+#EXTINF:-1,GR:Best Movies 5
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9347.ts
+#EXTINF:-1,GR:Best Movies 6
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9346.ts
+#EXTINF:-1,GR:Capital Cyprus
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9381.ts
+#EXTINF:-1,GR:CHANNEL 9
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9380.ts
+#EXTINF:-1,GR:Cinemaeek 1
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9353.ts
+#EXTINF:-1,GR:Cinemaeek 2
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9352.ts
+#EXTINF:-1,GR:Cosmote Sport 1 HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9418.ts
+#EXTINF:-1,GR:Cosmote Sport 2 HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9417.ts
+#EXTINF:-1,GR:Cosmote Sport 3 HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9416.ts
+#EXTINF:-1,GR:Cosmote Sport 4 HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9415.ts
+#EXTINF:-1,GR:Cosmote Sport 5 HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9414.ts
+#EXTINF:-1,GR:Cosmote Sport 6 HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9413.ts
+#EXTINF:-1,GR:Cosmote Sport 7 HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9412.ts
+#EXTINF:-1,GR:Cosmote Sport 8 HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9411.ts
+#EXTINF:-1,GR:Creta Web TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9379.ts
+#EXTINF:-1,GR:Discovery Channel
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9330.ts
+#EXTINF:-1,GR:Discovery ID
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9328.ts
+#EXTINF:-1,GR:Discovery IDX
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9327.ts
+#EXTINF:-1,GR:Discovery Science
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9326.ts
+#EXTINF:-1,GR:Discovery ShowCase HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9329.ts
+#EXTINF:-1,GR:Disney Channel
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9311.ts
+#EXTINF:-1,GR:Disney Junior
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9310.ts
+#EXTINF:-1,GR:Disney XD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9309.ts
+#EXTINF:-1,GR:DS
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9378.ts
+#EXTINF:-1,GR:E!
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9331.ts
+#EXTINF:-1,GR:Epirus TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9332.ts
+#EXTINF:-1,GR:EPSILON
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9402.ts
+#EXTINF:-1,GR:Epsilon HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9403.ts
+#EXTINF:-1,GR:ERT 1
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9407.ts
+#EXTINF:-1,GR:ERT 2
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9406.ts
+#EXTINF:-1,GR:ERT 3
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9405.ts
+#EXTINF:-1,GR:ERT HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9408.ts
+#EXTINF:-1,GR:EuroNews
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9306.ts
+#EXTINF:-1,GR:EuroSport 1
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9410.ts
+#EXTINF:-1,GR:EXTRA
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9377.ts
+#EXTINF:-1,GR:Fishing Ellinika
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9314.ts
+#EXTINF:-1,GR:Greek Cinema 80s 1
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9345.ts
+#EXTINF:-1,GR:Greek Cinema 80s 2
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9344.ts
+#EXTINF:-1,GR:Greek Cinema 80s 3
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9343.ts
+#EXTINF:-1,GR:Greek Mix
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9342.ts
+#EXTINF:-1,GR:Greek Old Movies 1
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9341.ts
+#EXTINF:-1,GR:Greek Old Movies 2
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9340.ts
+#EXTINF:-1,GR:Greek Old Movies 3
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9339.ts
+#EXTINF:-1,GR:Greek Series 1
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9338.ts
+#EXTINF:-1,GR:Greek Series 2
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9337.ts
+#EXTINF:-1,GR:History HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9319.ts
+#EXTINF:-1,GR:Hunting Ellinika
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9313.ts
+#EXTINF:-1,GR:Ioannina TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9375.ts
+#EXTINF:-1,GR:Kids 1
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9305.ts
+#EXTINF:-1,GR:Kids 10
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9297.ts
+#EXTINF:-1,GR:Kids 2
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9304.ts
+#EXTINF:-1,GR:Kids 3
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9303.ts
+#EXTINF:-1,GR:Kids 4
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9302.ts
+#EXTINF:-1,GR:Kids 5
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9301.ts
+#EXTINF:-1,GR:Kids 6
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9300.ts
+#EXTINF:-1,GR:Kids 7
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9299.ts
+#EXTINF:-1,GR:Kids 9
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9298.ts
+#EXTINF:-1,GR:KONTRA TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9376.ts
+#EXTINF:-1,GR:Krhth Tv
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9374.ts
+#EXTINF:-1,GR:Kriti TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9373.ts
+#EXTINF:-1,GR:MAD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9372.ts
+#EXTINF:-1,GR:MAD TV Cyprus
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9371.ts
+#EXTINF:-1,GR:MAKEDONIA TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9400.ts
+#EXTINF:-1,GR:Makedonia TV HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9401.ts
+#EXTINF:-1,GR:Mega
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9399.ts
+#EXTINF:-1,GR:MegaOne Cyprus
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9398.ts
+#EXTINF:-1,GR:MESSINIA TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9370.ts
+#EXTINF:-1,GR:Nat Geo HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9324.ts
+#EXTINF:-1,GR:Nat Geo Wild
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9322.ts
+#EXTINF:-1,GR:Nat Geo Wild HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9323.ts
+#EXTINF:-1,GR:Nea TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9397.ts
+#EXTINF:-1,GR:Net TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9396.ts
+#EXTINF:-1,GR:Nickelodeon
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9312.ts
+#EXTINF:-1,GR:Nova
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9394.ts
+#EXTINF:-1,GR:Omega TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9395.ts
+#EXTINF:-1,GR:OTE History
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9318.ts
+#EXTINF:-1,GR:RIK SAT
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9369.ts
+#EXTINF:-1,GR:RISE
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9365.ts
+#EXTINF:-1,GR:Samiaki
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9364.ts
+#EXTINF:-1,GR:SBC
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9363.ts
+#EXTINF:-1,GR:Sigma
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9362.ts
+#EXTINF:-1,GR:SKAI
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9360.ts
+#EXTINF:-1,GR:Skai HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9361.ts
+#EXTINF:-1,GR:SMILE
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9359.ts
+#EXTINF:-1,GR:STAR
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9392.ts
+#EXTINF:-1,GR:Star HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9393.ts
+#EXTINF:-1,GR:Sundance HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9336.ts
+#EXTINF:-1,GR:TileSport TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9409.ts
+#EXTINF:-1,GR:TLC
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9315.ts
+#EXTINF:-1,GR:Toronto TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9358.ts
+#EXTINF:-1,GR:Travel Channel HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9316.ts
+#EXTINF:-1,GR:Viasat History
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9317.ts
+#EXTINF:-1,GR:Vouli
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9391.ts
+#EXTINF:-1,GR:Zougla
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9390.ts
+#EXTINF:-1,GR:Zouzounia
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9308.ts
