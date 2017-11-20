@@ -1,65 +1,278 @@
 #EXTM3U
 
-#EXTINF:-1,~ Greece TV ~
-#EXTINF:-1,4E TV
-http://82.192.84.30:554/live/myStream.sdp/playlist.m3u8
-#EXTINF:-1,Acheloos TV
-http://srv.viiideo.gr:1935/axeloos/live/playlist.m3u8
-#EXTINF:-1,Aigaio TV
-http://xaigaiotelevisionx.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:-1,Alpha Cinema (AU)
-http://web.alphastream.eu:1935/neakrith/neakrith/playlist.m3u8
-#EXTINF:-1,ANT1
-http://antglantennatv-lh.akamaihd.net/i/live_1@421307/master.m3u8
-#EXTINF:-1,Cannali TV
-http://live.streams.ovh:1935/cannali/cannali/playlist.m3u8
-#EXTINF:-1,Crete TV
-http://live.cretetv.gr:1935/cretetv/myStream/playlist.m3u8
-#EXTINF:-1,Epsilon TV
-https://57b1c3ae400ed.streamlock.net/live/epsilontv/playlist.m3u8
-#EXTINF:-1,Fox TV
-http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
-#EXTINF:-1,High TV
-http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8
-#EXTINF:-1,Ionian Channel
-http://stream.ioniantv.gr:8081/ionian/live/playlist.m3u8
-#EXTINF:-1,Kontra
-http://flashcloud.mediacdn.com/live/kontratv/.m3u8
-#EXTINF:-1,Lampsi TV
-http://live.streams.ovh:1935/LampsiTV/LampsiTV/playlist.m3u8
-#EXTINF:-1,Life Kids Network
-http://live.streams.ovh:1935/LIFEHD/LIFEHD/playlist.m3u8
-#EXTINF:-1,Makedonia TV
-http://anglantennalive5-lh.akamaihd.net:80/i/live_1@424766/master.m3u8
-#EXTINF:-1,Mega Cosmos (CA)
-http://stream2.svbllc.com:1935/mega/mega.stream/playlist.m3u8
-#EXTINF:-1,Montreal Greek TV (CA)
-http://138.197.136.102:8081/live/greektv/playlist.m3u8
-#EXTINF:-1,Mpaxalo TV
-http://xmpaxalotv1x.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:-1,Nea TV
-http://srv.viiideo.gr:1935/neatv/live/playlist.m3u8
-#EXTINF:-1,NETV (CA)
-http://live.netvtoronto.com:1935/NetvToronto/NetvToronto/playlist.m3u8
-#EXTINF:-1,New Generation
-http://live.streams.ovh:1935/NGradio/NGradio_360p/playlist.m3u8
-#EXTINF:-1,SBC
-http://xsbcgrx.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:-1,Syros TV1
-http://176.9.123.140:1935/msg116s/msg116s/playlist.m3u8
-#EXTINF:-1,Tilesport TV
-http://tv1.streampulse.eu:1935/tilesport/movie1/live.m3u8
-#EXTINF:-1,TV 100
-http://178.62.176.153/hls/tv100/index.m3u8
-#EXTINF:-1,TV Creta
-http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8
-#EXTINF:-1,Vouli TV
-http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
-#EXTINF:-1,Zougla TV
-http://zouglahd-f.akamaihd.net/i/zougla_1@56341/master.m3u8
-#EXTINF:-1,~ Cyprus TV ~
-http://www.lengua.com/anthems/Cyprus.mp3
-#EXTINF:-1,Rik Sat (Greek)
-http://service.webvideocore.net/CL1olYogIrDWvwqiIKK7eLBkzvO18gwo9ERMzsyXzwt_t-ya8ygf2kQBZww38JJT/a_eq473601t9w8.m3u8
-#EXTINF:-1,Sigma TV (Greek)
-http://81.21.47.74/hls/live.m3u8
+#EXTINF:-1,GR: 4E Star
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/17921.ts
+#EXTINF:-1,GR: AB Channel
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/17974.ts
+#EXTINF:-1,GR: ACHAIA TV
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/17986.ts
+#EXTINF:-1,GR: Action 24
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/18010.ts
+#EXTINF:-1,GR: AETOS CINEMA 1
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/18005.ts
+#EXTINF:-1,GR: AETOS CINEMA 2
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/18004.ts
+#EXTINF:-1,GR: AETOS CINEMA 3
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/18003.ts
+#EXTINF:-1,GR: AETOS CINEMA 4
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/18002.ts
+#EXTINF:-1,GR: AETOS CINEMA 5
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/18001.ts
+#EXTINF:-1,GR: Agio Nicolaos
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/17919.ts
+#EXTINF:-1,GR: Alpha
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/18034.ts
+#EXTINF:-1,GR: Alpha ( 10)
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/18031.ts
+#EXTINF:-1,GR: Alpha ( 7)
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/18032.ts
+#EXTINF:-1,GR: Alpha Cinema
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/18009.ts
+#EXTINF:-1,GR: Alpha CY
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/18033.ts
+#EXTINF:-1,GR: Alpha Music
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/18029.ts
+#EXTINF:-1,GR: Alpha Sat
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/18030.ts
+#EXTINF:-1,GR: Animal Planet
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/17980.ts
+#EXTINF:-1,GR: ANT1
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/18037.ts
+#EXTINF:-1,GR: ANT1 CY
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/18035.ts
+#EXTINF:-1,GR: Ant1 HD
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/18036.ts
+#EXTINF:-1,GR: Art
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/17966.ts
+#EXTINF:-1,GR: Astra TV
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/17932.ts
+#EXTINF:-1,GR: ATTICA
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/17924.ts
+#EXTINF:-1,GR: Axelwos TV
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/17967.ts
+#EXTINF:-1,GR: Bakalo Tv
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/17988.ts
+#EXTINF:-1,GR: BEST TV
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/17987.ts
+#EXTINF:-1,GR: BHMA
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/17948.ts
+#EXTINF:-1,GR: BlueSky
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/17968.ts
+#EXTINF:-1,GR: Cannali Musiki
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/17947.ts
+#EXTINF:-1,GR: CARTOONS
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/17983.ts
+#EXTINF:-1,GR: Corfu Channel
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/17977.ts
+#EXTINF:-1,GR: CRETA TV
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/17978.ts
+#EXTINF:-1,GR: CRETE TV
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/17979.ts
+#EXTINF:-1,GR: Delta TV
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/17949.ts
+#EXTINF:-1,GR: DIKTYO
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/17934.ts
+#EXTINF:-1,GR: Discovery Channel
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/17981.ts
+#EXTINF:-1,GR: DNA TV
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/17950.ts
+#EXTINF:-1,GR: E.
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/17951.ts
+#EXTINF:-1,GR: Ellinikos Fm TV
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/17945.ts
+#EXTINF:-1,GR: Ellinikos Palmos
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/17989.ts
+#EXTINF:-1,GR: Epiloges Tv
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/17923.ts
+#EXTINF:-1,GR: EPSILON TV ( 10)
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/18013.ts
+#EXTINF:-1,GR: EPSILON TV ( 7)
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/18014.ts
+#EXTINF:-1,GR: Epsilon TV Cy
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/18015.ts
+#EXTINF:-1,GR: ERT HD
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/18047.ts
+#EXTINF:-1,GR: ERT WORLD
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/18041.ts
+#EXTINF:-1,GR: ERT1
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/18050.ts
+#EXTINF:-1,GR: ERT1  CY
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/18046.ts
+#EXTINF:-1,GR: ERT1 ( 10)
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/18044.ts
+#EXTINF:-1,GR: ERT1 ( 7)
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/18045.ts
+#EXTINF:-1,GR: ERT2
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/18049.ts
+#EXTINF:-1,GR: ERT2  CY
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/18043.ts
+#EXTINF:-1,GR: ERT3
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/18048.ts
+#EXTINF:-1,GR: ERT3  CY
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/18042.ts
+#EXTINF:-1,GR: Euronews Gr
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/17925.ts
+#EXTINF:-1,GR: Eurosport 1
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/17916.ts
+#EXTINF:-1,GR: Eurosport 2
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/17915.ts
+#EXTINF:-1,GR: EXTRA
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/17936.ts
+#EXTINF:-1,GR: FarosOnAir
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/17952.ts
+#EXTINF:-1,GR: foxtv
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/17939.ts
+#EXTINF:-1,GR: Greek Natura
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/17973.ts
+#EXTINF:-1,GR: GreekVoice
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/17933.ts
+#EXTINF:-1,GR: HEART BEAT
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/17942.ts
+#EXTINF:-1,GR: HellasTV
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/17954.ts
+#EXTINF:-1,GR: HIGH TV
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/17955.ts
+#EXTINF:-1,GR: ionanina tv
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/17926.ts
+#EXTINF:-1,GR: IONIAN TV
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/17956.ts
+#EXTINF:-1,GR: Ipiros Tv 1
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/18006.ts
+#EXTINF:-1,GR: JayZeeHD
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/17938.ts
+#EXTINF:-1,GR: KANALI 6
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/17957.ts
+#EXTINF:-1,GR: Kids
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/17982.ts
+#EXTINF:-1,GR: Kontra TV
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/17972.ts
+#EXTINF:-1,GR: KPHTI TV
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/17976.ts
+#EXTINF:-1,GR: Lampsi TV
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/17990.ts
+#EXTINF:-1,GR: LiveCam Beach Ithaca
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/17917.ts
+#EXTINF:-1,GR: LYCHNOS
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/17920.ts
+#EXTINF:-1,GR: Macedonia TV HD
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/17918.ts
+#EXTINF:-1,GR: MAD GR
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/17946.ts
+#EXTINF:-1,GR: Magic TV
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/17991.ts
+#EXTINF:-1,GR: Makedonia Gr
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/17971.ts
+#EXTINF:-1,GR: Mega
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/18028.ts
+#EXTINF:-1,GR: MEGA ( 10)
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/18024.ts
+#EXTINF:-1,GR: MEGA ( 7)
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/18025.ts
+#EXTINF:-1,GR: MEGA COSMOS
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/18026.ts
+#EXTINF:-1,GR: MegaOne
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/18027.ts
+#EXTINF:-1,GR: MESSINIA TV
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/17969.ts
+#EXTINF:-1,GR: Montreal Greek TV
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/17953.ts
+#EXTINF:-1,GR: NEA TV
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/18012.ts
+#EXTINF:-1,GR: NetTV Toronto
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/18007.ts
+#EXTINF:-1,GR: New generation TV
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/17943.ts
+#EXTINF:-1,GR: New Tv
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/17963.ts
+#EXTINF:-1,GR: Nickelodeon
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/17984.ts
+#EXTINF:-1,GR: OMEGA
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/17929.ts
+#EXTINF:-1,GR: OTE SPORT 1
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/17914.ts
+#EXTINF:-1,GR: OTE SPORT 2
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/17913.ts
+#EXTINF:-1,GR: OTE SPORT 3
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/17912.ts
+#EXTINF:-1,GR: OTE SPORT 4
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/17911.ts
+#EXTINF:-1,GR: PLUS
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/18011.ts
+#EXTINF:-1,GR: R CHANNEL
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/17985.ts
+#EXTINF:-1,GR: RIK
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/18038.ts
+#EXTINF:-1,GR: RIK Sat
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/18039.ts
+#EXTINF:-1,GR: SAMIAKI
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/17970.ts
+#EXTINF:-1,GR: SBC
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/17937.ts
+#EXTINF:-1,GR: Sigma
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/17927.ts
+#EXTINF:-1,GR: Skai
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/18023.ts
+#EXTINF:-1,GR: SKAI ( 10)
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/18022.ts
+#EXTINF:-1,GR: Smile
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/17922.ts
+#EXTINF:-1,GR: SPICY bizz
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/17994.ts
+#EXTINF:-1,GR: SPICY Greek
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/17995.ts
+#EXTINF:-1,GR: SPICY Greek Apeiro
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/17996.ts
+#EXTINF:-1,GR: SPICY Greek Palmos
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/17997.ts
+#EXTINF:-1,GR: SPICY TV
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/18000.ts
+#EXTINF:-1,GR: SPICY TV 2
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/17999.ts
+#EXTINF:-1,GR: SPICY TV CINEMANIA
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/17998.ts
+#EXTINF:-1,GR: STAR HD
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/18021.ts
+#EXTINF:-1,GR: Star TV ( 10)
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/18018.ts
+#EXTINF:-1,GR: Star TV ( 7)
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/18020.ts
+#EXTINF:-1,GR: Star TV Live
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/18019.ts
+#EXTINF:-1,GR: Start TV
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/17964.ts
+#EXTINF:-1,GR: SuperStar RTV
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/17940.ts
+#EXTINF:-1,GR: Thema TV
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/17965.ts
+#EXTINF:-1,GR: Tile Musiki
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/17941.ts
+#EXTINF:-1,GR: TILESPORT
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/17928.ts
+#EXTINF:-1,GR: Tinos TV
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/17993.ts
+#EXTINF:-1,GR: Top Kozani
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/17958.ts
+#EXTINF:-1,GR: TRT Greek
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/17935.ts
+#EXTINF:-1,GR: Tv Filopoli
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/17992.ts
+#EXTINF:-1,GR: TV Gold
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/17959.ts
+#EXTINF:-1,GR: TV RYTHMOS 94.3
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/17960.ts
+#EXTINF:-1,GR: TV1 Siros
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/17975.ts
+#EXTINF:-1,GR: TV100
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/17930.ts
+#EXTINF:-1,GR: TVRADI@ VERENIKI
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/17944.ts
+#EXTINF:-1,GR: Volcano TV santorini
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/17961.ts
+#EXTINF:-1,GR: VOULI
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/17931.ts
+#EXTINF:-1,GR: West Channel
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/18008.ts
+#EXTINF:-1,GR: XALASTRA TV
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/17962.ts
+#EXTINF:-1,GR: Zougl@ Tv
+http://star-tv.ddns.me:25461/live/Saverio@vintage/wyfLNYw880/18040.ts
