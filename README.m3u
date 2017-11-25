@@ -1,290 +1,222 @@
 
 #EXTM3U
-#EXTINF:-1, Alpha Sat     
-http://51.15.161.153:1557/live/mustaf/mustafa/4496.ts
-#EXTINF:-1, Star TV Live     
-http://51.15.161.153:1557/live/mustaf/mustafa/4595.ts
-#EXTINF:-1, OTE Sport 4 HD     
-http://51.15.161.153:1557/live/mustaf/mustafa/11307.ts
-#EXTINF:-1, Mega     
-http://51.15.161.153:1557/live/mustaf/mustafa/2309.ts
-#EXTINF:-1, ERT1        
-http://51.15.161.153:1557/live/mustaf/mustafa/4535.ts
-#EXTINF:-1, OTE Cinema 3 HD     
-http://51.15.161.153:1557/live/mustaf/mustafa/11302.ts
-#EXTINF:-1, OTE Sport 3 HD     
-http://51.15.161.153:1557/live/mustaf/mustafa/11306.ts
-#EXTINF:-1, MegaOne     
-http://51.15.161.153:1557/live/mustaf/mustafa/3722.ts
-#EXTINF:-1, Tv Filopoli     
-http://51.15.161.153:1557/live/mustaf/mustafa/4490.ts
-#EXTINF:-1, ANT1     
-http://51.15.161.153:1557/live/mustaf/mustafa/2326.ts
-#EXTINF:-1, RIK   
-http://51.15.161.153:1557/live/mustaf/mustafa/3729.ts
-#EXTINF:-1, TV1 Siros     
-http://51.15.161.153:1557/live/mustaf/mustafa/2959.ts
-#EXTINF:-1, CARTOONS   
-http://51.15.161.153:1557/live/mustaf/mustafa/4566.ts
-#EXTINF:-1, ERT1     
-http://51.15.161.153:1557/live/mustaf/mustafa/2318.ts
-#EXTINF:-1, SKAI        
-http://51.15.161.153:1557/live/mustaf/mustafa/4540.ts
-#EXTINF:-1, NEA TV   
-http://51.15.161.153:1557/live/mustaf/mustafa/4477.ts
-#EXTINF:-1, ERT WORLD     
-http://51.15.161.153:1557/live/mustaf/mustafa/4494.ts
-#EXTINF:-1, Lampsi TV     
-http://51.15.161.153:1557/live/mustaf/mustafa/4521.ts
-#EXTINF:-1, CRETA TV   
-http://51.15.161.153:1557/live/mustaf/mustafa/4478.ts
-#EXTINF:-1, STAR HD     
-http://51.15.161.153:1557/live/mustaf/mustafa/4470.ts
-#EXTINF:-1, Thing Green 
-http://51.15.161.153:1557/live/mustaf/mustafa/4523.ts
-#EXTINF:-1, AB Channel     
-http://51.15.161.153:1557/live/mustaf/mustafa/3726.ts
-#EXTINF:-1, MEGA COSMOS     
-http://51.15.161.153:1557/live/mustaf/mustafa/4495.ts
-#EXTINF:-1, Skai     
-http://51.15.161.153:1557/live/mustaf/mustafa/2303.ts
-#EXTINF:-1, ERT1  CY     
-http://51.15.161.153:1557/live/mustaf/mustafa/4536.ts
-#EXTINF:-1, Alpha Music     
-http://51.15.161.153:1557/live/mustaf/mustafa/4474.ts
-#EXTINF:-1, Magic TV   
-http://51.15.161.153:1557/live/mustaf/mustafa/4492.ts
-#EXTINF:-1, Makedonia Gr     
-http://51.15.161.153:1557/live/mustaf/mustafa/3723.ts
-#EXTINF:-1, RIK Sat   
-http://51.15.161.153:1557/live/mustaf/mustafa/3728.ts
-#EXTINF:-1, ERT3  CY     
-http://51.15.161.153:1557/live/mustaf/mustafa/4538.ts
-#EXTINF:-1, OTE Cinema 2 HD     
-http://51.15.161.153:1557/live/mustaf/mustafa/11301.ts
-#EXTINF:-1, Alpha CY     
-http://51.15.161.153:1557/live/mustaf/mustafa/4543.ts
-#EXTINF:-1, SPICY TV 2   
-http://51.15.161.153:1557/live/mustaf/mustafa/4549.ts
-#EXTINF:-1, MEGA (+7)     
-http://51.15.161.153:1557/live/mustaf/mustafa/4541.ts
-#EXTINF:-1, Alpha     
-http://51.15.161.153:1557/live/mustaf/mustafa/2327.ts
-#EXTINF:-1, Ant1 HD     
-http://51.15.161.153:1557/live/mustaf/mustafa/3731.ts
-#EXTINF:-1, SPICY Greek     
-http://51.15.161.153:1557/live/mustaf/mustafa/4551.ts
-#EXTINF:-1, BEST TV     
-http://51.15.161.153:1557/live/mustaf/mustafa/4486.ts
-#EXTINF:-1, OTE Cinema 1 HD     
-http://51.15.161.153:1557/live/mustaf/mustafa/11300.ts
-#EXTINF:-1, NetTV Toronto  
-http://51.15.161.153:1557/live/mustaf/mustafa/3732.ts
-#EXTINF:-1, ANT1 CY   
-http://51.15.161.153:1557/live/mustaf/mustafa/4484.ts
-#EXTINF:-1, Zougl@ Tv     
-http://51.15.161.153:1557/live/mustaf/mustafa/2329.ts
-#EXTINF:-1, OTE Sport 2 HD     
-http://51.15.161.153:1557/live/mustaf/mustafa/11305.ts
-#EXTINF:-1, KPHTI TV   
-http://51.15.161.153:1557/live/mustaf/mustafa/2312.ts
-#EXTINF:-1, MEGA        
-http://51.15.161.153:1557/live/mustaf/mustafa/4542.ts
-#EXTINF:-1, Animal Planet 
-http://51.15.161.153:1557/live/mustaf/mustafa/6284.ts
-#EXTINF:-1, OTE Sport 8 HD     
-http://51.15.161.153:1557/live/mustaf/mustafa/11311.ts
-#EXTINF:-1, Action 24  
-http://51.15.161.153:1557/live/mustaf/mustafa/3727.ts
-#EXTINF:-1, Reload Bizz  
-http://51.15.161.153:1557/live/mustaf/mustafa/4544.ts
-#EXTINF:-1, Alpha        
-http://51.15.161.153:1557/live/mustaf/mustafa/4546.ts
-#EXTINF:-1, OTE Sport 1 HD     
-http://51.15.161.153:1557/live/mustaf/mustafa/11304.ts
-#EXTINF:-1, SAMIAKI   
-http://51.15.161.153:1557/live/mustaf/mustafa/2305.ts
-#EXTINF:-1, MESSINIA TV     
-http://51.15.161.153:1557/live/mustaf/mustafa/2308.ts
-#EXTINF:-1, BlueSky   
-http://51.15.161.153:1557/live/mustaf/mustafa/1642.ts
-#EXTINF:-1, Four Wheels TV     
-http://51.15.161.153:1557/live/mustaf/mustafa/2301.ts
-#EXTINF:-1, EPSILON TV  
-http://51.15.161.153:1557/live/mustaf/mustafa/4567.ts
-#EXTINF:-1, Start TV  
-http://51.15.161.153:1557/live/mustaf/mustafa/2313.ts
-#EXTINF:-1, EPSILON TV        
-http://51.15.161.153:1557/live/mustaf/mustafa/4568.ts
-#EXTINF:-1, Horse Races     
-http://51.15.161.153:1557/live/mustaf/mustafa/3730.ts
-#EXTINF:-1, Volcano TV santorini     
-http://51.15.161.153:1557/live/mustaf/mustafa/4562.ts
-#EXTINF:-1, West Channel   
-http://51.15.161.153:1557/live/mustaf/mustafa/3738.ts
-#EXTINF:-1, Fox Tv  
-http://51.15.161.153:1557/live/mustaf/mustafa/4483.ts
-#EXTINF:-1, KANALI 6  
-http://51.15.161.153:1557/live/mustaf/mustafa/4473.ts
-#EXTINF:-1, IONIAN TV     
-http://51.15.161.153:1557/live/mustaf/mustafa/4493.ts
-#EXTINF:-1, HellasTV  
-http://51.15.161.153:1557/live/mustaf/mustafa/4491.ts
-#EXTINF:-1, SPICY TV 
-http://51.15.161.153:1557/live/mustaf/mustafa/4548.ts
-#EXTINF:-1, FarosOnAir  
-http://51.15.161.153:1557/live/mustaf/mustafa/4565.ts
-#EXTINF:-1, SPICY TV CINEMANIA  
-http://51.15.161.153:1557/live/mustaf/mustafa/4570.ts
-#EXTINF:-1, Kids TV  
-http://51.15.161.153:1557/live/mustaf/mustafa/4569.ts
-#EXTINF:-1, Reload     
-http://51.15.161.153:1557/live/mustaf/mustafa/4552.ts
-#EXTINF:-1, Ipiros Tv 1     
-http://51.15.161.153:1557/live/mustaf/mustafa/2307.ts
-#EXTINF:-1, Cannali Musiki  
-http://51.15.161.153:1557/live/mustaf/mustafa/3733.ts
-#EXTINF:-1, MAD GR   
-http://51.15.161.153:1557/live/mustaf/mustafa/3724.ts
-#EXTINF:-1, Ellinikos Fm TV  
-http://51.15.161.153:1557/live/mustaf/mustafa/2321.ts
-#EXTINF:-1, New generation TV     
-http://51.15.161.153:1557/live/mustaf/mustafa/4555.ts
-#EXTINF:-1, SuperStar RTV   
-http://51.15.161.153:1557/live/mustaf/mustafa/4559.ts
-#EXTINF:-1, Spir Tv  
-http://51.15.161.153:1557/live/mustaf/mustafa/4485.ts
-#EXTINF:-1, EXTRA     
-http://51.15.161.153:1557/live/mustaf/mustafa/2314.ts
-#EXTINF:-1, TRT Greek 
-http://51.15.161.153:1557/live/mustaf/mustafa/2310.ts
-#EXTINF:-1, VOULI     
-http://51.15.161.153:1557/live/mustaf/mustafa/2297.ts
-#EXTINF:-1, TV100 
-http://51.15.161.153:1557/live/mustaf/mustafa/1648.ts
-#EXTINF:-1, RIK 1     
-http://51.15.161.153:1557/live/mustaf/mustafa/3736.ts
-#EXTINF:-1, Euronews Gr  
-http://51.15.161.153:1557/live/mustaf/mustafa/3734.ts
-#EXTINF:-1, Macedonia TV HD  
-http://51.15.161.153:1557/live/mustaf/mustafa/4594.ts
-#EXTINF:-1, New Tv     
-http://51.15.161.153:1557/live/mustaf/mustafa/2320.ts
-#EXTINF:-1, Eurosport 2     
-http://51.15.161.153:1557/live/mustaf/mustafa/2315.ts
-#EXTINF:-1, DNA TV  
-http://51.15.161.153:1557/live/mustaf/mustafa/4571.ts
-#EXTINF:-1, CineFil     
-http://51.15.161.153:1557/live/mustaf/mustafa/4557.ts
-#EXTINF:-1, JayZeeHD     
-http://51.15.161.153:1557/live/mustaf/mustafa/2325.ts
-#EXTINF:-1, Tile Musiki     
-http://51.15.161.153:1557/live/mustaf/mustafa/4524.ts
-#EXTINF:-1, DIKTYO     
-http://51.15.161.153:1557/live/mustaf/mustafa/2298.ts
-#EXTINF:-1, Adams Beach Hotel CY     
-http://51.15.161.153:1557/live/mustaf/mustafa/3735.ts
-#EXTINF:-1, Epiloges Tv     
-http://51.15.161.153:1557/live/mustaf/mustafa/3740.ts
-#EXTINF:-1, ERT3     
-http://51.15.161.153:1557/live/mustaf/mustafa/2319.ts
-#EXTINF:-1, Smile     
-http://51.15.161.153:1557/live/mustaf/mustafa/3721.ts
-#EXTINF:-1, Cinemania     
-http://51.15.161.153:1557/live/mustaf/mustafa/4592.ts
-#EXTINF:-1, ERT2     
-http://51.15.161.153:1557/live/mustaf/mustafa/2317.ts
-#EXTINF:-1, ERT HD     
-http://51.15.161.153:1557/live/mustaf/mustafa/4539.ts
-#EXTINF:-1, ERT 1     
-http://54.36.51.53:8000/live/ampadu/ampadu/4072.ts
-#EXTINF:-1, ANT1     
-http://54.36.51.53:8000/live/ampadu/ampadu/4075.ts
-#EXTINF:-1, Skai Greece     
-http://54.36.51.53:8000/live/ampadu/ampadu/4068.ts
-#EXTINF:-1, Mega     
-http://54.36.51.53:8000/live/ampadu/ampadu/4077.ts
-#EXTINF:-1, National Geographic     
-http://54.36.51.53:8000/live/ampadu/ampadu/4069.ts
-#EXTINF:-1, Euronews     
-http://54.36.51.53:8000/live/ampadu/ampadu/4070.ts
-#EXTINF:-1, MAD TV     
-http://54.36.51.53:8000/live/ampadu/ampadu/4071.ts
-#EXTINF:-1, Ant1 Cy     
-http://54.36.51.53:8000/live/ampadu/ampadu/4078.ts
-#EXTINF:-1, Zougla TV     
-http://54.36.51.53:8000/live/ampadu/ampadu/4062.ts
-#EXTINF:-1, Zougla     
-http://54.36.51.53:8000/live/ampadu/ampadu/4067.ts
-#EXTINF:-1, Sbc     
-http://54.36.51.53:8000/live/ampadu/ampadu/4073.ts
-#EXTINF:-1, Nea     
-http://54.36.51.53:8000/live/ampadu/ampadu/4063.ts
-#EXTINF:-1, KPHTH TV     
-http://54.36.51.53:8000/live/ampadu/ampadu/4064.ts
-#EXTINF:-1, History Channel     
-http://54.36.51.53:8000/live/ampadu/ampadu/4066.ts
-#EXTINF:-1, Alpha     
-http://54.36.51.53:8000/live/ampadu/ampadu/4074.ts
-#EXTINF:-1, Mana Ellada     
-http://54.36.51.53:8000/live/ampadu/ampadu/4065.ts
-#EXTINF:-1, TV 4E     
-http://54.36.51.53:8000/live/ampadu/ampadu/4060.ts
-#EXTINF:-1, Wzra Kids     
-http://54.36.51.53:8000/live/ampadu/ampadu/4061.ts
-#EXTINF:-1, Star     
-http://54.36.51.53:8000/live/ampadu/ampadu/4076.ts
-#EXTINF:-1, Syros TV1     
-http://54.36.51.53:8000/live/ampadu/ampadu/4059.ts
-#EXTINF:-1, Alpha     
-http://xtreme.webhop.me:8000/live/ampadu/ampadu/4074.ts
-#EXTINF:-1, Ant1 Cy  
-http://xtreme.webhop.me:8000/live/ampadu/ampadu/4078.ts
-#EXTINF:-1, ANT1     
-http://xtreme.webhop.me:8000/live/ampadu/ampadu/4075.ts
-#EXTINF:-1, ERT 1     
-http://xtreme.webhop.me:8000/live/ampadu/ampadu/4072.ts
-#EXTINF:-1, TV 4E   
-http://xtreme.webhop.me:8000/live/ampadu/ampadu/4060.ts
-#EXTINF:-1, National Geographic     
-http://xtreme.webhop.me:8000/live/ampadu/ampadu/4069.ts
-#EXTINF:-1, Skai Greece     
-http://xtreme.webhop.me:8000/live/ampadu/ampadu/4068.ts
-#EXTINF:-1, Zougla TV     
-http://xtreme.webhop.me:8000/live/ampadu/ampadu/4062.ts
-#EXTINF:-1, KPHTH TV   
-http://xtreme.webhop.me:8000/live/ampadu/ampadu/4064.ts
-#EXTINF:-1, Euronews     
-http://xtreme.webhop.me:8000/live/ampadu/ampadu/4070.ts
-#EXTINF:-1, Star  
-http://xtreme.webhop.me:8000/live/ampadu/ampadu/4076.ts
-#EXTINF:-1, Zougla     
-http://xtreme.webhop.me:8000/live/ampadu/ampadu/4067.ts
-#EXTINF:-1, Syros TV1     
-http://xtreme.webhop.me:8000/live/ampadu/ampadu/4059.ts
-#EXTINF:-1, History Channel     
-http://xtreme.webhop.me:8000/live/ampadu/ampadu/4066.ts
-#EXTINF:-1, Mana Ellada     
-http://xtreme.webhop.me:8000/live/ampadu/ampadu/4065.ts
-#EXTINF:-1, Mega     
-http://xtreme.webhop.me:8000/live/ampadu/ampadu/4077.ts
-#EXTINF:-1, MAD TV     
-http://xtreme.webhop.me:8000/live/ampadu/ampadu/4071.ts
-#EXTINF:-1, Sbc     
-http://xtreme.webhop.me:8000/live/ampadu/ampadu/4073.ts
-#EXTINF:-1, Wzra Kids     
-http://xtreme.webhop.me:8000/live/ampadu/ampadu/4061.ts
-#EXTINF:-1, Nea     
-http://xtreme.webhop.me:8000/live/ampadu/ampadu/4063.ts
-#EXTINF:-1, EPT 1 HD     
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/4625.ts
-#EXTINF:-1, ANT1 HD     
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/4622.ts
-#EXTINF:-1, ERT PLAY   [1920x1088]
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/4628.ts
-#EXTINF:-1, MEGA ONE     
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/4631.ts
-#EXTINF:-1, EPT 2 HD     
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/4626.ts
-#EXTINF:-1, ERT WORLD HD     
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/4629.ts
+#EXTINF:-1,GR:4E Star
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9388.ts
+#EXTINF:-1,GR:AB Channel
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9389.ts
+#EXTINF:-1,GR:Acheloos TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9387.ts
+#EXTINF:-1,GR:ACTION 24
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9386.ts
+#EXTINF:-1,GR:Alpha Cyprus
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9384.ts
+#EXTINF:-1,GR:Alpha HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9385.ts
+#EXTINF:-1,GR:Animal Planet
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9320.ts
+#EXTINF:-1,GR:Animal Planet HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9321.ts
+#EXTINF:-1,GR:ANT1 HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9383.ts
+#EXTINF:-1,GR:ART Channel
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9382.ts
+#EXTINF:-1,GR:Baby TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9307.ts
+#EXTINF:-1,GR:Best Movies 1
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9351.ts
+#EXTINF:-1,GR:Best Movies 2
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9350.ts
+#EXTINF:-1,GR:Best Movies 3
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9349.ts
+#EXTINF:-1,GR:Best Movies 4
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9348.ts
+#EXTINF:-1,GR:Best Movies 5
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9347.ts
+#EXTINF:-1,GR:Best Movies 6
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9346.ts
+#EXTINF:-1,GR:Capital Cyprus
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9381.ts
+#EXTINF:-1,GR:CHANNEL 9
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9380.ts
+#EXTINF:-1,GR:Cinemaeek 1
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9353.ts
+#EXTINF:-1,GR:Cinemaeek 2
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9352.ts
+#EXTINF:-1,GR:Cosmote Sport 1 HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9418.ts
+#EXTINF:-1,GR:Cosmote Sport 2 HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9417.ts
+#EXTINF:-1,GR:Cosmote Sport 3 HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9416.ts
+#EXTINF:-1,GR:Cosmote Sport 4 HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9415.ts
+#EXTINF:-1,GR:Cosmote Sport 5 HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9414.ts
+#EXTINF:-1,GR:Cosmote Sport 6 HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9413.ts
+#EXTINF:-1,GR:Cosmote Sport 7 HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9412.ts
+#EXTINF:-1,GR:Cosmote Sport 8 HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9411.ts
+#EXTINF:-1,GR:Creta Web TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9379.ts
+#EXTINF:-1,GR:Discovery Channel
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9330.ts
+#EXTINF:-1,GR:Discovery ID
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9328.ts
+#EXTINF:-1,GR:Discovery IDX
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9327.ts
+#EXTINF:-1,GR:Discovery Science
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9326.ts
+#EXTINF:-1,GR:Discovery ShowCase HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9329.ts
+#EXTINF:-1,GR:Disney Channel
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9311.ts
+#EXTINF:-1,GR:Disney Junior
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9310.ts
+#EXTINF:-1,GR:Disney XD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9309.ts
+#EXTINF:-1,GR:DS
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9378.ts
+#EXTINF:-1,GR:E!
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9331.ts
+#EXTINF:-1,GR:Epirus TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9332.ts
+#EXTINF:-1,GR:EPSILON
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9402.ts
+#EXTINF:-1,GR:Epsilon HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9403.ts
+#EXTINF:-1,GR:ERT 1
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9407.ts
+#EXTINF:-1,GR:ERT 2
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9406.ts
+#EXTINF:-1,GR:ERT 3
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9405.ts
+#EXTINF:-1,GR:ERT HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9408.ts
+#EXTINF:-1,GR:EuroNews
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9306.ts
+#EXTINF:-1,GR:EuroSport 1
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9410.ts
+#EXTINF:-1,GR:EXTRA
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9377.ts
+#EXTINF:-1,GR:Fishing Ellinika
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9314.ts
+#EXTINF:-1,GR:Greek Cinema 80s 1
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9345.ts
+#EXTINF:-1,GR:Greek Cinema 80s 2
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9344.ts
+#EXTINF:-1,GR:Greek Cinema 80s 3
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9343.ts
+#EXTINF:-1,GR:Greek Mix
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9342.ts
+#EXTINF:-1,GR:Greek Old Movies 1
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9341.ts
+#EXTINF:-1,GR:Greek Old Movies 2
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9340.ts
+#EXTINF:-1,GR:Greek Old Movies 3
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9339.ts
+#EXTINF:-1,GR:Greek Series 1
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9338.ts
+#EXTINF:-1,GR:Greek Series 2
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9337.ts
+#EXTINF:-1,GR:History HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9319.ts
+#EXTINF:-1,GR:Hunting Ellinika
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9313.ts
+#EXTINF:-1,GR:Ioannina TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9375.ts
+#EXTINF:-1,GR:Kids 1
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9305.ts
+#EXTINF:-1,GR:Kids 10
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9297.ts
+#EXTINF:-1,GR:Kids 2
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9304.ts
+#EXTINF:-1,GR:Kids 3
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9303.ts
+#EXTINF:-1,GR:Kids 4
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9302.ts
+#EXTINF:-1,GR:Kids 5
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9301.ts
+#EXTINF:-1,GR:Kids 6
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9300.ts
+#EXTINF:-1,GR:Kids 7
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9299.ts
+#EXTINF:-1,GR:Kids 9
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9298.ts
+#EXTINF:-1,GR:KONTRA TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9376.ts
+#EXTINF:-1,GR:Krhth Tv
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9374.ts
+#EXTINF:-1,GR:Kriti TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9373.ts
+#EXTINF:-1,GR:MAD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9372.ts
+#EXTINF:-1,GR:MAD TV Cyprus
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9371.ts
+#EXTINF:-1,GR:MAKEDONIA TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9400.ts
+#EXTINF:-1,GR:Makedonia TV HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9401.ts
+#EXTINF:-1,GR:Mega
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9399.ts
+#EXTINF:-1,GR:MegaOne Cyprus
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9398.ts
+#EXTINF:-1,GR:MESSINIA TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9370.ts
+#EXTINF:-1,GR:Nat Geo HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9324.ts
+#EXTINF:-1,GR:Nat Geo Wild
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9322.ts
+#EXTINF:-1,GR:Nat Geo Wild HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9323.ts
+#EXTINF:-1,GR:Nea TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9397.ts
+#EXTINF:-1,GR:Net TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9396.ts
+#EXTINF:-1,GR:Nickelodeon
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9312.ts
+#EXTINF:-1,GR:Nova
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9394.ts
+#EXTINF:-1,GR:Omega TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9395.ts
+#EXTINF:-1,GR:OTE History
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9318.ts
+#EXTINF:-1,GR:RIK SAT
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9369.ts
+#EXTINF:-1,GR:RISE
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9365.ts
+#EXTINF:-1,GR:Samiaki
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9364.ts
+#EXTINF:-1,GR:SBC
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9363.ts
+#EXTINF:-1,GR:Sigma
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9362.ts
+#EXTINF:-1,GR:SKAI
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9360.ts
+#EXTINF:-1,GR:Skai HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9361.ts
+#EXTINF:-1,GR:SMILE
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9359.ts
+#EXTINF:-1,GR:STAR
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9392.ts
+#EXTINF:-1,GR:Star HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9393.ts
+#EXTINF:-1,GR:Sundance HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9336.ts
+#EXTINF:-1,GR:TileSport TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9409.ts
+#EXTINF:-1,GR:TLC
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9315.ts
+#EXTINF:-1,GR:Toronto TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9358.ts
+#EXTINF:-1,GR:Travel Channel HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9316.ts
+#EXTINF:-1,GR:Viasat History
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9317.ts
+#EXTINF:-1,GR:Vouli
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9391.ts
+#EXTINF:-1,GR:Zougla
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9390.ts
+#EXTINF:-1,GR:Zouzounia
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9308.ts
