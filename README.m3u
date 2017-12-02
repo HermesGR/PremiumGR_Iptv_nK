@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:-1,OTE Sport 1 HD GR
 http://portal.geniptv.com:8080/live/burhan1/burhan1/5702.ts
 #EXTINF:-1,OTE Sport 2 HD GR
@@ -16,20 +15,8 @@ http://portal.geniptv.com:8080/live/burhan1/burhan1/5707.ts
 http://portal.geniptv.com:8080/live/burhan1/burhan1/5708.ts
 #EXTINF:-1,OTE Sport 8 HD GR
 http://portal.geniptv.com:8080/live/burhan1/burhan1/5709.ts
-#EXTINF:-1,Edge Sports FHD GR
-http://portal.geniptv.com:8080/live/burhan1/burhan1/7067.ts
 #EXTINF:-1,EuroSport 1 GR
 http://portal.geniptv.com:8080/live/burhan1/burhan1/2212.ts
-#EXTINF:-1,EuroSport 2 GR
-http://portal.geniptv.com:8080/live/burhan1/burhan1/7069.ts
-#EXTINF:-1,Motor Vision GR
-http://portal.geniptv.com:8080/live/burhan1/burhan1/7068.ts
-#EXTINF:-1,NovaSports 1 GR
-http://portal.geniptv.com:8080/live/burhan1/burhan1/7071.ts
-#EXTINF:-1,NovaSports 2 GR
-http://portal.geniptv.com:8080/live/burhan1/burhan1/7070.ts
-#EXTINF:-1,NovaSport 2 GR
-http://portal.geniptv.com:8080/live/burhan1/burhan1/5880.ts
 #EXTINF:-1,OTE Cinema 1 FHD GR
 http://portal.geniptv.com:8080/live/burhan1/burhan1/7081.ts
 #EXTINF:-1,OTE Cinema 1 HD GR
@@ -42,36 +29,16 @@ http://portal.geniptv.com:8080/live/burhan1/burhan1/6111.ts
 http://portal.geniptv.com:8080/live/burhan1/burhan1/7077.ts
 #EXTINF:-1,OTE Cinema 4 HD GR
 http://portal.geniptv.com:8080/live/burhan1/burhan1/7076.ts
-#EXTINF:-1,NovaCinema 1 HD GR
-http://portal.geniptv.com:8080/live/burhan1/burhan1/5881.ts
-#EXTINF:-1,Nova Cinema 2 HD GR
-http://portal.geniptv.com:8080/live/burhan1/burhan1/7080.ts
-#EXTINF:-1,NovaCinema 3 HD GR
-http://portal.geniptv.com:8080/live/burhan1/burhan1/7079.ts
-#EXTINF:-1,NovaCinema 4 HD GR
-http://portal.geniptv.com:8080/live/burhan1/burhan1/7078.ts
+#EXTINF:-1,Village HD GR
+http://portal.geniptv.com:8080/live/burhan1/burhan1/7075.ts
+#EXTINF:-1,Sundance HD GR
+http://portal.geniptv.com:8080/live/burhan1/burhan1/7072.ts
+#EXTINF:-1,TLC GR
+http://portal.geniptv.com:8080/live/burhan1/burhan1/5856.ts
 #EXTINF:-1,Animal Planet GR
 http://portal.geniptv.com:8080/live/burhan1/burhan1/2237.ts
 #EXTINF:-1,Animal Planet HD GR
 http://portal.geniptv.com:8080/live/burhan1/burhan1/5862.ts
-#EXTINF:-1,Best Movies 1 GR
-http://portal.geniptv.com:8080/live/burhan1/burhan1/5879.ts
-#EXTINF:-1,Best Movies 2 GR
-http://portal.geniptv.com:8080/live/burhan1/burhan1/5878.ts
-#EXTINF:-1,Best Movies 3 GR
-http://portal.geniptv.com:8080/live/burhan1/burhan1/5877.ts
-#EXTINF:-1,Best Movies 4 GR
-http://portal.geniptv.com:8080/live/burhan1/burhan1/5876.ts
-#EXTINF:-1,Best Movies 5 GR
-http://portal.geniptv.com:8080/live/burhan1/burhan1/5875.ts
-#EXTINF:-1,Best Movies 6 GR
-http://portal.geniptv.com:8080/live/burhan1/burhan1/5874.ts
-#EXTINF:-1,Cinema Greek 1 GR
-http://portal.geniptv.com:8080/live/burhan1/burhan1/5873.ts
-#EXTINF:-1,Cinema Greek 2 GR
-http://portal.geniptv.com:8080/live/burhan1/burhan1/5872.ts
-#EXTINF:-1,Crime Investigation HD GR
-http://portal.geniptv.com:8080/live/burhan1/burhan1/2198.ts
 #EXTINF:-1,Discovery Channel GR
 http://portal.geniptv.com:8080/live/burhan1/burhan1/2232.ts
 #EXTINF:-1,Discovery ID GR
@@ -82,72 +49,38 @@ http://portal.geniptv.com:8080/live/burhan1/burhan1/5860.ts
 http://portal.geniptv.com:8080/live/burhan1/burhan1/5857.ts
 #EXTINF:-1,Discovery ShowCase HD GR
 http://portal.geniptv.com:8080/live/burhan1/burhan1/2197.ts
-#EXTINF:-1,Disney Channel GR
-http://portal.geniptv.com:8080/live/burhan1/burhan1/5853.ts
-#EXTINF:-1,Disney Junior GR
-http://portal.geniptv.com:8080/live/burhan1/burhan1/5852.ts
-#EXTINF:-1,Disney XD GR
-http://portal.geniptv.com:8080/live/burhan1/burhan1/5851.ts
-#EXTINF:-1,E! GR
-http://portal.geniptv.com:8080/live/burhan1/burhan1/2216.ts
-#EXTINF:-1,E! HD GR
-http://portal.geniptv.com:8080/live/burhan1/burhan1/5825.ts
-#EXTINF:-1,Food Network FHD GR
-http://portal.geniptv.com:8080/live/burhan1/burhan1/5858.ts
-#EXTINF:-1,Fox HD GR
-http://portal.geniptv.com:8080/live/burhan1/burhan1/7074.ts
-#EXTINF:-1,Fox Life HD GR
-http://portal.geniptv.com:8080/live/burhan1/burhan1/7073.ts
-#EXTINF:-1,Greek Cinema 80s 1 GR
-http://portal.geniptv.com:8080/live/burhan1/burhan1/5871.ts
-#EXTINF:-1,Greek Cinema 80s 2 GR
-http://portal.geniptv.com:8080/live/burhan1/burhan1/5870.ts
-#EXTINF:-1,Greek Cinema 80s 3 GR
-http://portal.geniptv.com:8080/live/burhan1/burhan1/5869.ts
-#EXTINF:-1,Greek Mix GR
-http://portal.geniptv.com:8080/live/burhan1/burhan1/5837.ts
-#EXTINF:-1,Greek Old Movies 1 GR
-http://portal.geniptv.com:8080/live/burhan1/burhan1/5868.ts
-#EXTINF:-1,Greek Old Movies 2 GR
-http://portal.geniptv.com:8080/live/burhan1/burhan1/5867.ts
-#EXTINF:-1,Greek Old Movies 3 GR
-http://portal.geniptv.com:8080/live/burhan1/burhan1/5866.ts
-#EXTINF:-1,Greek Series 1 GR
-http://portal.geniptv.com:8080/live/burhan1/burhan1/5865.ts
-#EXTINF:-1,Greek Series 2 GR
-http://portal.geniptv.com:8080/live/burhan1/burhan1/5864.ts
+#EXTINF:-1,OTE History GR
+http://portal.geniptv.com:8080/live/burhan1/burhan1/5863.ts
 #EXTINF:-1,History HD GR
 http://portal.geniptv.com:8080/live/burhan1/burhan1/2233.ts
-#EXTINF:-1,Kids 1 GR
-http://portal.geniptv.com:8080/live/burhan1/burhan1/5849.ts
-#EXTINF:-1,Kids 2 GR
-http://portal.geniptv.com:8080/live/burhan1/burhan1/5848.ts
-#EXTINF:-1,Kids 3 GR
-http://portal.geniptv.com:8080/live/burhan1/burhan1/5847.ts
-#EXTINF:-1,Kids 4 GR
-http://portal.geniptv.com:8080/live/burhan1/burhan1/5846.ts
-#EXTINF:-1,Kids 5 GR
-http://portal.geniptv.com:8080/live/burhan1/burhan1/5845.ts
-#EXTINF:-1,TVOne Cyprus GR
-http://portal.geniptv.com:8080/live/burhan1/burhan1/5844.ts
-#EXTINF:-1,Rise FHD GR
-http://portal.geniptv.com:8080/live/burhan1/burhan1/5843.ts
-#EXTINF:-1,Body In Balance GR
-http://portal.geniptv.com:8080/live/burhan1/burhan1/5841.ts
-#EXTINF:-1,Discovery Turbo Xtra GR
-http://portal.geniptv.com:8080/live/burhan1/burhan1/5840.ts
 #EXTINF:-1,Nat Geo HD GR
 http://portal.geniptv.com:8080/live/burhan1/burhan1/2236.ts
 #EXTINF:-1,Nat Geo Wild HD GR
 http://portal.geniptv.com:8080/live/burhan1/burhan1/2234.ts
 #EXTINF:-1,Nautical Channel FHD GR
 http://portal.geniptv.com:8080/live/burhan1/burhan1/5838.ts
+#EXTINF:-1,Travel Channel HD GR
+http://portal.geniptv.com:8080/live/burhan1/burhan1/2211.ts
+#EXTINF:-1,Viasat History GR
+http://portal.geniptv.com:8080/live/burhan1/burhan1/5861.ts
 #EXTINF:-1,Nickelodeon GR
 http://portal.geniptv.com:8080/live/burhan1/burhan1/2196.ts
-#EXTINF:-1,Nova GR
-http://portal.geniptv.com:8080/live/burhan1/burhan1/2204.ts
-#EXTINF:-1,OTE History GR
-http://portal.geniptv.com:8080/live/burhan1/burhan1/5863.ts
+#EXTINF:-1,Disney Channel GR
+http://portal.geniptv.com:8080/live/burhan1/burhan1/5853.ts
+#EXTINF:-1,Disney Junior GR
+http://portal.geniptv.com:8080/live/burhan1/burhan1/5852.ts
+#EXTINF:-1,Disney XD GR
+http://portal.geniptv.com:8080/live/burhan1/burhan1/5851.ts
+#EXTINF:-1,Fox HD GR
+http://portal.geniptv.com:8080/live/burhan1/burhan1/7074.ts
+#EXTINF:-1,Fox Life HD GR
+http://portal.geniptv.com:8080/live/burhan1/burhan1/7073.ts
+#EXTINF:-1,TVOne Cyprus GR
+http://portal.geniptv.com:8080/live/burhan1/burhan1/5844.ts
+#EXTINF:-1,Rise FHD GR
+http://portal.geniptv.com:8080/live/burhan1/burhan1/5843.ts
+#EXTINF:-1,Body In Balance GR
+http://portal.geniptv.com:8080/live/burhan1/burhan1/5841.ts
 #EXTINF:-1,Skai GR
 http://portal.geniptv.com:8080/live/burhan1/burhan1/2201.ts
 #EXTINF:-1,Skai HD GR
@@ -156,15 +89,6 @@ http://portal.geniptv.com:8080/live/burhan1/burhan1/5832.ts
 http://portal.geniptv.com:8080/live/burhan1/burhan1/2199.ts
 #EXTINF:-1,Star HD GR
 http://portal.geniptv.com:8080/live/burhan1/burhan1/5831.ts
-#EXTINF:-1,Sundance HD GR
-http://portal.geniptv.com:8080/live/burhan1/burhan1/7072.ts
-#EXTINF:-1,TLC GR
-http://portal.geniptv.com:8080/live/burhan1/burhan1/5856.ts
-#EXTINF:-1,Travel Channel HD GR
-http://portal.geniptv.com:8080/live/burhan1/burhan1/2211.ts
-#EXTINF:-1,Viasat History GR
-http://portal.geniptv.com:8080/live/burhan1/burhan1/5861.ts
-#EXTINF:-1,Village HD GR
-http://portal.geniptv.com:8080/live/burhan1/burhan1/7075.ts
-#EXTINF:-1,Vouli GR
-http://portal.geniptv.com:8080/live/burhan1
+#EXTINF:-1,Nova GR
+http://portal.geniptv.com:8080/live/burhan1/burhan1/2204.ts
+
