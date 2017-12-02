@@ -1,19 +1,11 @@
 #EXTM3U
 
-#EXTINF:-1,OTE Sport 1 GR
-http://portal.geniptv.com:8080/live/burhan1/burhan1/2225.ts
 #EXTINF:-1,OTE Sport 1 HD GR
 http://portal.geniptv.com:8080/live/burhan1/burhan1/5702.ts
-#EXTINF:-1,OTE Sport 2 GR
-http://portal.geniptv.com:8080/live/burhan1/burhan1/2224.ts
 #EXTINF:-1,OTE Sport 2 HD GR
 http://portal.geniptv.com:8080/live/burhan1/burhan1/5703.ts
-#EXTINF:-1,OTE Sport 3 GR
-http://portal.geniptv.com:8080/live/burhan1/burhan1/2223.ts
 #EXTINF:-1,OTE Sport 3 HD GR
 http://portal.geniptv.com:8080/live/burhan1/burhan1/5704.ts
-#EXTINF:-1,OTE Sport 4 GR
-http://portal.geniptv.com:8080/live/burhan1/burhan1/2222.ts
 #EXTINF:-1,OTE Sport 4 HD GR
 http://portal.geniptv.com:8080/live/burhan1/burhan1/5705.ts
 #EXTINF:-1,OTE Sport 5 HD GR
