@@ -1,94 +1,677 @@
 #EXTM3U
-#EXTINF:-1,OTE Sport 1 HD GR
-http://portal.geniptv.com:8080/live/burhan1/burhan1/5702.ts
-#EXTINF:-1,OTE Sport 2 HD GR
-http://portal.geniptv.com:8080/live/burhan1/burhan1/5703.ts
-#EXTINF:-1,OTE Sport 3 HD GR
-http://portal.geniptv.com:8080/live/burhan1/burhan1/5704.ts
-#EXTINF:-1,OTE Sport 4 HD GR
-http://portal.geniptv.com:8080/live/burhan1/burhan1/5705.ts
-#EXTINF:-1,OTE Sport 5 HD GR
-http://portal.geniptv.com:8080/live/burhan1/burhan1/5706.ts
-#EXTINF:-1,OTE Sport 6 HD GR
-http://portal.geniptv.com:8080/live/burhan1/burhan1/5707.ts
-#EXTINF:-1,OTE Sport 7 HD GR
-http://portal.geniptv.com:8080/live/burhan1/burhan1/5708.ts
-#EXTINF:-1,OTE Sport 8 HD GR
-http://portal.geniptv.com:8080/live/burhan1/burhan1/5709.ts
-#EXTINF:-1,EuroSport 1 GR
-http://portal.geniptv.com:8080/live/burhan1/burhan1/2212.ts
-#EXTINF:-1,OTE Cinema 1 FHD GR
-http://portal.geniptv.com:8080/live/burhan1/burhan1/7081.ts
-#EXTINF:-1,OTE Cinema 1 HD GR
-http://portal.geniptv.com:8080/live/burhan1/burhan1/6110.ts
-#EXTINF:-1,OTE Cinema 2 FHD GR
-http://portal.geniptv.com:8080/live/burhan1/burhan1/7082.ts
-#EXTINF:-1,OTE Cinema 2 HD GR
-http://portal.geniptv.com:8080/live/burhan1/burhan1/6111.ts
-#EXTINF:-1,OTE Cinema 3 HD GR
-http://portal.geniptv.com:8080/live/burhan1/burhan1/7077.ts
-#EXTINF:-1,OTE Cinema 4 HD GR
-http://portal.geniptv.com:8080/live/burhan1/burhan1/7076.ts
-#EXTINF:-1,Village HD GR
-http://portal.geniptv.com:8080/live/burhan1/burhan1/7075.ts
-#EXTINF:-1,Sundance HD GR
-http://portal.geniptv.com:8080/live/burhan1/burhan1/7072.ts
-#EXTINF:-1,TLC GR
-http://portal.geniptv.com:8080/live/burhan1/burhan1/5856.ts
-#EXTINF:-1,Animal Planet GR
-http://portal.geniptv.com:8080/live/burhan1/burhan1/2237.ts
-#EXTINF:-1,Animal Planet HD GR
-http://portal.geniptv.com:8080/live/burhan1/burhan1/5862.ts
-#EXTINF:-1,Discovery Channel GR
-http://portal.geniptv.com:8080/live/burhan1/burhan1/2232.ts
-#EXTINF:-1,Discovery ID GR
-http://portal.geniptv.com:8080/live/burhan1/burhan1/5859.ts
-#EXTINF:-1,Discovery IDX GR
-http://portal.geniptv.com:8080/live/burhan1/burhan1/5860.ts
-#EXTINF:-1,Discovery Science GR
-http://portal.geniptv.com:8080/live/burhan1/burhan1/5857.ts
-#EXTINF:-1,Discovery ShowCase HD GR
-http://portal.geniptv.com:8080/live/burhan1/burhan1/2197.ts
-#EXTINF:-1,OTE History GR
-http://portal.geniptv.com:8080/live/burhan1/burhan1/5863.ts
-#EXTINF:-1,History HD GR
-http://portal.geniptv.com:8080/live/burhan1/burhan1/2233.ts
-#EXTINF:-1,Nat Geo HD GR
-http://portal.geniptv.com:8080/live/burhan1/burhan1/2236.ts
-#EXTINF:-1,Nat Geo Wild HD GR
-http://portal.geniptv.com:8080/live/burhan1/burhan1/2234.ts
-#EXTINF:-1,Nautical Channel FHD GR
-http://portal.geniptv.com:8080/live/burhan1/burhan1/5838.ts
-#EXTINF:-1,Travel Channel HD GR
-http://portal.geniptv.com:8080/live/burhan1/burhan1/2211.ts
-#EXTINF:-1,Viasat History GR
-http://portal.geniptv.com:8080/live/burhan1/burhan1/5861.ts
-#EXTINF:-1,Nickelodeon GR
-http://portal.geniptv.com:8080/live/burhan1/burhan1/2196.ts
-#EXTINF:-1,Disney Channel GR
-http://portal.geniptv.com:8080/live/burhan1/burhan1/5853.ts
-#EXTINF:-1,Disney Junior GR
-http://portal.geniptv.com:8080/live/burhan1/burhan1/5852.ts
-#EXTINF:-1,Disney XD GR
-http://portal.geniptv.com:8080/live/burhan1/burhan1/5851.ts
-#EXTINF:-1,Fox HD GR
-http://portal.geniptv.com:8080/live/burhan1/burhan1/7074.ts
-#EXTINF:-1,Fox Life HD GR
-http://portal.geniptv.com:8080/live/burhan1/burhan1/7073.ts
-#EXTINF:-1,TVOne Cyprus GR
-http://portal.geniptv.com:8080/live/burhan1/burhan1/5844.ts
-#EXTINF:-1,Rise FHD GR
-http://portal.geniptv.com:8080/live/burhan1/burhan1/5843.ts
-#EXTINF:-1,Body In Balance GR
-http://portal.geniptv.com:8080/live/burhan1/burhan1/5841.ts
-#EXTINF:-1,Skai GR
-http://portal.geniptv.com:8080/live/burhan1/burhan1/2201.ts
-#EXTINF:-1,Skai HD GR
-http://portal.geniptv.com:8080/live/burhan1/burhan1/5832.ts
-#EXTINF:-1,Star GR
-http://portal.geniptv.com:8080/live/burhan1/burhan1/2199.ts
-#EXTINF:-1,Star HD GR
-http://portal.geniptv.com:8080/live/burhan1/burhan1/5831.ts
-#EXTINF:-1,Nova GR
-http://portal.geniptv.com:8080/live/burhan1/burhan1/2204.ts
-
+#EXTINF:-1, COSMOTE Cinema 1   [1280x720]
+http://213.136.90.30:8000/live/renzo/renzo/29793.ts
+#EXTINF:-1, COSMOTE DTX   [720x576]
+http://213.136.90.30:8000/live/renzo/renzo/29779.ts
+#EXTINF:-1, COSMOTE Cinema 3   [1280x720]
+http://213.136.90.30:8000/live/renzo/renzo/29791.ts
+#EXTINF:-1, COSMOTE Fox   [1280x720]
+http://213.136.90.30:8000/live/renzo/renzo/29777.ts
+#EXTINF:-1, COSMOTE Entertainment   [1280x720]
+http://213.136.90.30:8000/live/renzo/renzo/29778.ts
+#EXTINF:-1, Discovery Showcase   [720x576]
+http://213.136.90.30:8000/live/renzo/renzo/29769.ts
+#EXTINF:-1, Discovery Extra   [720x576]
+http://213.136.90.30:8000/live/renzo/renzo/29771.ts
+#EXTINF:-1, COSMOTE Fox Life   [1280x720]
+http://213.136.90.30:8000/live/renzo/renzo/29776.ts
+#EXTINF:-1, COSMOTE History   [720x576]
+http://213.136.90.30:8000/live/renzo/renzo/29775.ts
+#EXTINF:-1, COSMOTE Motor vision   [720x576]
+http://213.136.90.30:8000/live/renzo/renzo/29773.ts
+#EXTINF:-1, Discovery Showcase   [720x576]
+http://213.136.90.30:8000/live/renzo/renzo/29772.ts
+#EXTINF:-1, COSMOTE Cinema 4   [1280x720]
+http://213.136.90.30:8000/live/renzo/renzo/29790.ts
+#EXTINF:-1, COSMOTE Sport Highlights HD   [1280x720]
+http://213.136.90.30:8000/live/renzo/renzo/29789.ts
+#EXTINF:-1, Eurosport 1   [720x576]
+http://213.136.90.30:8000/live/renzo/renzo/29768.ts
+#EXTINF:-1, COSMOTE Mad hits   [720x576]
+http://213.136.90.30:8000/live/renzo/renzo/29774.ts
+#EXTINF:-1, COSMOTE Sport 2 HD   [1280x720]
+http://213.136.90.30:8000/live/renzo/renzo/29787.ts
+#EXTINF:-1, COSMOTE Sport 3 HD   [1280x720]
+http://213.136.90.30:8000/live/renzo/renzo/29786.ts
+#EXTINF:-1, COSMOTE Cinema 2   [1280x720]
+http://213.136.90.30:8000/live/renzo/renzo/29792.ts
+#EXTINF:-1, COSMOTE Sport 5 HD   [1280x720]
+http://213.136.90.30:8000/live/renzo/renzo/29784.ts
+#EXTINF:-1, COSMOTE Sport 8 HD   [1280x720]
+http://213.136.90.30:8000/live/renzo/renzo/29781.ts
+#EXTINF:-1, Eurosport 2   [720x576]
+http://213.136.90.30:8000/live/renzo/renzo/29767.ts
+#EXTINF:-1, COSMOTE Sport 4 HD   [1280x720]
+http://213.136.90.30:8000/live/renzo/renzo/29785.ts
+#EXTINF:-1, COSMOTE Village   [1280x720]
+http://213.136.90.30:8000/live/renzo/renzo/29780.ts
+#EXTINF:-1, COSMOTE Sport 7 HD   [1280x720]
+http://213.136.90.30:8000/live/renzo/renzo/29782.ts
+#EXTINF:-1,(GR): ANT1   [1920x1080]
+http://93.190.141.81:25461/live/conn/conn/12708.ts
+#EXTINF:-1,(GR): 4E   [1920x1080]
+http://93.190.141.81:25461/live/conn/conn/12714.ts
+#EXTINF:-1,(GR): ALERT   [1920x1080]
+http://93.190.141.81:25461/live/conn/conn/12710.ts
+#EXTINF:-1,(GR): CANNALI MUSIC   [1920x1080]
+http://93.190.141.81:25461/live/conn/conn/12702.ts
+#EXTINF:-1,(GR): 4WEELS TV   [1920x1080]
+http://93.190.141.81:25461/live/conn/conn/12713.ts
+#EXTINF:-1,(GR): AB CHANNEL   [1920x1080]
+http://93.190.141.81:25461/live/conn/conn/12712.ts
+#EXTINF:-1,(GR): ACTION 24   [1920x1080]
+http://93.190.141.81:25461/live/conn/conn/12711.ts
+#EXTINF:-1,(GR): ALPHA   [1920x1080]
+http://93.190.141.81:25461/live/conn/conn/12709.ts
+#EXTINF:-1,(GR): ART TV   [1920x1080]
+http://93.190.141.81:25461/live/conn/conn/12707.ts
+#EXTINF:-1,(GR): ATTICA TV   [1920x1080]
+http://93.190.141.81:25461/live/conn/conn/12706.ts
+#EXTINF:-1,(GR): ENA CHANNEL   [1920x1080]
+http://93.190.141.81:25461/live/conn/conn/12700.ts
+#EXTINF:-1,(GR): ERT 2   [1920x1080]
+http://93.190.141.81:25461/live/conn/conn/12697.ts
+#EXTINF:-1,(GR): ERT WORD   [1920x1080]
+http://93.190.141.81:25461/live/conn/conn/12694.ts
+#EXTINF:-1,(GR): EUROSPORT 1 GR   [1920x1080]
+http://93.190.141.81:25461/live/conn/conn/12692.ts
+#EXTINF:-1,(GR): EUROSPORT 2 EN   [1920x1080]
+http://93.190.141.81:25461/live/conn/conn/12691.ts
+#EXTINF:-1,(GR): ERT 1   [1920x1080]
+http://93.190.141.81:25461/live/conn/conn/12698.ts
+#EXTINF:-1,(GR): HIGH TV   [1920x1080]
+http://93.190.141.81:25461/live/conn/conn/12676.ts
+#EXTINF:-1,(GR): HISTORY   [1920x1080]
+http://93.190.141.81:25461/live/conn/conn/12633.ts
+#EXTINF:-1,(GR): ERT 3   [1920x1080]
+http://93.190.141.81:25461/live/conn/conn/12696.ts
+#EXTINF:-1,(GR): ERT HD   [1920x1080]
+http://93.190.141.81:25461/live/conn/conn/12695.ts
+#EXTINF:-1,(GR): EPSILON   [1920x1080]
+http://93.190.141.81:25461/live/conn/conn/12699.ts
+#EXTINF:-1,(GR): LIKE TV   [1920x1080]
+http://93.190.141.81:25461/live/conn/conn/12667.ts
+#EXTINF:-1,(GR): MEGA   [1920x1080]
+http://93.190.141.81:25461/live/conn/conn/12661.ts
+#EXTINF:-1,(GR): iCONCERTS   [1920x1080]
+http://93.190.141.81:25461/live/conn/conn/12672.ts
+#EXTINF:-1,(GR): EURONEWS   [1920x1080]
+http://93.190.141.81:25461/live/conn/conn/12693.ts
+#EXTINF:-1,(GR): LYCHNOS TV   [1920x1080]
+http://93.190.141.81:25461/live/conn/conn/12666.ts
+#EXTINF:-1,(GR): MONTREAL TV   [1920x1080]
+http://93.190.141.81:25461/live/conn/conn/12662.ts
+#EXTINF:-1,(GR): HUNTER TV   [1920x1080]
+http://93.190.141.81:25461/live/conn/conn/12675.ts
+#EXTINF:-1,(GR): KONTRA   [1920x1080]
+http://93.190.141.81:25461/live/conn/conn/12669.ts
+#EXTINF:-1,(GR): OTE Sport 2 HD   [1920x1080]
+http://93.190.141.81:25461/live/conn/conn/12722.ts
+#EXTINF:-1,(GR): NEA TV XANIA   [1920x1080]
+http://93.190.141.81:25461/live/conn/conn/12660.ts
+#EXTINF:-1,(GR): OTE Sport 4 HD   [1920x1080]
+http://93.190.141.81:25461/live/conn/conn/12720.ts
+#EXTINF:-1,(GR): NICKELODEON   [1920x1080]
+http://93.190.141.81:25461/live/conn/conn/12658.ts
+#EXTINF:-1,(GR): NET TV TORONTO   [1920x1080]
+http://93.190.141.81:25461/live/conn/conn/12659.ts
+#EXTINF:-1,(GR): RIK 1   [1920x1080]
+http://93.190.141.81:25461/live/conn/conn/12657.ts
+#EXTINF:-1,(GR): OTE Sport 1 HD   [1920x1080]
+http://93.190.141.81:25461/live/conn/conn/12723.ts
+#EXTINF:-1,(GR): OTE Sport 3 HD   [1920x1080]
+http://93.190.141.81:25461/live/conn/conn/12721.ts
+#EXTINF:-1,(GR): RIK 2   [1920x1080]
+http://93.190.141.81:25461/live/conn/conn/12656.ts
+#EXTINF:-1,(GR): OTE Sport 5 HD   [1920x1080]
+http://93.190.141.81:25461/live/conn/conn/12719.ts
+#EXTINF:-1,(GR): OTE Sport 6 HD   [1920x1080]
+http://93.190.141.81:25461/live/conn/conn/12718.ts
+#EXTINF:-1,(GR): OTE Sport 7 HD   [1920x1080]
+http://93.190.141.81:25461/live/conn/conn/12717.ts
+#EXTINF:-1,(GR): OTE Sport 8 HD   [1920x1080]
+http://93.190.141.81:25461/live/conn/conn/12716.ts
+#EXTINF:-1,(GR): RIK SAT   [1920x1080]
+http://93.190.141.81:25461/live/conn/conn/12655.ts
+#EXTINF:-1,(GR): SAMIAKI TV   [1920x1080]
+http://93.190.141.81:25461/live/conn/conn/12653.ts
+#EXTINF:-1,(GR): SKAI   [1920x1080]
+http://93.190.141.81:25461/live/conn/conn/12651.ts
+#EXTINF:-1,(GR): STAR CHANNEL   [1920x1080]
+http://93.190.141.81:25461/live/conn/conn/12649.ts
+#EXTINF:-1,(GR): SYROS TV1   [1920x1080]
+http://93.190.141.81:25461/live/conn/conn/12647.ts
+#EXTINF:-1,(GR): TV 100   [1920x1080]
+http://93.190.141.81:25461/live/conn/conn/12645.ts
+#EXTINF:-1,(GR): ZOUGLA TV   [1920x1080]
+http://93.190.141.81:25461/live/conn/conn/12642.ts
+#EXTINF:-1,(GR): TV FILLOPOLI   [1920x1080]
+http://93.190.141.81:25461/live/conn/conn/12644.ts
+#EXTINF:-1,(GR): SBC   [1920x1080]
+http://93.190.141.81:25461/live/conn/conn/12652.ts
+#EXTINF:-1,(GR): START TV   [1920x1080]
+http://93.190.141.81:25461/live/conn/conn/12648.ts
+#EXTINF:-1,(GR): RISE TV   [1920x1080]
+http://93.190.141.81:25461/live/conn/conn/12654.ts
+#EXTINF:-1, AB Channel   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21716.ts
+#EXTINF:-1, 4E Star   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21717.ts
+#EXTINF:-1, ACHAIA TV   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21715.ts
+#EXTINF:-1, Action 24   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21714.ts
+#EXTINF:-1, AETOS CINEMA 1   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21713.ts
+#EXTINF:-1, AETOS CINEMA 3   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21711.ts
+#EXTINF:-1, Agio Nicolaos   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21708.ts
+#EXTINF:-1, AETOS CINEMA 5   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21709.ts
+#EXTINF:-1, AETOS CINEMA 2   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21712.ts
+#EXTINF:-1, AETOS CINEMA 4   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21710.ts
+#EXTINF:-1, Alpha   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21707.ts
+#EXTINF:-1, Alpha ( 10)   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21706.ts
+#EXTINF:-1, Alpha Music   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21703.ts
+#EXTINF:-1, Alpha ( 7)   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21705.ts
+#EXTINF:-1, Alpha CY   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21704.ts
+#EXTINF:-1, Animal Planet   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21701.ts
+#EXTINF:-1,(GR): ANT1   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21700.ts
+#EXTINF:-1, Alpha Sat   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21702.ts
+#EXTINF:-1, ANT1 CY   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21699.ts
+#EXTINF:-1,(GR): ATTICA TV   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21695.ts
+#EXTINF:-1, Bakalo Tv   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21693.ts
+#EXTINF:-1, E.   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21680.ts
+#EXTINF:-1, BEST TV   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21692.ts
+#EXTINF:-1, CRETA TV   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21685.ts
+#EXTINF:-1, Ant1 HD   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21698.ts
+#EXTINF:-1, EPSILON TV ( 7)   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21676.ts
+#EXTINF:-1, Art   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21697.ts
+#EXTINF:-1, Discovery Channel   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21682.ts
+#EXTINF:-1, Cannali Musiki   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21689.ts
+#EXTINF:-1, CRETE TV   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21684.ts
+#EXTINF:-1, Astra TV   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21696.ts
+#EXTINF:-1, BHMA   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21691.ts
+#EXTINF:-1, DIKTYO   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21683.ts
+#EXTINF:-1, CARTOONS   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21688.ts
+#EXTINF:-1, ERT1 CY   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21671.ts
+#EXTINF:-1, ERT1 ( 10)   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21670.ts
+#EXTINF:-1, ERT1 ( 7)   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21669.ts
+#EXTINF:-1, ERT WORLD   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21673.ts
+#EXTINF:-1, ERT1 CY   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21672.ts
+#EXTINF:-1, Epsilon TV Cy   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21675.ts
+#EXTINF:-1, Ellinikos Fm TV   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21679.ts
+#EXTINF:-1, CineFil   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21687.ts
+#EXTINF:-1,(GR): ERT HD   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21674.ts
+#EXTINF:-1, DNA TV   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21681.ts
+#EXTINF:-1, EPSILON TV ( 10)   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21677.ts
+#EXTINF:-1, Axelwos TV   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21694.ts
+#EXTINF:-1, Epiloges Tv   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21678.ts
+#EXTINF:-1, Corfu Channel   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21686.ts
+#EXTINF:-1, BlueSky   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21690.ts
+#EXTINF:-1, ERT2 CY   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21667.ts
+#EXTINF:-1, ERT2 CY   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21668.ts
+#EXTINF:-1, ERT3 CY   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21665.ts
+#EXTINF:-1, ERT3 CY   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21666.ts
+#EXTINF:-1, Eurosport 1   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21663.ts
+#EXTINF:-1, Euronews Gr   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21664.ts
+#EXTINF:-1, Fox Tv   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21659.ts
+#EXTINF:-1, FarosOnAir   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21660.ts
+#EXTINF:-1, foxtv   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21658.ts
+#EXTINF:-1, EXTRA   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21661.ts
+#EXTINF:-1, Eurosport 2   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21662.ts
+#EXTINF:-1, Greek Natura   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21657.ts
+#EXTINF:-1, HellasTV   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21654.ts
+#EXTINF:-1,(GR): HIGH TV   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21653.ts
+#EXTINF:-1, GreekVoice   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21656.ts
+#EXTINF:-1, HEART BEAT   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21655.ts
+#EXTINF:-1, Horse Races   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21652.ts
+#EXTINF:-1, ionanina tv   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21651.ts
+#EXTINF:-1, IONIAN TV   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21650.ts
+#EXTINF:-1, Ipiros Tv 1   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21649.ts
+#EXTINF:-1, Lampsi TV   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21642.ts
+#EXTINF:-1, LiveCam Beach Ithaca   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21641.ts
+#EXTINF:-1, MESSINIA TV   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21630.ts
+#EXTINF:-1, MegaOne   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21631.ts
+#EXTINF:-1, Kontra TV   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21644.ts
+#EXTINF:-1, MEGA ( 7)   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21633.ts
+#EXTINF:-1, KANALI 6   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21647.ts
+#EXTINF:-1, Kids TV   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21645.ts
+#EXTINF:-1, Kids TV   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21646.ts
+#EXTINF:-1, Mega   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21635.ts
+#EXTINF:-1, MEGA COSMOS   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21632.ts
+#EXTINF:-1, Nickelodeon   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21623.ts
+#EXTINF:-1, NG TV   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21624.ts
+#EXTINF:-1, Magic TV   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21637.ts
+#EXTINF:-1, Macedonia TV HD   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21639.ts
+#EXTINF:-1, MAD GR   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21638.ts
+#EXTINF:-1, OTE SPORT 1   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21621.ts
+#EXTINF:-1, Makedonia Gr   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21636.ts
+#EXTINF:-1, JayZeeHD   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21648.ts
+#EXTINF:-1, OMEGA   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21622.ts
+#EXTINF:-1, KPHTI TV   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21643.ts
+#EXTINF:-1,(GR): LYCHNOS TV   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21640.ts
+#EXTINF:-1, MEGA ( 10)   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21634.ts
+#EXTINF:-1, OTE SPORT 2   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21620.ts
+#EXTINF:-1, NetTV Toronto   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21627.ts
+#EXTINF:-1,(GR): NEA TV XANIA   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21628.ts
+#EXTINF:-1, Montreal Greek TV   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21629.ts
+#EXTINF:-1, New Tv   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21625.ts
+#EXTINF:-1, Play Tv   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21617.ts
+#EXTINF:-1, OTE SPORT 4   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21618.ts
+#EXTINF:-1, OTE SPORT 3   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21619.ts
+#EXTINF:-1, R CHANNEL   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21616.ts
+#EXTINF:-1, New generation TV   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21626.ts
+#EXTINF:-1, Reload Bizz   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21614.ts
+#EXTINF:-1, Sigma   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21609.ts
+#EXTINF:-1, Reload Bizz   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21615.ts
+#EXTINF:-1,(GR): SAMIAKI TV   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21611.ts
+#EXTINF:-1,(GR): RIK 1   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21613.ts
+#EXTINF:-1, RIK Sat   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21612.ts
+#EXTINF:-1,(GR): SBC   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21610.ts
+#EXTINF:-1, SPICY bizz   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21605.ts
+#EXTINF:-1, SPICY TV   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21603.ts
+#EXTINF:-1, SPICY Greek   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21604.ts
+#EXTINF:-1, Skai   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21608.ts
+#EXTINF:-1, SKAI ( 10)   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21607.ts
+#EXTINF:-1, Smile   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21606.ts
+#EXTINF:-1, Spir Tv   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21600.ts
+#EXTINF:-1, SPICY TV 2   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21602.ts
+#EXTINF:-1, SPICY TV CINEMANIA   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21601.ts
+#EXTINF:-1, STAR HD   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21599.ts
+#EXTINF:-1, Start TV   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21595.ts
+#EXTINF:-1, Tile Musiki   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21592.ts
+#EXTINF:-1, TV1 Siros   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21587.ts
+#EXTINF:-1, Tv Filopoli   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21588.ts
+#EXTINF:-1, Star TV ( 7)   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21597.ts
+#EXTINF:-1, Star TV ( 10)   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21598.ts
+#EXTINF:-1, Thema TV   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21593.ts
+#EXTINF:-1, Volcano TV santorini   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21584.ts
+#EXTINF:-1, SuperStar RTV   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21594.ts
+#EXTINF:-1, Yolo Tv   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21581.ts
+#EXTINF:-1, TRT Greek   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21589.ts
+#EXTINF:-1, TILESPORT   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21591.ts
+#EXTINF:-1, Tinos TV   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21590.ts
+#EXTINF:-1, Zougl@ Tv   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21580.ts
+#EXTINF:-1, TVRADI@ VERENIKI   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21585.ts
+#EXTINF:-1, VOULI   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21583.ts
+#EXTINF:-1, TV100   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21586.ts
+#EXTINF:-1, XALASTRA TV   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21582.ts
+#EXTINF:-1, Star TV Live   [1920x1080]
+http://cdn01.iptvthebest.net:15000/live/Ry4oN807SL/l1C3a12n5E/21596.ts
+#EXTINF:-1,(GR): RIK 1   [432x240]
+http://51.15.161.153:1557/live/Mister/Velox/3729.ts
+#EXTINF:-1, ERT1 CY   [720x576]
+http://51.15.161.153:1557/live/dragan/dragan123/2318.ts
+#EXTINF:-1, Alpha (+10)   [720x576]
+http://51.15.161.153:1557/live/dragan/dragan123/4546.ts
+#EXTINF:-1, ERT1 (+7)   [720x576]
+http://51.15.161.153:1557/live/semi/semi/4534.ts
+#EXTINF:-1, ERT3 CY   [720x576]
+http://51.15.161.153:1557/live/dragan/dragan123/4538.ts
+#EXTINF:-1, ERT1 (+10)   [720x576]
+http://51.15.161.153:1557/live/semi/semi/4535.ts
+#EXTINF:-1, ERT2 CY   [720x576]
+http://51.15.161.153:1557/live/semi/semi/4537.ts
+#EXTINF:-1, ERT1 CY   [720x576]
+http://51.15.161.153:1557/live/semi/semi/4536.ts
+#EXTINF:-1, Zougl@ Tv   [640x368]
+http://51.15.161.153:1557/live/dragan/dragan123/2329.ts
+#EXTINF:-1, Ant1 HD   [720x576]
+http://51.15.161.153:1557/live/semi/semi/3731.ts
+#EXTINF:-1, RIK Sat   [480x368]
+http://51.15.161.153:1557/live/Mister/Velox/3728.ts
+#EXTINF:-1,(GR): ANT1   [1280x720]
+http://51.15.161.153:1557/live/semi/semi/2326.ts
+#EXTINF:-1,(GR): ERT HD   [1280x720]
+http://51.15.161.153:1557/live/dragan/dragan123/4539.ts
+#EXTINF:-1, ERT WORLD   [1280x720]
+http://51.15.161.153:1557/live/basristalker/Gg1whxVe5R/4494.ts
+#EXTINF:-1, Star TV Live   [720x576]
+http://51.15.161.153:1557/live/semi/semi/4595.ts
+#EXTINF:-1, ERT2 CY   [720x576]
+http://51.15.161.153:1557/live/dragan/dragan123/2317.ts
+#EXTINF:-1, ERT3 CY   [720x576]
+http://51.15.161.153:1557/live/dragan/dragan123/2319.ts
+#EXTINF:-1, Alpha Music   [1920x1080]
+http://51.15.161.153:1557/live/mustaf/mustafa/4474.ts
+#EXTINF:-1, ANT1 CY   [704x544]
+http://51.15.161.153:1557/live/semi/semi/4484.ts
+#EXTINF:-1, Alpha CY   [768x432]
+http://51.15.161.153:1557/live/dragan/dragan123/4543.ts
+#EXTINF:-1, Mega   [720x576]
+http://51.15.161.153:1557/live/semi/semi/2309.ts
+#EXTINF:-1, Alpha   [640x368]
+http://51.15.161.153:1557/live/semi/semi/2327.ts
+#EXTINF:-1, STAR HD   [720x576]
+http://51.15.161.153:1557/live/dragan/dragan123/4470.ts
+#EXTINF:-1, EPSILON TV (+7)   [720x576]
+http://51.15.161.153:1557/live/semi/semi/4567.ts
+#EXTINF:-1, Star TV (+7)   [720x576]
+http://51.15.161.153:1557/live/semi/semi/4471.ts
+#EXTINF:-1, Alpha (+7)   [720x576]
+http://51.15.161.153:1557/live/semi/semi/4545.ts
+#EXTINF:-1, Skai   [720x576]
+http://51.15.161.153:1557/live/dragan/dragan123/2303.ts
+#EXTINF:-1, MEGA (+10)   [720x576]
+http://51.15.161.153:1557/live/dragan/dragan123/4542.ts
+#EXTINF:-1, MEGA (+7)   [720x576]
+http://51.15.161.153:1557/live/semi/semi/4541.ts
+#EXTINF:-1, Alpha Sat   [720x480]
+http://51.15.161.153:1557/live/dragan/dragan123/4496.ts
+#EXTINF:-1, EPSILON TV (+10)   [720x576]
+http://51.15.161.153:1557/live/dragan/dragan123/4568.ts
+#EXTINF:-1, Star TV (+10)   [720x576]
+http://51.15.161.153:1557/live/dragan/dragan123/4472.ts
+#EXTINF:-1, SKAI (+10)   [720x576]
+http://51.15.161.153:1557/live/semi/semi/4540.ts
+#EXTINF:-1, Epsilon TV Cy   [1024x576]
+http://51.15.161.153:1557/live/semi/semi/2322.ts
+#EXTINF:-1, MEGA COSMOS   [720x480]
+http://51.15.161.153:1557/live/dragan/dragan123/4495.ts
+#EXTINF:-1, MegaOne   [768x432]
+http://51.15.161.153:1557/live/semi/semi/3722.ts
+#EXTINF:-1, West Channel   [304x240]
+http://51.15.161.153:1557/live/semi/semi/3738.ts
+#EXTINF:-1, Action 24   [544x304]
+http://51.15.161.153:1557/live/semi/semi/3727.ts
+#EXTINF:-1,(GR): NEA TV XANIA   [1024x576]
+http://51.15.161.153:1557/live/semi/semi/4477.ts
+#EXTINF:-1, NetTV Toronto   [864x480]
+http://51.15.161.153:1557/live/dragan/dragan123/3732.ts
+#EXTINF:-1, Horse Races   [1920x1080]
+http://51.15.161.153:1557/live/mustaf/mustafa/3730.ts
+#EXTINF:-1, SPICY TV CINEMANIA   [640x272]
+http://51.15.161.153:1557/live/semi/semi/4570.ts
+#EXTINF:-1, Ipiros Tv 1   [1920x1080]
+http://51.15.161.153:1557/live/mustaf/mustafa/2307.ts
+#EXTINF:-1, SPICY Greek   [640x368]
+http://51.15.161.153:1557/live/dragan/dragan123/4551.ts
+#EXTINF:-1, Lampsi TV   [768x432]
+http://51.15.161.153:1557/live/semi/semi/4521.ts
+#EXTINF:-1, SPICY TV   [864x480]
+http://51.15.161.153:1557/live/semi/semi/4548.ts
+#EXTINF:-1, Kids TV   [640x480]
+http://51.15.161.153:1557/live/Mister/Velox/4569.ts
+#EXTINF:-1, Reload Bizz   [640x368]
+http://51.15.161.153:1557/live/Mister/Velox/4552.ts
+#EXTINF:-1, Tinos TV   [864x480]
+http://51.15.161.153:1557/live/semi/semi/4522.ts
+#EXTINF:-1, Spir Tv   [512x288]
+http://51.15.161.153:1557/live/Mister/Velox/4485.ts
+#EXTINF:-1,VIP:ITA: Frisbee   [720x576]
+http://51.15.161.153:1557/live/dragan/dragan123/7978.ts
+#EXTINF:-1, TV RYTHMOS 94.3   [320x240]
+http://51.15.161.153:1557/live/semi/semi/4489.ts
+#EXTINF:-1, Nickelodeon   [720x576]
+http://51.15.161.153:1557/live/dragan/dragan123/3725.ts
+#EXTINF:-1, DNA TV   [720x416]
+http://51.15.161.153:1557/live/semi/semi/4571.ts
+#EXTINF:-1, SPICY bizz   [640x368]
+http://51.15.161.153:1557/live/semi/semi/4550.ts
+#EXTINF:-1, Reload Bizz   [864x480]
+http://51.15.161.153:1557/live/Mister/Velox/4544.ts
+#EXTINF:-1, Magic TV   [1920x1088]
+http://51.15.161.153:1557/live/semi/semi/4492.ts
+#EXTINF:-1, BEST TV   [1280x720]
+http://51.15.161.153:1557/live/semi/semi/4486.ts
+#EXTINF:-1, CARTOONS   [640x352]
+http://51.15.161.153:1557/live/semi/semi/4566.ts
+#EXTINF:-1, Tv Filopoli   [640x368]
+http://51.15.161.153:1557/live/semi/semi/4490.ts
+#EXTINF:-1, Animal Planet   [960x544]
+http://51.15.161.153:1557/live/semi/semi/6284.ts
+#EXTINF:-1, SPICY TV 2   [640x272]
+http://51.15.161.153:1557/live/semi/semi/4549.ts
+#EXTINF:-1, Discovery Channel   [864x480]
+http://51.15.161.153:1557/live/semi/semi/1645.ts
+#EXTINF:-1, Thing Green   [640x352]
+http://51.15.161.153:1557/live/basristalker/Gg1whxVe5R/4523.ts
+#EXTINF:-1, Bakalo Tv   [960x544]
+http://51.15.161.153:1557/live/semi/semi/3737.ts
+#EXTINF:-1, CRETA TV   [480x368]
+http://51.15.161.153:1557/live/dragan/dragan123/4478.ts
+#EXTINF:-1, Corfu Channel   [432x240]
+http://51.15.161.153:1557/live/semi/semi/4497.ts
+#EXTINF:-1, KPHTI TV   [864x480]
+http://51.15.161.153:1557/live/semi/semi/2312.ts
+#EXTINF:-1, Volcano TV santorini   [1280x720]
+http://51.15.161.153:1557/live/basristalker/Gg1whxVe5R/4562.ts
+#EXTINF:-1, KANALI 6   [320x240]
+http://51.15.161.153:1557/live/semi/semi/4473.ts
+#EXTINF:-1, Makedonia Gr   [720x576]
+http://51.15.161.153:1557/live/semi/semi/3723.ts
+#EXTINF:-1, BlueSky   [720x416]
+http://51.15.161.153:1557/live/semi/semi/1642.ts
+#EXTINF:-1, MESSINIA TV   [640x368]
+http://51.15.161.153:1557/live/semi/semi/2308.ts
+#EXTINF:-1, TV1 Siros   [720x576]
+http://51.15.161.153:1557/live/semi/semi/2959.ts
+#EXTINF:-1, AB Channel   [720x576]
+http://51.15.161.153:1557/live/dragan/dragan123/3726.ts
+#EXTINF:-1,(GR): RIK 1   [1920x1080]
+http://51.15.161.153:1557/live/mustaf/mustafa/3736.ts
+#EXTINF:-1, Four Wheels TV   [1280x720]
+http://51.15.161.153:1557/live/basristalker/Gg1whxVe5R/2301.ts
+#EXTINF:-1, Fox Tv   [464x368]
+http://51.15.161.153:1557/live/Mister/Velox/4483.ts
+#EXTINF:-1, Art   [720x576]
+http://51.15.161.153:1557/live/Man/Man/2324.ts
+#EXTINF:-1, New Tv   [1920x1080]
+http://51.15.161.153:1557/live/mustaf/mustafa/2320.ts
+#EXTINF:-1, XALASTRA TV   [640x368]
+http://51.15.161.153:1557/live/semi/semi/4553.ts
+#EXTINF:-1, IONIAN TV   [1280x720]
+http://51.15.161.153:1557/live/semi/semi/4493.ts
+#EXTINF:-1, Start TV   [512x288]
+http://51.15.161.153:1557/live/semi/semi/2313.ts
+#EXTINF:-1,(GR): SAMIAKI TV   [320x240]
+http://51.15.161.153:1557/live/semi/semi/2305.ts
+#EXTINF:-1, CineFil   [1280x720]
+http://51.15.161.153:1557/live/Mister/Velox/4557.ts
+#EXTINF:-1, Axelwos TV   [720x576]
+http://51.15.161.153:1557/live/semi/semi/2323.ts
+#EXTINF:-1, FarosOnAir   [864x480]
+http://51.15.161.153:1557/live/semi/semi/4565.ts
+#EXTINF:-1, Play Tv   [864x480]
+http://51.15.161.153:1557/live/Mister/Velox/4469.ts
+#EXTINF:-1, HellasTV   [864x480]
+http://51.15.161.153:1557/live/semi/semi/4491.ts
+#EXTINF:-1,(GR): HIGH TV   [720x576]
+http://51.15.161.153:1557/live/semi/semi/4547.ts
+#EXTINF:-1, Montreal Greek TV   [720x480]
+http://51.15.161.153:1557/live/basristalker/Gg1whxVe5R/4475.ts
+#EXTINF:-1, BHMA   [432x240]
+http://51.15.161.153:1557/live/semi/semi/4482.ts
+#EXTINF:-1, foxtv   [464x368]
+http://51.15.161.153:1557/live/Mister/Velox/4556.ts
+#EXTINF:-1, MAD GR   [608x480]
+http://51.15.161.153:1557/live/semi/semi/3724.ts
+#EXTINF:-1, New generation TV   [640x368]
+http://51.15.161.153:1557/live/dragan/dragan123/4555.ts
+#EXTINF:-1, Cannali Musiki   [864x480]
+http://51.15.161.153:1557/live/dragan/dragan123/3733.ts
+#EXTINF:-1, Tile Musiki   [1920x1080]
+http://51.15.161.153:1557/live/mustaf/mustafa/4524.ts
+#EXTINF:-1, Ellinikos Fm TV   [960x544]
+http://51.15.161.153:1557/live/semi/semi/2321.ts
+#EXTINF:-1, Smile   [720x576]
+http://51.15.161.153:1557/live/Mister/Velox/3721.ts
+#EXTINF:-1, HEART BEAT   [640x368]
+http://51.15.161.153:1557/live/semi/semi/4554.ts
+#EXTINF:-1,(GR): SBC   [720x576]
+http://51.15.161.153:1557/live/dragan/dragan123/2304.ts
+#EXTINF:-1, TRT Greek   [656x496]
+http://51.15.161.153:1557/live/Mister/Velox/2310.ts
+#EXTINF:-1, EXTRA   [720x576]
+http://51.15.161.153:1557/live/dragan/dragan123/2314.ts
+#EXTINF:-1, Astra TV   [640x368]
+http://51.15.161.153:1557/live/Mister/Velox/4488.ts
+#EXTINF:-1, Cinemania   [1920x1080]
+http://51.15.161.153:1557/live/mustaf/mustafa/4592.ts
+#EXTINF:-1, TV100   [640x480]
+http://51.15.161.153:1557/live/Mister/Velox/1648.ts
+#EXTINF:-1, VOULI   [640x368]
+http://51.15.161.153:1557/live/Mister/Velox/2297.ts
+#EXTINF:-1, Eurosport 2   [720x576]
+http://51.15.161.153:1557/live/Mister/Velox/2315.ts
+#EXTINF:-1, DIKTYO   [1920x1080]
+http://51.15.161.153:1557/live/mustaf/mustafa/2298.ts
+#EXTINF:-1, Adams Beach Hotel CY   [1920x1080]
+http://51.15.161.153:1557/live/mustaf/mustafa/3735.ts
+#EXTINF:-1, Agio Nicolaos   [1280x720]
+http://51.15.161.153:1557/live/Man/Man/4479.ts
+#EXTINF:-1, SuperStar RTV   [512x288]
+http://51.15.161.153:1557/live/Mister/Velox/4559.ts
+#EXTINF:-1, TILESPORT   [720x576]
+http://51.15.161.153:1557/live/Mister/Velox/2299.ts
+#EXTINF:-1, Macedonia TV HD   [1920x1088]
+http://51.15.161.153:1557/live/dragan/dragan123/4594.ts
+#EXTINF:-1, 4E Star   [640x480]
+http://51.15.161.153:1557/live/Mister/Velox/1647.ts
+#EXTINF:-1,(GR): ATTICA TV   [720x576]
+http://51.15.161.153:1557/live/Man/Man/2328.ts
+#EXTINF:-1, JayZeeHD   [1920x1080]
+http://51.15.161.153:1557/live/mustaf/mustafa/2325.ts
+#EXTINF:-1, Epiloges Tv   [1920x1080]
+http://51.15.161.153:1557/live/mustaf/mustafa/3740.ts
+#EXTINF:-1, Euronews Gr   [320x192]
+http://51.15.161.153:1557/live/Mister/Velox/3734.ts
+#EXTINF:-1, OMEGA   [544x304]
+http://51.15.161.153:1557/live/Mister/Velox/2306.ts
+#EXTINF:-1, Sigma   [720x576]
+http://51.15.161.153:1557/live/Mister/Velox/1646.ts
+#EXTINF:-1, Eurosport 1   [704x576]
+http://51.15.161.153:1557/live/basristalker/Gg1whxVe5R/2316.ts
+#EXTINF:-1,(GR): LYCHNOS TV   [720x576]
+http://51.15.161.153:1557/live/Mister/Velox/4561.ts
