@@ -1,3 +1,307 @@
+
+#EXTM3U
+#EXTINF:-1,Alb 1 First Kosova AL
+http://ip.fannan.se:8000/live/2121/2121/8621.ts
+#EXTINF:-1,Alb A1 Report AL
+http://ip.fannan.se:8000/live/2121/2121/8620.ts
+#EXTINF:-1,Alb ABC News AL
+http://ip.fannan.se:8000/live/2121/2121/8619.ts
+#EXTINF:-1,Alb ACTV-USA AL
+http://ip.fannan.se:8000/live/2121/2121/8618.ts
+#EXTINF:-1,Alb Adria AL
+http://ip.fannan.se:8000/live/2121/2121/8490.ts
+#EXTINF:-1,Alb Alb Action AL
+http://ip.fannan.se:8000/live/2121/2121/8565.ts
+#EXTINF:-1,Alb Alb Anime
+http://ip.fannan.se:8000/live/2121/2121/8566.ts
+#EXTINF:-1,Alb Alb Comedy AL
+http://ip.fannan.se:8000/live/2121/2121/8567.ts
+#EXTINF:-1,Alb Alb Film HD AL
+http://ip.fannan.se:8000/live/2121/2121/8555.ts
+#EXTINF:-1,Alb Alb Folk AL
+http://ip.fannan.se:8000/live/2121/2121/8491.ts
+#EXTINF:-1,Alb Alb Hindi AL
+http://ip.fannan.se:8000/live/2121/2121/8568.ts
+#EXTINF:-1,Alb Alb Humor 2 AL
+http://ip.fannan.se:8000/live/2121/2121/8569.ts
+#EXTINF:-1,Alb Alb Humor AL
+http://ip.fannan.se:8000/live/2121/2121/8570.ts
+#EXTINF:-1,Alb Alb Music HD AL
+http://ip.fannan.se:8000/live/2121/2121/8571.ts
+#EXTINF:-1,Alb Alb Popullore AL
+http://ip.fannan.se:8000/live/2121/2121/8572.ts
+#EXTINF:-1,Alb Alb Thriller AL
+http://ip.fannan.se:8000/live/2121/2121/8573.ts
+#EXTINF:-1,Alb Alb UK HD AL
+http://ip.fannan.se:8000/live/2121/2121/8492.ts
+#EXTINF:-1,Alb Alb WesterN AL
+http://ip.fannan.se:8000/live/2121/2121/8574.ts
+#EXTINF:-1,Alb Albanian Culture NYC AL
+http://ip.fannan.se:8000/live/2121/2121/8493.ts
+#EXTINF:-1,Alb Alsat M AL
+http://ip.fannan.se:8000/live/2121/2121/8494.ts
+#EXTINF:-1,Alb Alsat M HD AL
+http://ip.fannan.se:8000/live/2121/2121/8575.ts
+#EXTINF:-1,Alb Arta News AL
+http://ip.fannan.se:8000/live/2121/2121/8576.ts
+#EXTINF:-1,Alb Bang Bang AL
+http://ip.fannan.se:8000/live/2121/2121/8577.ts
+#EXTINF:-1,Alb BB11 Muzik AL
+http://ip.fannan.se:8000/live/2121/2121/8578.ts
+#EXTINF:-1,Alb BBF Musik AL
+http://ip.fannan.se:8000/live/2121/2121/8579.ts
+#EXTINF:-1,Alb Big Brother 1 AL
+http://ip.fannan.se:8000/live/2121/2121/8495.ts
+#EXTINF:-1,Alb Big Brother 2 AL
+http://ip.fannan.se:8000/live/2121/2121/8496.ts
+#EXTINF:-1,Alb Burimi TV AL
+http://ip.fannan.se:8000/live/2121/2121/8580.ts
+#EXTINF:-1,Alb Camel TV AL
+http://ip.fannan.se:8000/live/2121/2121/8581.ts
+#EXTINF:-1,Alb Channel One AL
+http://ip.fannan.se:8000/live/2121/2121/8497.ts
+#EXTINF:-1,Alb Cufo TV AL
+http://ip.fannan.se:8000/live/2121/2121/8582.ts
+#EXTINF:-1,Alb Dasma TV AL
+http://ip.fannan.se:8000/live/2121/2121/8583.ts
+#EXTINF:-1,Alb Digi Gold 1 AL
+http://ip.fannan.se:8000/live/2121/2121/8498.ts
+#EXTINF:-1,Alb Digi Gold 2 AL
+http://ip.fannan.se:8000/live/2121/2121/8499.ts
+#EXTINF:-1,Alb Digi Gold 3 AL
+http://ip.fannan.se:8000/live/2121/2121/8500.ts
+#EXTINF:-1,Alb Digi Gold 4 AL
+http://ip.fannan.se:8000/live/2121/2121/8501.ts
+#EXTINF:-1,Alb Digi Gold AL
+http://ip.fannan.se:8000/live/2121/2121/8502.ts
+#EXTINF:-1,Alb Egnatia AL
+http://ip.fannan.se:8000/live/2121/2121/8503.ts
+#EXTINF:-1,Alb Elrodi Muzik AL
+http://ip.fannan.se:8000/live/2121/2121/8584.ts
+#EXTINF:-1,Alb Era TV AL
+http://ip.fannan.se:8000/live/2121/2121/8585.ts
+#EXTINF:-1,Alb Explorer History AL
+http://ip.fannan.se:8000/live/2121/2121/8504.ts
+#EXTINF:-1,Alb Explorer Natyra AL
+http://ip.fannan.se:8000/live/2121/2121/8505.ts
+#EXTINF:-1,Alb Explorer Shkence AL
+http://ip.fannan.se:8000/live/2121/2121/8506.ts
+#EXTINF:-1,Alb Film Action AL
+http://ip.fannan.se:8000/live/2121/2121/8586.ts
+#EXTINF:-1,Alb Film Autor AL
+http://ip.fannan.se:8000/live/2121/2121/8507.ts
+#EXTINF:-1,Alb Film Drame AL
+http://ip.fannan.se:8000/live/2121/2121/8508.ts
+#EXTINF:-1,Alb Film Dy HD AL
+http://ip.fannan.se:8000/live/2121/2121/8509.ts
+#EXTINF:-1,Alb Film Hits AL
+http://ip.fannan.se:8000/live/2121/2121/8510.ts
+#EXTINF:-1,Alb Film Komedi AL
+http://ip.fannan.se:8000/live/2121/2121/8587.ts
+#EXTINF:-1,Alb Film Nje HD AL
+http://ip.fannan.se:8000/live/2121/2121/8511.ts
+#EXTINF:-1,Alb Film Stinet AL
+http://ip.fannan.se:8000/live/2121/2121/8588.ts
+#EXTINF:-1,Alb Film Thriller AL
+http://ip.fannan.se:8000/live/2121/2121/8512.ts
+#EXTINF:-1,Alb Filma24 HD AL
+http://ip.fannan.se:8000/live/2121/2121/8589.ts
+#EXTINF:-1,Alb First Channel AL
+http://ip.fannan.se:8000/live/2121/2121/8513.ts
+#EXTINF:-1,Alb Focus TV NYC AL
+http://ip.fannan.se:8000/live/2121/2121/8514.ts
+#EXTINF:-1,Alb K Sport 1 AL
+http://ip.fannan.se:8000/live/2121/2121/8485.ts
+#EXTINF:-1,Alb K Sport 2 AL
+http://ip.fannan.se:8000/live/2121/2121/8484.ts
+#EXTINF:-1,Alb K Sport 3 AL
+http://ip.fannan.se:8000/live/2121/2121/8483.ts
+#EXTINF:-1,Alb K Sport 4 AL
+http://ip.fannan.se:8000/live/2121/2121/8482.ts
+#EXTINF:-1,Alb Kanali 7 AL
+http://ip.fannan.se:8000/live/2121/2121/8590.ts
+#EXTINF:-1,Alb Kino Premiere 1 HD AL
+http://ip.fannan.se:8000/live/2121/2121/8591.ts
+#EXTINF:-1,Alb Kino Premiere 2 HD AL
+http://ip.fannan.se:8000/live/2121/2121/8592.ts
+#EXTINF:-1,Alb Kino Premiere 3 HD AL
+http://ip.fannan.se:8000/live/2121/2121/8593.ts
+#EXTINF:-1,Alb Klan HD AL
+http://ip.fannan.se:8000/live/2121/2121/8515.ts
+#EXTINF:-1,Alb Klan Kosova AL
+http://ip.fannan.se:8000/live/2121/2121/8516.ts
+#EXTINF:-1,Alb Klan Kosova HD AL
+http://ip.fannan.se:8000/live/2121/2121/8594.ts
+#EXTINF:-1,Alb Klan Plus AL
+http://ip.fannan.se:8000/live/2121/2121/8517.ts
+#EXTINF:-1,Alb Klan TV AL
+http://ip.fannan.se:8000/live/2121/2121/8518.ts
+#EXTINF:-1,Alb KTV HD AL
+http://ip.fannan.se:8000/live/2121/2121/8595.ts
+#EXTINF:-1,Alb Lexo TV AL
+http://ip.fannan.se:8000/live/2121/2121/8596.ts
+#EXTINF:-1,Alb Living HD AL
+http://ip.fannan.se:8000/live/2121/2121/8519.ts
+#EXTINF:-1,Alb MRT 1 AL
+http://ip.fannan.se:8000/live/2121/2121/8597.ts
+#EXTINF:-1,Alb MRT 2 AL
+http://ip.fannan.se:8000/live/2121/2121/8598.ts
+#EXTINF:-1,Alb MTV Kosova AL
+http://ip.fannan.se:8000/live/2121/2121/8520.ts
+#EXTINF:-1,Alb Muse AL
+http://ip.fannan.se:8000/live/2121/2121/8521.ts
+#EXTINF:-1,Alb Music AL
+http://ip.fannan.se:8000/live/2121/2121/8522.ts
+#EXTINF:-1,Alb My Music AL
+http://ip.fannan.se:8000/live/2121/2121/8523.ts
+#EXTINF:-1,Alb News 24 AL
+http://ip.fannan.se:8000/live/2121/2121/8599.ts
+#EXTINF:-1,Alb News 24 HD AL
+http://ip.fannan.se:8000/live/2121/2121/8600.ts
+#EXTINF:-1,Alb Ora News HD AL
+http://ip.fannan.se:8000/live/2121/2121/8524.ts
+#EXTINF:-1,Alb Pace TV AL
+http://ip.fannan.se:8000/live/2121/2121/8601.ts
+#EXTINF:-1,Alb Plus HD AL
+http://ip.fannan.se:8000/live/2121/2121/8525.ts
+#EXTINF:-1,Alb Qamria TV AL
+http://ip.fannan.se:8000/live/2121/2121/8602.ts
+#EXTINF:-1,Alb RTK 1 AL
+http://ip.fannan.se:8000/live/2121/2121/8526.ts
+#EXTINF:-1,Alb RTK 2 AL
+http://ip.fannan.se:8000/live/2121/2121/8527.ts
+#EXTINF:-1,Alb RTK 3 AL
+http://ip.fannan.se:8000/live/2121/2121/8528.ts
+#EXTINF:-1,Alb RTK 4 AL
+http://ip.fannan.se:8000/live/2121/2121/8529.ts
+#EXTINF:-1,Alb RTSH 3 AL
+http://ip.fannan.se:8000/live/2121/2121/8530.ts
+#EXTINF:-1,Alb RTSH HD AL
+http://ip.fannan.se:8000/live/2121/2121/8531.ts
+#EXTINF:-1,Alb RTV 21 AL
+http://ip.fannan.se:8000/live/2121/2121/8532.ts
+#EXTINF:-1,Alb RTV 21 Junior AL
+http://ip.fannan.se:8000/live/2121/2121/8533.ts
+#EXTINF:-1,Alb RTV 21 Maqedonia AL
+http://ip.fannan.se:8000/live/2121/2121/8534.ts
+#EXTINF:-1,Alb RTV 21 Mix AL
+http://ip.fannan.se:8000/live/2121/2121/8535.ts
+#EXTINF:-1,Alb RTV 21 Newsbiz AL
+http://ip.fannan.se:8000/live/2121/2121/8603.ts
+#EXTINF:-1,Alb RTV 21 Plus AL
+http://ip.fannan.se:8000/live/2121/2121/8536.ts
+#EXTINF:-1,Alb RTV 21 Popullore AL
+http://ip.fannan.se:8000/live/2121/2121/8537.ts
+#EXTINF:-1,Alb Shenja TV AL
+http://ip.fannan.se:8000/live/2121/2121/8604.ts
+#EXTINF:-1,Alb Shqip Action AL
+http://ip.fannan.se:8000/live/2121/2121/8605.ts
+#EXTINF:-1,Alb Shqip Fantazi AL
+http://ip.fannan.se:8000/live/2121/2121/8606.ts
+#EXTINF:-1,Alb Shqip Qifteli AL
+http://ip.fannan.se:8000/live/2121/2121/8607.ts
+#EXTINF:-1,Alb Shqip TV Islam AL
+http://ip.fannan.se:8000/live/2121/2121/8608.ts
+#EXTINF:-1,Alb STV-Folk AL
+http://ip.fannan.se:8000/live/2121/2121/8538.ts
+#EXTINF:-1,Alb Super Sonic AL
+http://ip.fannan.se:8000/live/2121/2121/8539.ts
+#EXTINF:-1,Alb Super Sport 1 AL
+http://ip.fannan.se:8000/live/2121/2121/8481.ts
+#EXTINF:-1,Alb Super Sport 2 AL
+http://ip.fannan.se:8000/live/2121/2121/8480.ts
+#EXTINF:-1,Alb Super Sport 3 AL
+http://ip.fannan.se:8000/live/2121/2121/8479.ts
+#EXTINF:-1,Alb Super Sport 4 AL
+http://ip.fannan.se:8000/live/2121/2121/8478.ts
+#EXTINF:-1,Alb Super Sport Kosova 1 AL
+http://ip.fannan.se:8000/live/2121/2121/8477.ts
+#EXTINF:-1,Alb Super Sport Kosova 2 AL
+http://ip.fannan.se:8000/live/2121/2121/8476.ts
+#EXTINF:-1,Alb T HD AL
+http://ip.fannan.se:8000/live/2121/2121/8609.ts
+#EXTINF:-1,Alb Tele Sport AL
+http://ip.fannan.se:8000/live/2121/2121/8552.ts
+#EXTINF:-1,Alb Tetova TV AL
+http://ip.fannan.se:8000/live/2121/2121/8610.ts
+#EXTINF:-1,Alb Top Channel AL
+http://ip.fannan.se:8000/live/2121/2121/8553.ts
+#EXTINF:-1,Alb Top Channel HD AL
+http://ip.fannan.se:8000/live/2121/2121/8611.ts
+#EXTINF:-1,Alb Top News AL
+http://ip.fannan.se:8000/live/2121/2121/8612.ts
+#EXTINF:-1,Alb Tring 3  AL
+http://ip.fannan.se:8000/live/2121/2121/8613.ts
+#EXTINF:-1,Alb Tring Comedy AL
+http://ip.fannan.se:8000/live/2121/2121/8486.ts
+#EXTINF:-1,Alb Tring Fantasy AL
+http://ip.fannan.se:8000/live/2121/2121/8489.ts
+#EXTINF:-1,Alb Tring History AL
+http://ip.fannan.se:8000/live/2121/2121/8556.ts
+#EXTINF:-1,Alb Tring Life AL
+http://ip.fannan.se:8000/live/2121/2121/8614.ts
+#EXTINF:-1,Alb Tring Max AL
+http://ip.fannan.se:8000/live/2121/2121/8615.ts
+#EXTINF:-1,Alb Tring Planet AL
+http://ip.fannan.se:8000/live/2121/2121/8557.ts
+#EXTINF:-1,Alb Tring Shqip AL
+http://ip.fannan.se:8000/live/2121/2121/8558.ts
+#EXTINF:-1,Alb Tring Smile AL
+http://ip.fannan.se:8000/live/2121/2121/8559.ts
+#EXTINF:-1,Alb Tring Sport 1 AL
+http://ip.fannan.se:8000/live/2121/2121/8475.ts
+#EXTINF:-1,Alb Tring Sport 2 AL
+http://ip.fannan.se:8000/live/2121/2121/8474.ts
+#EXTINF:-1,Alb Tring Sport 3 AL
+http://ip.fannan.se:8000/live/2121/2121/8473.ts
+#EXTINF:-1,Alb Tring Sport 4 AL
+http://ip.fannan.se:8000/live/2121/2121/8472.ts
+#EXTINF:-1,Alb Tring Super AL
+http://ip.fannan.se:8000/live/2121/2121/8560.ts
+#EXTINF:-1,Alb Tring Tring AL
+http://ip.fannan.se:8000/live/2121/2121/8561.ts
+#EXTINF:-1,Alb Tring World AL
+http://ip.fannan.se:8000/live/2121/2121/8562.ts
+#EXTINF:-1,Alb TV 1 Shkoder AL
+http://ip.fannan.se:8000/live/2121/2121/8540.ts
+#EXTINF:-1,Alb TV 2 Gostivar AL
+http://ip.fannan.se:8000/live/2121/2121/8617.ts
+#EXTINF:-1,Alb TV Alb AV-USA AL
+http://ip.fannan.se:8000/live/2121/2121/8541.ts
+#EXTINF:-1,Alb TV Apollon AL
+http://ip.fannan.se:8000/live/2121/2121/8542.ts
+#EXTINF:-1,Alb TV Arta AL
+http://ip.fannan.se:8000/live/2121/2121/8543.ts
+#EXTINF:-1,Alb TV Dibra AL
+http://ip.fannan.se:8000/live/2121/2121/8544.ts
+#EXTINF:-1,Alb TV Dukagjini AL
+http://ip.fannan.se:8000/live/2121/2121/8545.ts
+#EXTINF:-1,Alb TV Folk AL
+http://ip.fannan.se:8000/live/2121/2121/8546.ts
+#EXTINF:-1,Alb TV Iliret AL
+http://ip.fannan.se:8000/live/2121/2121/8547.ts
+#EXTINF:-1,Alb TV Koha AL
+http://ip.fannan.se:8000/live/2121/2121/8616.ts
+#EXTINF:-1,Alb TV Mitrovica AL
+http://ip.fannan.se:8000/live/2121/2121/8564.ts
+#EXTINF:-1,Alb TV Opoja AL
+http://ip.fannan.se:8000/live/2121/2121/8563.ts
+#EXTINF:-1,Alb TV Rrokum AL
+http://ip.fannan.se:8000/live/2121/2121/8548.ts
+#EXTINF:-1,Alb TV Sharri AL
+http://ip.fannan.se:8000/live/2121/2121/8554.ts
+#EXTINF:-1,Alb TV Tirana AL
+http://ip.fannan.se:8000/live/2121/2121/8549.ts
+#EXTINF:-1,Alb TV Zjarr AL
+http://ip.fannan.se:8000/live/2121/2121/8550.ts
+#EXTINF:-1,Alb TVSH AL
+http://ip.fannan.se:8000/live/2121/2121/8551.ts
+#EXTINF:-1,Alb V & L AL
+http://ip.fannan.se:8000/live/2121/2121/8487.ts
+#EXTINF:-1,Alb Vizion  HD AL
+http://ip.fannan.se:8000/live/2121/2121/8488.ts
+
+
 #EXTINF:-1,RTK 1 AL
 http://mypanel.tv:8080/live/ash/ash/4844.ts
 #EXTINF:-1,RTK 1 (backup) AL
