@@ -1,52 +1,262 @@
 #EXTM3U
-#EXTINF:-1,[COLOR yellow]shannsingh.com[/COLOR]
-shannsingh.com 
-
-#EXTINF:0,MEGA
-http://megahdlive1-f.akamaihd.net/i/live_1@105260/master.m3u8
-
-#EXTINF:0,ANT1
-http://wow.ant1.gr:1935/live/smil:mavani.smil/playlist.m3u8
- 
-#EXTINF:0,STAR
-http://starhdlive2-lh.akamaihd.net/i/live_1@181243/master.m3u8
-
- #EXTINF:0,ALPHA
-http://alfakanali-lh.akamaihd.net/i/live_1@90368/master.m3u8
-#EXTINF:0,SKAI
-http://www.skai.gr/player/tvlive/
-#EXTINF:0,E TV
-http://213.16.167.187:1935/live/mpegts_256.stream/playlist.m3u8
-
-#EXTINF:0,BOYLH TV
-http://streamer-cache.grnet.gr/parliament/parltv.sdp/master.m3u8
-#EXTINF:0,NERIT
-http://nerit1-lh.akamaihd.net/i/nerit_1@42604/master.m3u8
-#EXTINF:0,NERIT PLUS
-http://nerit2-lh.akamaihd.net/i/neritplus_1@45603/master.m3u8
-#EXTINF:0,ET3
-http://live2.ertopen.com/live2/e600/playlist.m3u8
-#EXTINF:0,EURONEWS
-http://gr.euronews.com/news/streaming-live/
-#EXTINF:0,MEGA CYPRUS
-http://mlivenews.istoikona.net/livenews.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:0,RIK SAT
-http://player.webvideocore.net/eq473601t9w8.m3u8
-#EXTINF:0,ESPN HD 
-http://mojtube.com@200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8? ; 
-#EXTINF:0,FOX SPORTS 
-http://mojtube.com@200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8? ; 
-#EXTINF:0,FOX SPORTS 2 
-http://mojtube.com@200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8? ; 
-#EXTINF:0,ESPN 
-http://mojtube.com@200.76.77.237/LIVE/H01/CANAL558/PROFILE03.m3u8? ; 
-#EXTINF:0,ESPN2 
-http://mojtube.com@200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8? ;
-#EXTINF:-1,Sky Movies Select
-http://91.109.20.227:8080/TV4254
-#EXTINF:-1,Sky Movies Action & Adventure
-http://91.109.20.227:8080/TV4245
-#EXTINF:-1,Sky Movies Comedy
-http://91.109.20.227:8080/TV4246
-#EXTINF:-1,Sky Movies SciFi
-http://185.56.30.123:8082/TV4249
+#EXTINF:-1 ***** GREEK CHANNELS ***** 
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP2",GR VIP2 | ***** GREEK VIP2 *****
+http://google.com
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP2",GR VIP2 | ***** National / News *****
+http://google.com
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="ert1.gr" tvg-shift="+2" group-title="GR VIP2", GR VIP2 | ERT HD (C)
+http://ns6815083.ip-193-70-93.eu:8080/live/GR-ERT-HD-C/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="et1.gr" tvg-shift="+2" group-title="GR VIP2", GR VIP2 | ERT HD
+http://ns6815083.ip-193-70-93.eu:8080/live/GR-ERT-HD/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="et1.gr" tvg-shift="+2" group-title="GR VIP2", GR VIP2 | ERT 1
+http://ns6815083.ip-193-70-93.eu:8080/live/GR-ERT-1/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="et1.gr" tvg-shift="+2" group-title="GR VIP2", GR VIP2 | ERT 1 (C)
+http://ns6815083.ip-193-70-93.eu:8080/live/GR-ERT-1-B/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP2", GR VIP2 | ERT 2
+http://ns6815083.ip-193-70-93.eu:8080/live/GR-ERT-2/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="et3.gr" tvg-shift="+2" group-title="GR VIP2", GR VIP2 | ERT 3
+http://ns6815083.ip-193-70-93.eu:8080/live/GR-ERT-3/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="ant1.gr" tvg-shift="+2" group-title="GR VIP2", GR VIP2 | ANT1 HD (C)
+http://ns335432.ip-5-196-64.eu:8080/live/GR-ANT1-HD/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="ant1.gr" tvg-shift="+2" group-title="GR VIP2", GR VIP2 | ANT1
+http://ns6815083.ip-193-70-93.eu:8080/live/GR-ANT1/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP2", GR VIP2 | ANT1 (BACKUP)
+http://ns3021685.ip-149-202-70.eu:8080/live/GR-ANT1-B/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="ant1.gr" tvg-shift="+2" group-title="GR VIP2", GR VIP2 | ANT1 (BACKUP II)
+http://ns6815083.ip-193-70-93.eu:8080/live/GR-ANT1-B-II/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP2", GR VIP2 | MEGA HD (C)
+http://ns335432.ip-5-196-64.eu:8080/live/GR-MEGA-B/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="mega.gr" tvg-shift="+2" group-title="GR VIP2", GR VIP2 | MEGA
+http://ns3021685.ip-149-202-70.eu:8080/live/GR-MEGA/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP2", GR VIP2 | MEGA COSMOS USA
+http://ns6815083.ip-193-70-93.eu:8080/live/GR-MEGA-COSMOS-USA/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="alpha.gr" tvg-shift="+2" group-title="GR VIP2", GR VIP2 | ALPHA
+http://ns3021685.ip-149-202-70.eu:8080/live/GR-ALPHA/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP2", GR VIP2 | ALPHA (BACKUP)
+http://ns335432.ip-5-196-64.eu:8080/live/GR-ALPHA-B/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="skai.gr" tvg-shift="+2" group-title="GR VIP2", GR VIP2 | SKAI HD (C)
+http://ns335432.ip-5-196-64.eu:8080/live/GR-SKAI-HD/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="Skai.gr" tvg-shift="+2" group-title="GR VIP2", GR VIP2 | SKAI
+http://ns6815083.ip-193-70-93.eu:8080/live/GR-SKAI/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP2", GR VIP2 | SKAI (BACKUP)
+http://ns337833.ip-5-196-78.eu:8081/live/GR-SKAI-B/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="skai.gr" tvg-shift="+2" group-title="GR VIP2", GR VIP2 | SKAI (BACKUP III)
+http://ns335432.ip-5-196-64.eu:8080/live/GR-STAR-INTERNATIONAL/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="star.gr" tvg-shift="+2" group-title="GR VIP2", GR VIP2 | STAR HD (C)
+http://ns335432.ip-5-196-64.eu:8080/live/GR-STAR-HD/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="star.gr" tvg-shift="+2" group-title="GR VIP2", GR VIP2 | STAR
+http://ns6815083.ip-193-70-93.eu:8080/live/GR-STAR/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP2", GR VIP2 | STAR (BACKUP)
+http://ns6815083.ip-193-70-93.eu:8080/live/GR-STAR-B/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP", GR VIP | FISHING.Ellinika
+http://ns335432.ip-5-196-64.eu:8080/live/fishing/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 ***** MOVIES ***** 
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="NovaCinema1.gr" tvg-shift="+2" group-title="GR VIP", GR VIP | NOVACINEMA 1 HD
+http://ns6815083.ip-193-70-93.eu:8080/live/VIP-GR-NOVACINEMA-1-HD/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="NovaCinema2.gr" tvg-shift="+2" group-title="GR VIP", GR VIP | NOVACINEMA 2 HD
+http://ns6815083.ip-193-70-93.eu:8080/live/VIP-GR-NOVACINEMA-2-HD/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="OTECinema1.gr" tvg-shift="+2" group-title="GR VIP", GR VIP | COSMOTE CINEMA 1 HD
+http://ns6815083.ip-193-70-93.eu:8080/live/VIP-GR-OTE-CINEMA-1-HD/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="OTECinema2.gr" tvg-shift="+2" group-title="GR VIP", GR VIP | COSMOTE CINEMA 2 HD
+http://ns6815083.ip-193-70-93.eu:8080/live/VIP-GR-OTE-CINEMA-2-HD/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="OTECinema3.gr" tvg-shift="+2" group-title="GR VIP", GR VIP | COSMOTE CINEMA 3 HD
+http://ns6815083.ip-193-70-93.eu:8080/live/VIP-GR-OTE-CINEMA-3-HD/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="OTECinema4.gr" tvg-shift="+2" group-title="GR VIP", GR VIP | COSMOTE CINEMA 4 HD
+http://ns6815083.ip-193-70-93.eu:8080/live/VIP-GR-OTE-CINEMA-4-HD/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP", GR VIP | COSMOTE CINEMA CHRISTMAS
+http://ns6815083.ip-193-70-93.eu:8080/live/VIP-GR-OTE-CINEMA-CHRISTMAS-HD/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP", GR VIP | VILLAGE HD
+http://ns6815083.ip-193-70-93.eu:8080/live/VIP-GR-VILLAGE-HD/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="FOX.gr" tvg-shift="+2" group-title="GR VIP", GR VIP | FOX HD
+http://ns6815083.ip-193-70-93.eu:8080/live/VIP-GR-FOX-HD/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP", GR VIP | FOX LIFE HD
+http://ns6815083.ip-193-70-93.eu:8080/live/VIP-GR-FOXLIFE-HD/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="SundanceChannelHD.gr" tvg-shift="+2" group-title="GR VIP", GR VIP | SUNDANCE HD
+http://ns6815083.ip-193-70-93.eu:8080/live/VIP-GR-SUNDANCE/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="1946.stream" tvg-shift="+2" group-title="GR VIP", GR VIP | BEST Movies 1
+http://ns6815083.ip-193-70-93.eu:8080/live/VIP-GR-MOVIES-1/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="1947.stream" tvg-shift="+2" group-title="GR VIP", GR VIP | BEST Movies 2
+http://ns6815083.ip-193-70-93.eu:8080/live/VIP-GR-MOVIES-2/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="1996.stream" tvg-shift="+2" group-title="GR VIP", GR VIP | BEST Movies 3
+http://ns6815083.ip-193-70-93.eu:8080/live/VIP-GR-MOVIES-3/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="1997.stream" tvg-shift="+2" group-title="GR VIP", GR VIP | BEST Movies 4
+http://ns6815083.ip-193-70-93.eu:8080/live/VIP-GR-MOVIES-4/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="1998.stream" tvg-shift="+2" group-title="GR VIP", GR VIP | BEST Movies 5
+http://ns6815083.ip-193-70-93.eu:8080/live/VIP-GR-MOVIES-5/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="1999.stream" tvg-shift="+2" group-title="GR VIP", GR VIP | BEST Movies 6
+http://ns6815083.ip-193-70-93.eu:8080/live/VIP-GR-MOVIES-6/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP", GR VIP | CINEMA GREEK 1
+http://ns6815083.ip-193-70-93.eu:8080/live/VIP-GR-CINEMA-GREEK-1/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP", GR VIP | CINEMA GREEK 2
+http://ns6815083.ip-193-70-93.eu:8080/live/VIP-GR-CINEMA-GREEK-2/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="USA", USA | HBO
+http://ns3035073.ip-149-202-95.eu:8080/live/USA-HBO/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="USA", USA | HBO Zone
+http://ns3051842.ip-37-187-134.eu:8080/live/USA-HBO-Zone/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="USA", USA | HBO Signature
+http://ns3051842.ip-37-187-134.eu:8080/live/USA-HBO-Signature/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="USA", USA | HBO Comedy
+http://ns3051842.ip-37-187-134.eu:8080/live/USA-HBO-Comedy/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="USA", USA | Cinemax
+http://ns3051842.ip-37-187-134.eu:8080/live/USA-Cinemax/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="USA", USA | Cinemax Moremax
+http://ns3051842.ip-37-187-134.eu:8080/live/USA-Cinemax-Moremax/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="USA", USA | Cinemax East
+http://ns3051842.ip-37-187-134.eu:8080/live/USA-Cinemax-East/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="USA", USA | Cinemax 5 Starmax
+http://ns3035073.ip-149-202-95.eu:8080/live/USA-Cinemax-5-Starmax/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="USA", USA | Showtime
+http://ns3035073.ip-149-202-95.eu:8080/live/USA-Showtime/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="USA", USA | FX
+http://ns3082560.ip-147-135-255.eu:8080/live/USA-FX/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="USA", USA | FXX
+http://ns3082560.ip-147-135-255.eu:8080/live/USA-FXX/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="USA", USA | Starz Comedy
+http://ns3051842.ip-37-187-134.eu:8080/live/USA-Starz-Comedy/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="USA", USA | Starz Cinema
+http://ns3051842.ip-37-187-134.eu:8080/live/USA-Starz-Cinema/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="USA", USA | Starz Edge
+http://ns3051842.ip-37-187-134.eu:8080/live/USA-Starz-Edge/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="USA", USA | Starz Encore
+http://ns3051842.ip-37-187-134.eu:8080/live/USA-Starz-Encore/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="USA", USA | Starz East
+http://ns3051842.ip-37-187-134.eu:8080/live/USA-Starz-East/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="SkyMoviesActionThriller.uk" tvg-shift="+2" group-title="UK", UK | Sky Movies Action
+http://ns6664276.ip-5-196-86.eu:8080/live/UK-Sky-Movies-Action/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="SkyMoviesComedy.uk" tvg-shift="+2" group-title="UK", UK | Sky Movies Comedy
+http://ns6664276.ip-5-196-86.eu:8080/live/UK-Sky-Movies-Comedy/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="SkyMoviesDrama.uk" tvg-shift="+2" group-title="UK", UK | Sky Movies Drama
+http://ns6664276.ip-5-196-86.eu:8080/live/UK-Sky-Movies-Drama/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="SkyMoviesFamily.uk" tvg-shift="+2" group-title="UK", UK | Sky Movies Family
+http://ns6664276.ip-5-196-86.eu:8080/live/UK-Sky-Movies-Family/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="SkyMoviesModernGreats.uk" tvg-shift="+2" group-title="UK", UK | Sky Movies Modern Greats
+http://ns6664276.ip-5-196-86.eu:8080/live/UK-Sky-Movies-Modern-Greats/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="SkyMoviesPremiere.uk" tvg-shift="+2" group-title="UK", UK | Sky Movies Premiere
+http://ns6664276.ip-5-196-86.eu:8080/live/UK-Sky-Movies-Premiere/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="SkySciFiHorror.uk" tvg-shift="+2" group-title="UK", UK | Sky Movies Scifi Horror
+http://ns6664276.ip-5-196-86.eu:8080/live/UK-Sky-Movies-Scifi---Horror/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="SkyMoviesIndie.uk" tvg-shift="+2" group-title="UK", UK | Sky Movies Select
+http://ns6664276.ip-5-196-86.eu:8080/live/UK-Sky-Movies-Select/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="SkyShowcase.uk" tvg-shift="+2" group-title="UK", UK | Sky Movies Showcase
+http://ns6664276.ip-5-196-86.eu:8080/live/UK-Sky-Movies-Showcase/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="SkyMoviesActionThriller.uk" tvg-shift="+2" group-title="UK", UK | Sky Movies Thriller
+http://ns6664276.ip-5-196-86.eu:8080/live/UK-Sky-Movies-Thriller/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 ***** SPORTS *****  
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP",GR VIP | ***** Sports HD *****
+http://google.com
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP", GR VIP | NOVASPORTS MIX HD (Only for Games)
+http://ns6815083.ip-193-70-93.eu:8080/live/VIP-GR-NOVASPORTS-1-SD-MOVAMIX/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="NovaSports1.gr" tvg-shift="+2" group-title="GR VIP", GR VIP | NOVASPORTS 1A (Only for Games)
+http://ns6815083.ip-193-70-93.eu:8080/live/VP-GR-NOVAMIX-HD/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP", GR VIP | NOVASPORTS 1 Live (Only for Games)
+http://ns335432.ip-5-196-64.eu:8080/live/NOVASPORTS-35-SD/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="NovaSports1.gr" tvg-shift="+2" group-title="GR VIP", GR VIP | NOVASPORTS 1C (Only for Games)
+http://ns6815083.ip-193-70-93.eu:8080/live/VIP-GR-NOVASPORTS-1-HD/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="OTESport2.gr" tvg-shift="+2" group-title="GR VIP", GR VIP | COSMOTE SPORT 2 HD
+http://ns6815083.ip-193-70-93.eu:8080/live/VIP-GR-OTE-SPORT-2-HD/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="OTESport2.gr" tvg-shift="+2" group-title="GR VIP", GR VIP | COSMOTE SPORT 2 HD-B
+http://ns335506.ip-5-196-76.eu:8080/live/VIP-GR-OTE-SPORT-2-HD-B/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="OTESport2.gr" tvg-shift="+2" group-title="GR VIP", GR VIP | COSMOTE SPORT 2 HD-C
+http://ns335432.ip-5-196-64.eu:8080/live/VIP-GR-OTE-SPORT-2-HD-C/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="OTESport3.gr" tvg-shift="+2" group-title="GR VIP", GR VIP | COSMOTE SPORT 3 HD
+http://ns6815083.ip-193-70-93.eu:8080/live/VIP-GR-OTE-SPORT-3-HD/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="OTESport3.gr" tvg-shift="+2" group-title="GR VIP", GR VIP | COSMOTE SPORT 3 HD B
+http://ns335432.ip-5-196-64.eu:8080/live/VIP-GR-OTE-CINEMA-3/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="OTESport3.gr" tvg-shift="+2" group-title="GR VIP", GR VIP | COSMOTE SPORT 3 HD C
+http://ns3021685.ip-149-202-70.eu:8080/live/VIP-GR-OTE-SPORT-3-C/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="OTESport4.gr" tvg-shift="+2" group-title="GR VIP", GR VIP | COSMOTE SPORT 4 HD
+http://ns6815083.ip-193-70-93.eu:8080/live/VIP-GR-OTE-SPORT-4-HD/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="OTESport4.gr" tvg-shift="+2" group-title="GR VIP", GR VIP | COSMOTE SPORT 4 HD (B)
+http://ns335432.ip-5-196-64.eu:8080/live/VIP-GR-OTE-SPORT-4-HD-B/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="OTESport2.gr" tvg-shift="+2" group-title="GR VIP", GR VIP | COSMOTE SPORT 4 HD (C)
+http://ns335432.ip-5-196-64.eu:8080/live/VIP-GR-OTE-SPORT-2-C/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="OTESport5.gr" tvg-shift="+2" group-title="GR VIP", GR VIP | COSMOTE SPORT 5 HD
+http://ns6815083.ip-193-70-93.eu:8080/live/VIP-GR-OTE-SPORT-5-HD/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="OTESport5.gr" tvg-shift="+2" group-title="GR VIP", GR VIP | COSMOTE SPORT 5 B
+http://ns6815083.ip-193-70-93.eu:8080/live/VIP-GR-OTE-SPORT-5/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="OTESport6.gr" tvg-shift="+2" group-title="GR VIP", GR VIP | COSMOTE SPORT 6 HD
+http://ns6815083.ip-193-70-93.eu:8080/live/VIP-GR-OTE-SPORT-6-HD/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="OTESport2.gr" tvg-shift="+2" group-title="GR VIP", GR VIP | COSMOTE SPORT 6 HD (B)
+http://ns335432.ip-5-196-64.eu:8080/live/VIP-GR-OTE-SPORT-6-B/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="OTESport7.gr" tvg-shift="+2" group-title="GR VIP", GR VIP | COSMOTE SPORT 7 HD
+http://ns6815083.ip-193-70-93.eu:8080/live/VIP-GR-OTE-SPORT-7-HD/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="OTESport8.gr" tvg-shift="+2" group-title="GR VIP", GR VIP | COSMOTE SPORT 8 HD
+http://ns6815083.ip-193-70-93.eu:8080/live/VIP-GR-OTE-SPORT-8-HD/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="OTESportsHighlights.gr" tvg-shift="+2" group-title="GR VIP", GR VIP | COSMOTE SPORT HIGHLIGHTS HD
+http://ns6815083.ip-193-70-93.eu:8080/live/VIP-GR-OTE-SPORT-HIGHLIGHTS-HD/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP", GR VIP | FOX SPORTS HD
+http://ns6815083.ip-193-70-93.eu:8080/live/VIP-GR-FOX-SPORTS-HD/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP", GR VIP | OUTDOOR HD
+http://ns6815083.ip-193-70-93.eu:8080/live/VIP-GR-OUTDOOR-HD/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="EuroSport1.gr" tvg-shift="+2" group-title="GR VIP", GR VIP | EUROSPORT 1
+http://ns6815083.ip-193-70-93.eu:8080/live/VIP-GR-EUROSPORT-1/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="EuroSport2.gr" tvg-shift="+2" group-title="GR VIP", GR VIP | EUROSPORT 2
+http://ns6815083.ip-193-70-93.eu:8080/live/VIP-GR-EUROSPORT-2/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="MotorvisionChannel.gr" tvg-shift="+2" group-title="GR VIP", GR VIP | MOTOR VISION
+http://ns6815083.ip-193-70-93.eu:8080/live/VIP-GR-MOTOR-VISION/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP", GR VIP | EDGE SPORTS
+http://ns6815083.ip-193-70-93.eu:8080/live/VIP-GR-EDGE-SPORTS/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP", GR VIP | ACTION 24
+http://ns6815083.ip-193-70-93.eu:8080/live/VIP-GR-ACTION-24/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="SkySports1.uk" tvg-shift="+2" group-title="UK", UK | Sky Sports 1
+http://ns6664276.ip-5-196-86.eu:8080/live/UK-SkySports-1/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="SkySports1.uk" tvg-shift="+2" group-title="UK", UK | Sky Sports 1 HD
+http://ns6664276.ip-5-196-86.eu:8080/live/UK-Sky-Sports-1-HD/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="SkySports2.uk" tvg-shift="+2" group-title="UK", UK | Sky Sports 2
+http://ns6664276.ip-5-196-86.eu:8080/live/UK-SkySports-2/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="SkySports2.uk" tvg-shift="+2" group-title="UK", UK | Sky Sports 2 HD
+http://ns6664276.ip-5-196-86.eu:8080/live/UK-Sky-Sports-2-HD/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="SkySports3.uk" tvg-shift="+2" group-title="UK", UK | Sky Sports 3
+http://ns6664276.ip-5-196-86.eu:8080/live/UK-Sky-Sports-3/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="SkySports3.uk" tvg-shift="+2" group-title="UK", UK | Sky Sports 3 HD
+http://ns6664276.ip-5-196-86.eu:8080/live/UK-Sky-Sports-3-HD/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="SkySports4.uk" tvg-shift="+2" group-title="UK", UK | Sky Sports 4
+http://ns6664276.ip-5-196-86.eu:8080/live/UK-Sky-Sports-4/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="SkySports4.uk" tvg-shift="+2" group-title="UK", UK | Sky Sports 4 HD
+http://ns6664276.ip-5-196-86.eu:8080/live/UK-Sky-Sports-4-HD/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="SkySports5.uk" tvg-shift="+2" group-title="UK", UK | Sky Sports 5
+http://ns6664276.ip-5-196-86.eu:8080/live/UK-Sky-Sports-5/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="SkySports5.uk" tvg-shift="+2" group-title="UK", UK | Sky Sports 5 HD
+http://ns6664276.ip-5-196-86.eu:8080/live/UK-Sky-Sports-5-HD/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="SkySportsF1.uk" tvg-shift="+2" group-title="UK", UK | Sky Sports F1 (A)
+http://ns6883419.ip-217-182-160.eu:8080/live/UK-Sky-Sports-F1/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="SkySportsF1.uk" tvg-shift="+2" group-title="UK", UK | Sky Sports F1 (B)
+http://ns6664276.ip-5-196-86.eu:8080/live/UK-Sky-Sports-F1-HD/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="UK", UK | Sky Sports Mix
+http://ns6664276.ip-5-196-86.eu:8080/live/UK-Sky-Sports-Mix/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="SkySportsNews.uk" tvg-shift="+2" group-title="UK", UK | Sky Sports News
+http://ns6664276.ip-5-196-86.eu:8080/live/UK-Sky-Sports-News/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="UK", UK | Sky Sports Action
+http://ns6664276.ip-5-196-86.eu:8080/live/UK-Sky-Sports-Action/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="UK", UK | Sky Sports Arena
+http://ns6664276.ip-5-196-86.eu:8080/live/UK-Sky-Sports-Arena/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="UK", UK | SKy Sports Cricket
+http://ns6664276.ip-5-196-86.eu:8080/live/UK-Sky-Sports-Cricket/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="UK", UK | Sky Sports Football
+http://ns6664276.ip-5-196-86.eu:8080/live/UK-Sky-Sports-Football/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="UK", UK | Sky Sports Main Event
+http://ns6664276.ip-5-196-86.eu:8080/live/UK-Sky-Sports-Main-Event/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="UK", UK | Sky Sports The Open
+http://ns6664276.ip-5-196-86.eu:8080/live/UK-Sky-Sports-The-Open/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="UK", UK | Sky Sports Box Office (Live Events Only)
+http://ns6883419.ip-217-182-160.eu:8080/live/UK-Sky-Sports-Box-Office/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="UK", UK | Premier League
+http://ns6664276.ip-5-196-86.eu:8080/live/UK-Sky-Sports-Premier-League/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="USA", USA | Fox Sports 1
+http://ns3035073.ip-149-202-95.eu:8080/live/USA-Fox-Sports-1/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="USA", USA | Fox Sports 2
+http://ns3082560.ip-147-135-255.eu:8080/live/USA-Fox-Sports-2/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="USA", USA | Fox Deportes
+http://ns3082560.ip-147-135-255.eu:8080/live/USA-Fox-Deportes/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="USA", USA | Fox Sports 506
+http://ns3082560.ip-147-135-255.eu:8080/live/USA-Fox-Sports-506/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="USA", USA | ESPN
+http://ns3035073.ip-149-202-95.eu:8080/live/USA-ESPN-3108/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="USA", USA | ESPN 2
+http://ns3035073.ip-149-202-95.eu:8080/live/USA-ESPN-2/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="USA", USA | ESPN News
+http://ns3035073.ip-149-202-95.eu:8080/live/USA-ESPN-News/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="USA", USA | ESPN Deportes
+http://ns3035073.ip-149-202-95.eu:8080/live/USA-ESPN-Deportes/mpegts?token=yianis:adqNuttflS
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="USA", USA | ESPN U
+http://ns3035073.ip-149-202-95.eu:8080/live/USA-ESPN-U/mpegts?token=yianis:adqNuttflS
