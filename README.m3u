@@ -1,262 +1,343 @@
 #EXTM3U
-#EXTINF:-1 ***** GREEK CHANNELS ***** 
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP2",GR VIP2 | ***** GREEK VIP2 *****
-http://google.com
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP2",GR VIP2 | ***** National / News *****
-http://google.com
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="ert1.gr" tvg-shift="+2" group-title="GR VIP2", GR VIP2 | ERT HD (C)
-http://ns6815083.ip-193-70-93.eu:8080/live/GR-ERT-HD-C/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="et1.gr" tvg-shift="+2" group-title="GR VIP2", GR VIP2 | ERT HD
-http://ns6815083.ip-193-70-93.eu:8080/live/GR-ERT-HD/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="et1.gr" tvg-shift="+2" group-title="GR VIP2", GR VIP2 | ERT 1
-http://ns6815083.ip-193-70-93.eu:8080/live/GR-ERT-1/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="et1.gr" tvg-shift="+2" group-title="GR VIP2", GR VIP2 | ERT 1 (C)
-http://ns6815083.ip-193-70-93.eu:8080/live/GR-ERT-1-B/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP2", GR VIP2 | ERT 2
-http://ns6815083.ip-193-70-93.eu:8080/live/GR-ERT-2/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="et3.gr" tvg-shift="+2" group-title="GR VIP2", GR VIP2 | ERT 3
-http://ns6815083.ip-193-70-93.eu:8080/live/GR-ERT-3/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="ant1.gr" tvg-shift="+2" group-title="GR VIP2", GR VIP2 | ANT1 HD (C)
-http://ns335432.ip-5-196-64.eu:8080/live/GR-ANT1-HD/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="ant1.gr" tvg-shift="+2" group-title="GR VIP2", GR VIP2 | ANT1
-http://ns6815083.ip-193-70-93.eu:8080/live/GR-ANT1/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP2", GR VIP2 | ANT1 (BACKUP)
-http://ns3021685.ip-149-202-70.eu:8080/live/GR-ANT1-B/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="ant1.gr" tvg-shift="+2" group-title="GR VIP2", GR VIP2 | ANT1 (BACKUP II)
-http://ns6815083.ip-193-70-93.eu:8080/live/GR-ANT1-B-II/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP2", GR VIP2 | MEGA HD (C)
-http://ns335432.ip-5-196-64.eu:8080/live/GR-MEGA-B/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="mega.gr" tvg-shift="+2" group-title="GR VIP2", GR VIP2 | MEGA
-http://ns3021685.ip-149-202-70.eu:8080/live/GR-MEGA/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP2", GR VIP2 | MEGA COSMOS USA
-http://ns6815083.ip-193-70-93.eu:8080/live/GR-MEGA-COSMOS-USA/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="alpha.gr" tvg-shift="+2" group-title="GR VIP2", GR VIP2 | ALPHA
-http://ns3021685.ip-149-202-70.eu:8080/live/GR-ALPHA/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP2", GR VIP2 | ALPHA (BACKUP)
-http://ns335432.ip-5-196-64.eu:8080/live/GR-ALPHA-B/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="skai.gr" tvg-shift="+2" group-title="GR VIP2", GR VIP2 | SKAI HD (C)
-http://ns335432.ip-5-196-64.eu:8080/live/GR-SKAI-HD/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="Skai.gr" tvg-shift="+2" group-title="GR VIP2", GR VIP2 | SKAI
-http://ns6815083.ip-193-70-93.eu:8080/live/GR-SKAI/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP2", GR VIP2 | SKAI (BACKUP)
-http://ns337833.ip-5-196-78.eu:8081/live/GR-SKAI-B/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="skai.gr" tvg-shift="+2" group-title="GR VIP2", GR VIP2 | SKAI (BACKUP III)
-http://ns335432.ip-5-196-64.eu:8080/live/GR-STAR-INTERNATIONAL/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="star.gr" tvg-shift="+2" group-title="GR VIP2", GR VIP2 | STAR HD (C)
-http://ns335432.ip-5-196-64.eu:8080/live/GR-STAR-HD/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="star.gr" tvg-shift="+2" group-title="GR VIP2", GR VIP2 | STAR
-http://ns6815083.ip-193-70-93.eu:8080/live/GR-STAR/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP2", GR VIP2 | STAR (BACKUP)
-http://ns6815083.ip-193-70-93.eu:8080/live/GR-STAR-B/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP", GR VIP | FISHING.Ellinika
-http://ns335432.ip-5-196-64.eu:8080/live/fishing/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 ***** MOVIES ***** 
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="NovaCinema1.gr" tvg-shift="+2" group-title="GR VIP", GR VIP | NOVACINEMA 1 HD
-http://ns6815083.ip-193-70-93.eu:8080/live/VIP-GR-NOVACINEMA-1-HD/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="NovaCinema2.gr" tvg-shift="+2" group-title="GR VIP", GR VIP | NOVACINEMA 2 HD
-http://ns6815083.ip-193-70-93.eu:8080/live/VIP-GR-NOVACINEMA-2-HD/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="OTECinema1.gr" tvg-shift="+2" group-title="GR VIP", GR VIP | COSMOTE CINEMA 1 HD
-http://ns6815083.ip-193-70-93.eu:8080/live/VIP-GR-OTE-CINEMA-1-HD/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="OTECinema2.gr" tvg-shift="+2" group-title="GR VIP", GR VIP | COSMOTE CINEMA 2 HD
-http://ns6815083.ip-193-70-93.eu:8080/live/VIP-GR-OTE-CINEMA-2-HD/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="OTECinema3.gr" tvg-shift="+2" group-title="GR VIP", GR VIP | COSMOTE CINEMA 3 HD
-http://ns6815083.ip-193-70-93.eu:8080/live/VIP-GR-OTE-CINEMA-3-HD/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="OTECinema4.gr" tvg-shift="+2" group-title="GR VIP", GR VIP | COSMOTE CINEMA 4 HD
-http://ns6815083.ip-193-70-93.eu:8080/live/VIP-GR-OTE-CINEMA-4-HD/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP", GR VIP | COSMOTE CINEMA CHRISTMAS
-http://ns6815083.ip-193-70-93.eu:8080/live/VIP-GR-OTE-CINEMA-CHRISTMAS-HD/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP", GR VIP | VILLAGE HD
-http://ns6815083.ip-193-70-93.eu:8080/live/VIP-GR-VILLAGE-HD/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="FOX.gr" tvg-shift="+2" group-title="GR VIP", GR VIP | FOX HD
-http://ns6815083.ip-193-70-93.eu:8080/live/VIP-GR-FOX-HD/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP", GR VIP | FOX LIFE HD
-http://ns6815083.ip-193-70-93.eu:8080/live/VIP-GR-FOXLIFE-HD/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="SundanceChannelHD.gr" tvg-shift="+2" group-title="GR VIP", GR VIP | SUNDANCE HD
-http://ns6815083.ip-193-70-93.eu:8080/live/VIP-GR-SUNDANCE/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="1946.stream" tvg-shift="+2" group-title="GR VIP", GR VIP | BEST Movies 1
-http://ns6815083.ip-193-70-93.eu:8080/live/VIP-GR-MOVIES-1/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="1947.stream" tvg-shift="+2" group-title="GR VIP", GR VIP | BEST Movies 2
-http://ns6815083.ip-193-70-93.eu:8080/live/VIP-GR-MOVIES-2/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="1996.stream" tvg-shift="+2" group-title="GR VIP", GR VIP | BEST Movies 3
-http://ns6815083.ip-193-70-93.eu:8080/live/VIP-GR-MOVIES-3/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="1997.stream" tvg-shift="+2" group-title="GR VIP", GR VIP | BEST Movies 4
-http://ns6815083.ip-193-70-93.eu:8080/live/VIP-GR-MOVIES-4/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="1998.stream" tvg-shift="+2" group-title="GR VIP", GR VIP | BEST Movies 5
-http://ns6815083.ip-193-70-93.eu:8080/live/VIP-GR-MOVIES-5/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="1999.stream" tvg-shift="+2" group-title="GR VIP", GR VIP | BEST Movies 6
-http://ns6815083.ip-193-70-93.eu:8080/live/VIP-GR-MOVIES-6/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP", GR VIP | CINEMA GREEK 1
-http://ns6815083.ip-193-70-93.eu:8080/live/VIP-GR-CINEMA-GREEK-1/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP", GR VIP | CINEMA GREEK 2
-http://ns6815083.ip-193-70-93.eu:8080/live/VIP-GR-CINEMA-GREEK-2/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="USA", USA | HBO
-http://ns3035073.ip-149-202-95.eu:8080/live/USA-HBO/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="USA", USA | HBO Zone
-http://ns3051842.ip-37-187-134.eu:8080/live/USA-HBO-Zone/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="USA", USA | HBO Signature
-http://ns3051842.ip-37-187-134.eu:8080/live/USA-HBO-Signature/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="USA", USA | HBO Comedy
-http://ns3051842.ip-37-187-134.eu:8080/live/USA-HBO-Comedy/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="USA", USA | Cinemax
-http://ns3051842.ip-37-187-134.eu:8080/live/USA-Cinemax/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="USA", USA | Cinemax Moremax
-http://ns3051842.ip-37-187-134.eu:8080/live/USA-Cinemax-Moremax/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="USA", USA | Cinemax East
-http://ns3051842.ip-37-187-134.eu:8080/live/USA-Cinemax-East/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="USA", USA | Cinemax 5 Starmax
-http://ns3035073.ip-149-202-95.eu:8080/live/USA-Cinemax-5-Starmax/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="USA", USA | Showtime
-http://ns3035073.ip-149-202-95.eu:8080/live/USA-Showtime/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="USA", USA | FX
-http://ns3082560.ip-147-135-255.eu:8080/live/USA-FX/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="USA", USA | FXX
-http://ns3082560.ip-147-135-255.eu:8080/live/USA-FXX/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="USA", USA | Starz Comedy
-http://ns3051842.ip-37-187-134.eu:8080/live/USA-Starz-Comedy/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="USA", USA | Starz Cinema
-http://ns3051842.ip-37-187-134.eu:8080/live/USA-Starz-Cinema/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="USA", USA | Starz Edge
-http://ns3051842.ip-37-187-134.eu:8080/live/USA-Starz-Edge/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="USA", USA | Starz Encore
-http://ns3051842.ip-37-187-134.eu:8080/live/USA-Starz-Encore/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="USA", USA | Starz East
-http://ns3051842.ip-37-187-134.eu:8080/live/USA-Starz-East/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="SkyMoviesActionThriller.uk" tvg-shift="+2" group-title="UK", UK | Sky Movies Action
-http://ns6664276.ip-5-196-86.eu:8080/live/UK-Sky-Movies-Action/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="SkyMoviesComedy.uk" tvg-shift="+2" group-title="UK", UK | Sky Movies Comedy
-http://ns6664276.ip-5-196-86.eu:8080/live/UK-Sky-Movies-Comedy/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="SkyMoviesDrama.uk" tvg-shift="+2" group-title="UK", UK | Sky Movies Drama
-http://ns6664276.ip-5-196-86.eu:8080/live/UK-Sky-Movies-Drama/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="SkyMoviesFamily.uk" tvg-shift="+2" group-title="UK", UK | Sky Movies Family
-http://ns6664276.ip-5-196-86.eu:8080/live/UK-Sky-Movies-Family/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="SkyMoviesModernGreats.uk" tvg-shift="+2" group-title="UK", UK | Sky Movies Modern Greats
-http://ns6664276.ip-5-196-86.eu:8080/live/UK-Sky-Movies-Modern-Greats/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="SkyMoviesPremiere.uk" tvg-shift="+2" group-title="UK", UK | Sky Movies Premiere
-http://ns6664276.ip-5-196-86.eu:8080/live/UK-Sky-Movies-Premiere/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="SkySciFiHorror.uk" tvg-shift="+2" group-title="UK", UK | Sky Movies Scifi Horror
-http://ns6664276.ip-5-196-86.eu:8080/live/UK-Sky-Movies-Scifi---Horror/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="SkyMoviesIndie.uk" tvg-shift="+2" group-title="UK", UK | Sky Movies Select
-http://ns6664276.ip-5-196-86.eu:8080/live/UK-Sky-Movies-Select/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="SkyShowcase.uk" tvg-shift="+2" group-title="UK", UK | Sky Movies Showcase
-http://ns6664276.ip-5-196-86.eu:8080/live/UK-Sky-Movies-Showcase/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="SkyMoviesActionThriller.uk" tvg-shift="+2" group-title="UK", UK | Sky Movies Thriller
-http://ns6664276.ip-5-196-86.eu:8080/live/UK-Sky-Movies-Thriller/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 ***** SPORTS *****  
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP",GR VIP | ***** Sports HD *****
-http://google.com
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP", GR VIP | NOVASPORTS MIX HD (Only for Games)
-http://ns6815083.ip-193-70-93.eu:8080/live/VIP-GR-NOVASPORTS-1-SD-MOVAMIX/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="NovaSports1.gr" tvg-shift="+2" group-title="GR VIP", GR VIP | NOVASPORTS 1A (Only for Games)
-http://ns6815083.ip-193-70-93.eu:8080/live/VP-GR-NOVAMIX-HD/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP", GR VIP | NOVASPORTS 1 Live (Only for Games)
-http://ns335432.ip-5-196-64.eu:8080/live/NOVASPORTS-35-SD/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="NovaSports1.gr" tvg-shift="+2" group-title="GR VIP", GR VIP | NOVASPORTS 1C (Only for Games)
-http://ns6815083.ip-193-70-93.eu:8080/live/VIP-GR-NOVASPORTS-1-HD/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="OTESport2.gr" tvg-shift="+2" group-title="GR VIP", GR VIP | COSMOTE SPORT 2 HD
-http://ns6815083.ip-193-70-93.eu:8080/live/VIP-GR-OTE-SPORT-2-HD/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="OTESport2.gr" tvg-shift="+2" group-title="GR VIP", GR VIP | COSMOTE SPORT 2 HD-B
-http://ns335506.ip-5-196-76.eu:8080/live/VIP-GR-OTE-SPORT-2-HD-B/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="OTESport2.gr" tvg-shift="+2" group-title="GR VIP", GR VIP | COSMOTE SPORT 2 HD-C
-http://ns335432.ip-5-196-64.eu:8080/live/VIP-GR-OTE-SPORT-2-HD-C/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="OTESport3.gr" tvg-shift="+2" group-title="GR VIP", GR VIP | COSMOTE SPORT 3 HD
-http://ns6815083.ip-193-70-93.eu:8080/live/VIP-GR-OTE-SPORT-3-HD/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="OTESport3.gr" tvg-shift="+2" group-title="GR VIP", GR VIP | COSMOTE SPORT 3 HD B
-http://ns335432.ip-5-196-64.eu:8080/live/VIP-GR-OTE-CINEMA-3/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="OTESport3.gr" tvg-shift="+2" group-title="GR VIP", GR VIP | COSMOTE SPORT 3 HD C
-http://ns3021685.ip-149-202-70.eu:8080/live/VIP-GR-OTE-SPORT-3-C/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="OTESport4.gr" tvg-shift="+2" group-title="GR VIP", GR VIP | COSMOTE SPORT 4 HD
-http://ns6815083.ip-193-70-93.eu:8080/live/VIP-GR-OTE-SPORT-4-HD/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="OTESport4.gr" tvg-shift="+2" group-title="GR VIP", GR VIP | COSMOTE SPORT 4 HD (B)
-http://ns335432.ip-5-196-64.eu:8080/live/VIP-GR-OTE-SPORT-4-HD-B/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="OTESport2.gr" tvg-shift="+2" group-title="GR VIP", GR VIP | COSMOTE SPORT 4 HD (C)
-http://ns335432.ip-5-196-64.eu:8080/live/VIP-GR-OTE-SPORT-2-C/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="OTESport5.gr" tvg-shift="+2" group-title="GR VIP", GR VIP | COSMOTE SPORT 5 HD
-http://ns6815083.ip-193-70-93.eu:8080/live/VIP-GR-OTE-SPORT-5-HD/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="OTESport5.gr" tvg-shift="+2" group-title="GR VIP", GR VIP | COSMOTE SPORT 5 B
-http://ns6815083.ip-193-70-93.eu:8080/live/VIP-GR-OTE-SPORT-5/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="OTESport6.gr" tvg-shift="+2" group-title="GR VIP", GR VIP | COSMOTE SPORT 6 HD
-http://ns6815083.ip-193-70-93.eu:8080/live/VIP-GR-OTE-SPORT-6-HD/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="OTESport2.gr" tvg-shift="+2" group-title="GR VIP", GR VIP | COSMOTE SPORT 6 HD (B)
-http://ns335432.ip-5-196-64.eu:8080/live/VIP-GR-OTE-SPORT-6-B/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="OTESport7.gr" tvg-shift="+2" group-title="GR VIP", GR VIP | COSMOTE SPORT 7 HD
-http://ns6815083.ip-193-70-93.eu:8080/live/VIP-GR-OTE-SPORT-7-HD/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="OTESport8.gr" tvg-shift="+2" group-title="GR VIP", GR VIP | COSMOTE SPORT 8 HD
-http://ns6815083.ip-193-70-93.eu:8080/live/VIP-GR-OTE-SPORT-8-HD/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="OTESportsHighlights.gr" tvg-shift="+2" group-title="GR VIP", GR VIP | COSMOTE SPORT HIGHLIGHTS HD
-http://ns6815083.ip-193-70-93.eu:8080/live/VIP-GR-OTE-SPORT-HIGHLIGHTS-HD/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP", GR VIP | FOX SPORTS HD
-http://ns6815083.ip-193-70-93.eu:8080/live/VIP-GR-FOX-SPORTS-HD/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP", GR VIP | OUTDOOR HD
-http://ns6815083.ip-193-70-93.eu:8080/live/VIP-GR-OUTDOOR-HD/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="EuroSport1.gr" tvg-shift="+2" group-title="GR VIP", GR VIP | EUROSPORT 1
-http://ns6815083.ip-193-70-93.eu:8080/live/VIP-GR-EUROSPORT-1/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="EuroSport2.gr" tvg-shift="+2" group-title="GR VIP", GR VIP | EUROSPORT 2
-http://ns6815083.ip-193-70-93.eu:8080/live/VIP-GR-EUROSPORT-2/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="MotorvisionChannel.gr" tvg-shift="+2" group-title="GR VIP", GR VIP | MOTOR VISION
-http://ns6815083.ip-193-70-93.eu:8080/live/VIP-GR-MOTOR-VISION/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP", GR VIP | EDGE SPORTS
-http://ns6815083.ip-193-70-93.eu:8080/live/VIP-GR-EDGE-SPORTS/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP", GR VIP | ACTION 24
-http://ns6815083.ip-193-70-93.eu:8080/live/VIP-GR-ACTION-24/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="SkySports1.uk" tvg-shift="+2" group-title="UK", UK | Sky Sports 1
-http://ns6664276.ip-5-196-86.eu:8080/live/UK-SkySports-1/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="SkySports1.uk" tvg-shift="+2" group-title="UK", UK | Sky Sports 1 HD
-http://ns6664276.ip-5-196-86.eu:8080/live/UK-Sky-Sports-1-HD/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="SkySports2.uk" tvg-shift="+2" group-title="UK", UK | Sky Sports 2
-http://ns6664276.ip-5-196-86.eu:8080/live/UK-SkySports-2/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="SkySports2.uk" tvg-shift="+2" group-title="UK", UK | Sky Sports 2 HD
-http://ns6664276.ip-5-196-86.eu:8080/live/UK-Sky-Sports-2-HD/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="SkySports3.uk" tvg-shift="+2" group-title="UK", UK | Sky Sports 3
-http://ns6664276.ip-5-196-86.eu:8080/live/UK-Sky-Sports-3/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="SkySports3.uk" tvg-shift="+2" group-title="UK", UK | Sky Sports 3 HD
-http://ns6664276.ip-5-196-86.eu:8080/live/UK-Sky-Sports-3-HD/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="SkySports4.uk" tvg-shift="+2" group-title="UK", UK | Sky Sports 4
-http://ns6664276.ip-5-196-86.eu:8080/live/UK-Sky-Sports-4/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="SkySports4.uk" tvg-shift="+2" group-title="UK", UK | Sky Sports 4 HD
-http://ns6664276.ip-5-196-86.eu:8080/live/UK-Sky-Sports-4-HD/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="SkySports5.uk" tvg-shift="+2" group-title="UK", UK | Sky Sports 5
-http://ns6664276.ip-5-196-86.eu:8080/live/UK-Sky-Sports-5/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="SkySports5.uk" tvg-shift="+2" group-title="UK", UK | Sky Sports 5 HD
-http://ns6664276.ip-5-196-86.eu:8080/live/UK-Sky-Sports-5-HD/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="SkySportsF1.uk" tvg-shift="+2" group-title="UK", UK | Sky Sports F1 (A)
-http://ns6883419.ip-217-182-160.eu:8080/live/UK-Sky-Sports-F1/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="SkySportsF1.uk" tvg-shift="+2" group-title="UK", UK | Sky Sports F1 (B)
-http://ns6664276.ip-5-196-86.eu:8080/live/UK-Sky-Sports-F1-HD/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="UK", UK | Sky Sports Mix
-http://ns6664276.ip-5-196-86.eu:8080/live/UK-Sky-Sports-Mix/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="SkySportsNews.uk" tvg-shift="+2" group-title="UK", UK | Sky Sports News
-http://ns6664276.ip-5-196-86.eu:8080/live/UK-Sky-Sports-News/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="UK", UK | Sky Sports Action
-http://ns6664276.ip-5-196-86.eu:8080/live/UK-Sky-Sports-Action/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="UK", UK | Sky Sports Arena
-http://ns6664276.ip-5-196-86.eu:8080/live/UK-Sky-Sports-Arena/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="UK", UK | SKy Sports Cricket
-http://ns6664276.ip-5-196-86.eu:8080/live/UK-Sky-Sports-Cricket/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="UK", UK | Sky Sports Football
-http://ns6664276.ip-5-196-86.eu:8080/live/UK-Sky-Sports-Football/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="UK", UK | Sky Sports Main Event
-http://ns6664276.ip-5-196-86.eu:8080/live/UK-Sky-Sports-Main-Event/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="UK", UK | Sky Sports The Open
-http://ns6664276.ip-5-196-86.eu:8080/live/UK-Sky-Sports-The-Open/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="UK", UK | Sky Sports Box Office (Live Events Only)
-http://ns6883419.ip-217-182-160.eu:8080/live/UK-Sky-Sports-Box-Office/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="UK", UK | Premier League
-http://ns6664276.ip-5-196-86.eu:8080/live/UK-Sky-Sports-Premier-League/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="USA", USA | Fox Sports 1
-http://ns3035073.ip-149-202-95.eu:8080/live/USA-Fox-Sports-1/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="USA", USA | Fox Sports 2
-http://ns3082560.ip-147-135-255.eu:8080/live/USA-Fox-Sports-2/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="USA", USA | Fox Deportes
-http://ns3082560.ip-147-135-255.eu:8080/live/USA-Fox-Deportes/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="USA", USA | Fox Sports 506
-http://ns3082560.ip-147-135-255.eu:8080/live/USA-Fox-Sports-506/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="USA", USA | ESPN
-http://ns3035073.ip-149-202-95.eu:8080/live/USA-ESPN-3108/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="USA", USA | ESPN 2
-http://ns3035073.ip-149-202-95.eu:8080/live/USA-ESPN-2/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="USA", USA | ESPN News
-http://ns3035073.ip-149-202-95.eu:8080/live/USA-ESPN-News/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="USA", USA | ESPN Deportes
-http://ns3035073.ip-149-202-95.eu:8080/live/USA-ESPN-Deportes/mpegts?token=yianis:adqNuttflS
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="USA", USA | ESPN U
-http://ns3035073.ip-149-202-95.eu:8080/live/USA-ESPN-U/mpegts?token=yianis:adqNuttflS
+#EXTINF:0,=== Adult 18+ ===
+http://
+#EXTINF:0, Adult XXX
+http://wowza1.videos.movile.com:8080/live/smil:adulto_1.smil/playlist.m3u8
+#EXTINF:0, Asian Porn 1
+http://edge2.everyon.tv/etv2/pld1003/HasBahCa.m3u8
+#EXTINF:0, Asian Porn 2
+http://edge2.everyon.tv/etv2/pld1008/HasBahCa.m3u8
+#EXTINF:0, Asian Porn 3
+http://edge2.everyon.tv/etv2/pld1005/HasBahCa.m3u8
+#EXTINF:0, Ask TV 
+http://edge2.everyon.tv:1935/etv2/phd1005/paz.m3u8
+#EXTINF:0, Bella Club 
+http://46.249.213.93/iPhone/broadcast/bellaclub-tablet.3gp/bellaclub-tablet.3gp-mr648k.m3u8
+#EXTINF:0, BabeStation X-Treme
+http://178.33.126.213:1935/bsx24/mpegts1.stream/.m3u8
+#EXTINF:0, BRAZZERS
+http://4BA9EBDB07C05883:@5.159.96.170:8000/brazzers
+#EXTINF:0, BSX
+http://178.33.126.213:1935/bsx24/mpegts1.stream/chunklist.m3u8?wowzasessionid=1294940186
+#EXTINF:0, BSX
+http://0100dyndns.tv:7879/live/tazia/tazia/557.m3u8
+#EXTINF:0, Boys Mania
+http://wowza1.videos.movile.com:8080/live/smil:adultopremium_1.smil/playlist.m3u8
+#EXTINF:0, ButGo
+http://edge2.everyon.Tv:1935/etv2sb/phd772/huraivza.m3u8
+#EXTINF:0, CLARO ADULTO
+http://wowza1.videos.movile.com:1935/live/adulto_1.smil/stream.m3u8
+#EXTINF:0, CLARO ADULTO (2)
+http://wowza1.videos.movile.com:8080/live/adulto_1.smil/stream.m3u8
+#EXTINF:0, CLARO ADULTO PREMIUM
+http://wowza1.videos.movile.com:1935/live/adultopremium_1.smil/stream.m3u8
+#EXTINF:0, CLARO ADULTO PREMIUM (2)
+http://wowza1.videos.movile.com:8080/live/adultopremium_1.smil/stream.m3u8
+#EXTINF:0, Exotica TV HD
+http://2streamingiptv.ddns.net:18001/live/Buscaglia/Buscaglia/3588.ts
+#EXTINF:0, erotic 1
+http://0100dyndns.tv:7879/live/tazia/tazia/155.m3u8
+#EXTINF:0, erotic 2
+http://www.nasatv.eu:80/live?channelId=67&uid=49&deviceUser=alena&devicePass=alena
+#EXTINF:0, erotic 3
+http://www.nasatv.eu:80/live?channelId=68&uid=49&deviceUser=alena&devicePass=alena
+#EXTINF:0, erotic 4
+http://www.nasatv.eu:80/live?channelId=37&uid=49&deviceUser=alena&devicePass=alena
+#EXTINF:0, FilmOn
+http://0100dyndns.tv:7879/live/tazia/tazia/154.m3u8
+#EXTINF:0, Flower (RU)
+http://46.182.25.34:1935/tv/1420/chunklist_w1894981632.m3u8
+#EXTINF:0, Hustler TV
+http://91.213.59.190:8000/239.0.0.199
+#EXTINF:0, HOT GIRL
+http://edge2.everyon.tv:1935/etv2sb/phd60/paz.m3u8
+#EXTINF:0, Hot Shots TV
+http://wowza1.videos.movile.com:8080/live/smil:adulto_1.smil/playlist.m3u8
+#EXTINF:0, Jasmin TV HD
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
+#EXTINF:0, Japao Hot
+rtmp://edge2.everyon.tv/etv2/pld1008
+#EXTINF:0, Корея 1 
+http://edge2.everyon.tv:1935/etv2sb/phd64/huraivza.m3u8
+#EXTINF:0, LiveSex
+http://publish.thewebstream.co:1935/cellcast/encoder21/playlist.m3u8
+#EXTINF:0, Livething Premium 
+http://edge2.everyon.tv/etv2/phd1006/BratuMarian.m3u8
+#EXTINF:0, Nefertisex 1
+http://46.249.213.93/iPhone/HLS_TS/broadcast/hotshots-tablet.3gp/hotshots-tablet.3gp-mr649k.m3u8
+#EXTINF:0, Nefertisex 2
+http://46.249.213.93/iPhone/broadcast/hot100-tablet.3gp/hot100-tablet.3gp-mr647k.m3u8
+#EXTINF:0, Nefertisex 3
+http://46.249.213.93/iPhone/broadcast/bollywoodbikini-tablet.3gp/bollywoodbikini-tablet.3gp-mr647k.m3u8
+#EXTINF:0, Nefertisex 4
+http://46.249.213.93/iPhone/broadcast/powergirls-tablet.3gp/powergirls-tablet.3gp-mr648k.m3u8
+#EXTINF:0, Nefertisex 5
+http://wowza1.videos.movile.com:8080/live/smil:adulto_1.smil/playlist.m3u8
+#EXTINF:0, Nefertisex 6
+http://wowza1.videos.movile.com:8080/live/smil:adultopremium_1.smil/playlist.m3u8
+#EXTINF:0, Nefertisex 7
+http://46.249.213.93/iPhone/HLS_TS/broadcast/hotshots-tablet.3gp/hotshots-tablet.3gp-mr649k.m3u8
+#EXTINF:0, Nefertisex 8
+http://46.249.213.93/iPhone/broadcast/babespotting-tablet.3gp/babespotting-tablet.3gp-mr397k.m3u8
+#EXTINF:0, Nefertisex 9
+http://62.210.82.241:8081/private/private/live.m3u8
+#EXTINF:0, Nefertisex 10
+http://62.210.82.241:8081/sexzonehd/sexzonehd/live.m3u8
+#EXTINF:0, Nuart-TV
+http://91.213.59.190:8000/239.0.1.156
+#EXTINF:0 tvg-logo="Adult.png" tvg-logo="http://goo.gl/fsVTZN", O-LA-LA
+http://4BA9EBDB07C05883:@5.159.96.170:8000/olala
+#EXTINF:0, PASSI XXX
+http://publish.thewebstream.co:1935/leved/_definst_/passielivestream/playlist.m3u8
+#EXTINF:0, PASSI XXX
+http://0100dyndns.tv:7879/live/tazia/tazia/153.m3u8
+#EXTINF:0, Playy
+http://edge2.everyon.Tv:1935/etv2sb/phd769/huraivza.m3u8
+#EXTINF:0, PLAY 2
+http://0100dyndns.tv:7879/live/tazia/tazia/152.m3u8
+#EXTINF:0, Private.com
+http://178.33.126.213:1935/leved/privateCom/.m3u8
+#EXTINF:0, Русская Ночь
+http://91.213.59.190:8000/239.0.0.198
+#EXTINF:0, Redlight HD
+http://91.213.59.190:8000/239.0.1.27
+#EXTINF:0, SAKURA (Koreia)
+http://edge2.everyon.tv:1935/etv2sb/phd61/paz.m3u8
+#EXTINF:0, Sexstation 
+http://178.33.126.213:1935/iptv_cellcast_24/livestream1/chunklist.m3u8
+#EXTINF:0, Spice
+http://edge2.everyon.Tv:1935/etv2sb/phd771/huraivza.m3u8
+#EXTINF:0, Venus
+http://46.182.25.34:1935/tv/1420/chunklist_w1894981632.m3u8
+#EXTINF:0, Venus HD (2)
+rtmp://edge2.everyon.tv/etv2/phd1005
+#EXTINF:0, WowGirls.com
+http://0100dyndns.tv:7879/live/tazia/tazia/151.m3u8
+#EXTINF:0, XXX0
+http://188.165.220.116:8081/live2/37/playlist.m3u8
+#EXTINF:0, XXX1
+http://188.165.220.116:8081/live/68/playlist.m3u8
+#EXTINF:0, XXX2
+http://188.165.220.116:8081/live2/43/playlist.m3u8
+#EXTINF:0, 21 Sextury.com
+http://188.165.220.116:8081/live/62/playlist.m3u8
+
+#EXTINF:0, === [B][COLOR red]AceStream/Plexus[/COLOR][/B] ===
+http://
+#EXTINF:0, brazzers-tv-europe
+plugin://program.plexus/?mode=1&url=acestream://d4651408263f14e7b48e12c7d8ea566abf0a27d1&name=brazzers-tv-europe
+#EXTINF:0, candy
+plugin://program.plexus/?mode=1&url=acestream://3bc119a0acfae80ec76c36a21a1c535c6f642bff&name=candy
+#EXTINF:0, candyman
+plugin://program.plexus/?mode=1&url=acestream://8435bc88fe2809cbf4250e6f857828d077a7c8a8&name=candyman
+#EXTINF:0, centoxcento-tv
+plugin://program.plexus/?mode=1&url=acestream://c12fb25dd0389272b6632778584dad2698f4b3ea&name=centoxcento-tv
+#EXTINF:0, eroxxx-hd
+plugin://program.plexus/?mode=1&url=acestream://b9511ea6be2739814eb9ac95db82572767b0f367&name=eroxxx-hd
+#EXTINF:0, exotica-tv
+plugin://program.plexus/?mode=1&url=acestream://822fed2c7a6acd2e05ceefab0c2afed00f64e5fa&name=exotica-tv
+#EXTINF:0, hustler-hd
+plugin://program.plexus/?mode=1&url=acestream://2d8915e2357b581712152ee0c3f4ca2a3112942f&name=hustler-hd
+#EXTINF:0, hustler-tv
+plugin://program.plexus/?mode=1&url=acestream://5ab50fbb36c6e04eac57b36e930ea9d126e4dc36&name=hustler-tv
+#EXTINF:0, nuart-tv
+plugin://program.plexus/?mode=1&url=acestream://662c6ad696aa6567e24a9b14fd9e9526720ae243&name=nuart-tv
+#EXTINF:0, o-la-la
+plugin://program.plexus/?mode=1&url=acestream://edc6f1a8b654b648715e640a731c3e0596f486d1&name=o-la-la
+#EXTINF:0, pink-o-tv
+plugin://program.plexus/?mode=1&url=acestream://765e2401b0aa154545f4b55cc32860b523f7f96b&name=pink-o-tv
+#EXTINF:0, playboy-tv
+plugin://program.plexus/?mode=1&url=acestream://1a786800a0d58cff383b5015c885ac1b1e840654&name=playboy-tv
+#EXTINF:0, redlight-hd
+plugin://program.plexus/?mode=1&url=acestream://3bf1a9355957947311d0ebae5f14a846aea92b91&name=redlight-hd
+#EXTINF:0, satisfaction-hd
+plugin://program.plexus/?mode=1&url=acestream://75f4f8f069172d77258a8250a5cfd59a123ca286&name=satisfaction-hd
+#EXTINF:0, sextosenso
+plugin://program.plexus/?mode=1&url=acestream://7a120f14c9f0f6676fd863116b3eaa2d7c712701&name=sextosenso
+#EXTINF:0, Venus
+plugin://program.plexus/?mode=1&url=acestream://71b41b3bebb9c4e6c2e55f29f5427b9efeae6f95&name=Venus
+#EXTINF:0, tgirls-tv
+plugin://program.plexus/?mode=1&url=acestream://b48874056e1e987efeee256b5f96fa116233108d&name=tgirls-tv
+#EXTINF:0, xxl
+plugin://program.plexus/?mode=1&url=acestream://6fc1b0669bc3b9e02e07c2c85772d31540df5027&name=xxl
+#EXTINF:0, xxx
+plugin://program.plexus/?mode=1&url=acestream://bdfd5523a9d54474f5572e209352746794adcb83&name=xxx
+
+#EXTINF:0,=== Live ===
+http://
+#EXTINF:0, Live Sex Latinas
+http://178.33.126.213:1935/leved/livesexlatinas/chunklist.m3u8
+#EXTINF:0 tvg-logo="Adult.png" tvg-logo="http://goo.gl/fsVTZN", BabeStation CAM1
+http://46.105.116.159:1935/cellcast/encoder22/.m3u8
+#EXTINF:0 tvg-logo="Adult.png" tvg-logo="http://goo.gl/fsVTZN", BabeStation CAM2
+http://46.105.116.159:1935/cellcast/encoder72/.m3u8
+#EXTINF:0 tvg-logo="Adult.png" tvg-logo="http://goo.gl/fsVTZN", BabeStation CAM3
+http://178.33.126.213:1935/cellcast/encoder32/.m3u8
+#EXTINF:0 tvg-logo="Adult.png" tvg-logo="http://goo.gl/fsVTZN", BabeStation CAM4
+http://178.33.126.213:1935/iptv_cellcast_24/livestream1/chunklist.m3u8
+
+
+#EXTINF:0,=== Movies ===
+http://
+#EXTINF:-1, Adult 4K: VOD1
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloeamour022714/content/vid01.mp4
+#EXTINF:-1, Adult 4K: VOD2
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_sabrinabanks071414/content/vid01.mp4
+#EXTINF:-1, Adult 4K: VOD3
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_tiffanyfox030514/content/vid01.mp4
+#EXTINF:-1, Adult 4K: VOD4
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan061914/content/vid01.mp4
+#EXTINF:-1, Adult 4K: VOD5
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_jennaross040414/content/vid01.mp4
+#EXTINF:-1, Adult 4K: VOD6
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan031914/content/vid01.mp4
+#EXTINF:-1, Adult 4K: VOD7
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloefoster021214/content/vid01.mp4
+#EXTINF:-1, Adult 4K: VOD8
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dillionharper030614/content/vid01.mp4
+#EXTINF:-1, Adult 4K: VOD9
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_emmastoned03414/content/vid01.mp4
+#EXTINF:-1, Adult 4K: VOD10
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_avataylor_emmastoned032514/content/vid01.mp4
+#EXTINF:-1, Adult 4K: VOD11
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dakotaskye040314/content/vid01.mp4
+#EXTINF:0,1
+http://ru-porn.Tv/videofile?id=11750&hq=high&ex=mp4
+#EXTINF:0,2
+http://ru-porn.Tv/videofile?id=14686&hq=high&ex=mp4
+#EXTINF:0,3
+http://ru-porn.Tv/videofile?id=12826&hq=high&ex=mp4
+#EXTINF:0,4
+http://ru-porn.Tv/videofile?id=13284&hq=high&ex=mp4
+#EXTINF:0,5
+http://ru-porn.tv/videofile?id=14660&hq=high&ex=mp4
+#EXTINF:0,6
+http://ru-porn.tv/videofile?id=14625&hq=high&ex=mp4
+#EXTINF:0,7
+http://ru-porn.tv/videofile?id=14336&hq=high&ex=mp4
+#EXTINF:0,8
+http://ru-porn.tv/videofile?id=14553&hq=high&ex=mp4
+#EXTINF:0,9
+http://ru-porn.tv/videofile?id=14585&hq=high&ex=mp4
+#EXTINF:0,10
+http://ru-porn.tv/videofile?id=14434&hq=high&ex=mp4
+#EXTINF:0,11
+http://ru-porn.tv/videofile?id=14556&hq=high&ex=mp4
+#EXTINF:0,12
+http://ru-porn.tv/videofile?id=14458&hq=high&ex=mp4
+#EXTINF:0,13
+http://ru-porn.tv/videofile?id=14527&hq=high&ex=mp4
+#EXTINF:0,14
+http://ru-porn.tv/videofile?id=14382&hq=high&ex=mp4
+#EXTINF:0,15
+http://ru-porn.tv/videofile?id=14441&hq=high&ex=mp4
+#EXTINF:0,16
+http://ru-porn.tv/videofile?id=14390&hq=high&ex=mp4
+#EXTINF:0,17
+http://ru-porn.tv/videofile?id=13709&hq=high&ex=mp4
+#EXTINF:0,18
+http://ru-porn.tv/videofile?id=14517&hq=high&ex=mp4
+#EXTINF:0,19
+http://ru-porn.tv/videofile?id=14345&hq=high&ex=mp4
+#EXTINF:0,20
+http://ru-porn.tv/videofile?id=14283&hq=high&ex=mp4
+#EXTINF:0,21
+http://ru-porn.tv/videofile?id=14398&hq=high&ex=mp4
+#EXTINF:0,22
+http://ru-porn.tv/videofile?id=14266&hq=high&ex=mp4
+#EXTINF:0,23
+http://ru-porn.tv/videofile?id=91&hq=high&ex=mp4
+#EXTINF:0,24
+http://ru-porn.tv/videofile?id=2359&hq=medium&ex=mp4
+#EXTINF:0,25
+http://ru-porn.tv/videofile?id=2384&hq=medium&ex=mp4
+#EXTINF:0,26
+http://ru-porn.tv/videofile?id=10743&hq=medium&ex=mp4
+#EXTINF:0,27
+http://ru-porn.tv/videofile?id=10766&hq=high&ex=mp4
+#EXTINF:0,28
+http://ru-porn.tv/videofile?id=10789&hq=high&ex=mp4
+#EXTINF:0,29
+http://ru-porn.tv/videofile?id=10792&hq=medium&ex=mp4
+#EXTINF:0,30
+http://ru-porn.tv/videofile?id=10800&hq=low&ex=mp4
+#EXTINF:0,31
+http://ru-porn.tv/videofile?id=10777&hq=low&ex=mp4
+#EXTINF:0,32
+http://ru-porn.tv/videofile?id=10785&hq=high&ex=mp4
+#EXTINF:0,33
+http://ru-porn.tv/videofile?id=10711&hq=high&ex=mp4
+#EXTINF:0,34
+http://ru-porn.tv/videofile?id=10696&hq=medium&ex=mp4
+#EXTINF:0,35
+http://ru-porn.tv/videofile?id=10695&hq=medium&ex=mp4
+#EXTINF:0,36
+http://ru-porn.tv/videofile?id=10704&hq=high&ex=mp4
+#EXTINF:0,37
+http://ru-porn.tv/videofile?id=10703&hq=medium&ex=mp4
+#EXTINF:0,38
+http://ru-porn.tv/videofile?id=10668&hq=medium&ex=mp4
+#EXTINF:0,39
+http://ru-porn.tv/videofile?id=10639&hq=medium&ex=mp4
+#EXTINF:0,40
+http://ru-porn.tv/videofile?id=10630&hq=medium&ex=mp4
+#EXTINF:0,41
+http://ru-porn.tv/videofile?id=10641&hq=medium&ex=mp4
+#EXTINF:0,42
+http://ru-porn.tv/videofile?id=10660&hq=medium&ex=mp4
+#EXTINF:0,43
+http://ru-porn.tv/videofile?id=10616&hq=medium&ex=mp4
+#EXTINF:0,44
+http://ru-porn.tv/videofile?id=10608&hq=high&ex=mp4
+#EXTINF:0,45
+http://ru-porn.tv/videofile?id=10607&hq=high&ex=mp4
+#EXTINF:0,46
+http://ru-porn.tv/videofile?id=10598&hq=medium&ex=mp4
+#EXTINF:0,47
+http://ru-porn.tv/videofile?id=10591&hq=medium&ex=mp4
+#EXTINF:0,48
+http://ru-porn.tv/videofile?id=11174&hq=high&ex=mp4
+#EXTINF:0,49
+http://ru-porn.tv/videofile?id=11188&hq=high&ex=mp4
+#EXTINF:0,50
+http://ru-porn.tv/videofile?id=11182&hq=high&ex=mp4
+#EXTINF:-1,X_MOVIE_1
+http://0100dyndns.tv:7879/movie/tazia/tazia/679.mp4
+#EXTINF:-1,X_MOVIE_2
+http://0100dyndns.tv:7879/movie/tazia/tazia/680.mp4
+#EXTINF:-1,X_MOVIE_3
+http://0100dyndns.tv:7879/movie/tazia/tazia/681.mp4
+#EXTINF:-1,X_MOVIE_4
+http://0100dyndns.tv:7879/movie/tazia/tazia/682.mp4
+#EXTINF:-1,X_MOVIE_5
+http://0100dyndns.tv:7879/movie/tazia/tazia/683.mp4
+#EXTINF:-1,X_MOVIE_6
+http://0100dyndns.tv:7879/movie/tazia/tazia/684.mp4
+#EXTINF:-1,X_MOVIE_7
+http://0100dyndns.tv:7879/movie/tazia/tazia/685.mp4
+#EXTINF:-1,X_MOVIE_8
+http://0100dyndns.tv:7879/movie/tazia/tazia/686.mp4
+#EXTINF:-1,X_MOVIE_9
+http://0100dyndns.tv:7879/movie/tazia/tazia/687.mp4
+#EXTINF:-1,X_MOVIE_10
+http://0100dyndns.tv:7879/movie/tazia/tazia/688.mp4
+#EXTINF:-1,X_MOVIE_11
+http://0100dyndns.tv:7879/movie/tazia/tazia/692.mp4
+#EXTINF:-1,X_MOVIE_12
+http://0100dyndns.tv:7879/movie/tazia/tazia/693.mp4
+#EXTINF:-1,X_MOVIE_13
+http://0100dyndns.tv:7879/movie/tazia/tazia/694.mp4
+#EXTINF:-1,X_MOVIE_14
+http://0100dyndns.tv:7879/movie/tazia/tazia/695.mp4
+#EXTINF:-1,X_MOVIE_15
+http://0100dyndns.tv:7879/movie/tazia/tazia/696.mp4
+#EXTINF:-1,X_MOVIE_16
+http://0100dyndns.tv:7879/movie/tazia/tazia/697.mp4
+#EXTINF:-1,X_MOVIE_17
+http://0100dyndns.tv:7879/movie/tazia/tazia/698.mp4
+#EXTINF:-1,X_MOVIE_18
+http://0100dyndns.tv:7879/movie/tazia/tazia/699.mp4
+#EXTINF:-1,X_MOVIE_19
+http://0100dyndns.tv:7879/movie/tazia/tazia/700.mp4
+#EXTINF:-1,X_MOVIE_20
+http://0100dyndns.tv:7879/movie/tazia/tazia/701.mp4
