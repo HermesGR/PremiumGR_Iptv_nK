@@ -1,111 +1,179 @@
 #EXTM3U
-#EXTINF:-1,FR: TF1 --WWW.IPMAGTV.COM
-http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/36.ts
-#EXTINF:-1,FR: HD1 --WWW.IPMAGTV.COM
-http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/38.ts
-#EXTINF:-1,FR: LCI --WWW.IPMAGTV.COM
-http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/39.ts
-#EXTINF:-1,FR: C8 --www.ipmagtv.com
-http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/183.ts
-#EXTINF:-1,FR: M6--www.ipmagtv.com
-http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/139.ts
-#EXTINF:-1,FR: Canal + --www.ipmagtv.com
-http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/141.ts
-#EXTINF:-1,FR: Canal + Sports --www.ipmagtv.com
-http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/142.ts
-#EXTINF:-1,FR: Nat Geo WILD --www.ipmagtv.com
-http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/128.ts
-#EXTINF:-1,FR: Discovery SC --www.ipmagtv.com
-http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/138.ts
-#EXTINF:-1,FR: ANIMAUX --www.ipmagtv.com
-http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/168.ts
-#EXTINF:-1,FR: Action --www.ipmagtv.com
-http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/170.ts
-#EXTINF:-1,FR: Bein Sport 1 --www.ipmagtv.com
-http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/2.ts
-#EXTINF:-1,FR: Bein Sport 2 --www.ipmagtv.com
-http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/3.ts
-#EXTINF:-1,FR: Bein Sport 3 --www.ipmagtv.com
-http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/4.ts
-#EXTINF:-1,AR: Bein sport 1 HD --www.ipmagtv.com
-http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/59.ts
-#EXTINF:-1,AR: Bein Sport 1 --www.ipmagtv.com
-http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/5.ts
-#EXTINF:-1,AR: Bein sport 2 HD --www.ipmagtv.com
-http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/60.ts
-#EXTINF:-1,AR: BEIN SPORT 2 --WWW.IPMAGTV.COM
-http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/6.ts
-#EXTINF:-1,AR: Bein sport 3 HD --www.ipmagtv.com
-http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/61.ts
-#EXTINF:-1,AR: BEIN SPORT 3 --WWW.IPMAGTV.COM
-http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/9.ts
-#EXTINF:-1,AR: BEIN SPORT 4 --WWW.IPMAGTV.COM
-http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/7.ts
-#EXTINF:-1,AR: BEIN SPORT 5 --WWW.IPMAGTV.COM
-http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/8.ts
-#EXTINF:-1,AR: BEIN SPORT 6 --WWW.IPMAGTV.COM
-http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/10.ts
-#EXTINF:-1,AR: BEIN SPORT 7 --WWW.IPMAGTV.COM
-http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/11.ts
-#EXTINF:-1,AR: BEIN SPORT 8 --WWW.IPMAGTV.COM
-http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/12.ts
-#EXTINF:-1,AR: AD Sports HD --www.ipmagtv.com
-http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/164.ts
-#EXTINF:-1,AR: AD Sports 2 HD --www.ipmagtv.com
-http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/165.ts
-#EXTINF:-1,AR: b tv --www.ipmagtv.com
-http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/146.ts
-#EXTINF:-1,UK: BT SPORT 1 --WWW.IPMAGTV.COM
-http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/144.ts
-#EXTINF:-1,UK: BT SPORT 2 --WWW.IPMAGTV.COM
-http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/145.ts
-#EXTINF:-1,UK: Eurosport 1 --www.ipmagtv.com
-http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/174.ts
-#EXTINF:-1,UK: Eurosport 2 --www.ipmagtv.com
-http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/175.ts
-#EXTINF:-1,UK: SKY SPORTS PREMIER LEAGUE --www.ipmagtv.com
-http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/181.ts
-#EXTINF:-1,UK: SKY SPORTS MAIN EVENT --www.ipmagtv.com
-http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/180.ts
-#EXTINF:-1,UK: SKY SPORTS GOLF --www.ipmagtv.com
-http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/179.ts
-#EXTINF:-1,UK: SKY SPORTS CRICKET --www.ipmagtv.com
-http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/178.ts
-#EXTINF:-1,UK: SKY SPORTS ACTION --www.ipmagtv.com
-http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/177.ts
-#EXTINF:-1,UK: Sky Sport Arena HD --www.ipmagtv.com
-http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/176.ts
-#EXTINF:-1,ARENA SPORT 1 --WWW.IPMAGTV.COM
-http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/27.ts
-#EXTINF:-1,ARENA SPORT 2 --WWW.IPMAGTV.COM
-http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/28.ts
-#EXTINF:-1,ARENA SPORT 3 --WWW.IPMAGTV.COM
-http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/29.ts
-#EXTINF:-1,Матч Футбол 1 --WWW.IPMAGTV.COM
-http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/24.ts
-#EXTINF:-1,Матч Футбол 2 --WWW.IPMAGTV.COM
-http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/25.ts
-#EXTINF:-1,Матч Футбол 3 --WWW.IPMAGTV.COM
-http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/26.ts
-#EXTINF:-1,USA: abc news --www.ipmagtv.com
-http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/84.ts
-#EXTINF:-1,USA: animal planet --www.ipmagtv.com
-http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/85.ts
-#EXTINF:-1,USA: bloomberg --www.ipmagtv.com
-http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/86.ts
-#EXTINF:-1,USA: Fox Sports 1 --www.ipmagtv.com
-http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/166.ts
-#EXTINF:-1,USA: Fox Sports 2 --www.ipmagtv.com
-http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/167.ts
-#EXTINF:-1,USA: C-Span --www.ipmagtv.com
-http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/87.ts
-#EXTINF:-1,USA: C-Span2 --www.ipmagtv.com
-http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/88.ts
-#EXTINF:-1,USA: C-Span3 --www.ipmagtv.com
-http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/89.ts
-#EXTINF:-1,digisport 1 HD  --www.ipmagtv.com
-http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/153.ts
-#EXTINF:-1,digisport 2 HD  --www.ipmagtv.com
-http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/151.ts
-#EXTINF:-1,digisport 3 HD --www.ipmagtv.com
-http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/152.ts
+#EXTINF:-1,(GR) ERT WORLD
+http://mv.ipmdmv.com:8000/live/kika/kika/6006.ts
+#EXTINF:-1,(GR) ET1
+http://mv.ipmdmv.com:8000/live/kika/kika/3194.ts
+#EXTINF:-1,(GR) ET2
+http://mv.ipmdmv.com:8000/live/kika/kika/3195.ts
+#EXTINF:-1,(GR) ET3
+http://mv.ipmdmv.com:8000/live/kika/kika/3196.ts
+#EXTINF:-1,(GR) SKAI
+http://mv.ipmdmv.com:8000/live/kika/kika/3197.ts
+#EXTINF:-1,(GR) STAR
+http://mv.ipmdmv.com:8000/live/kika/kika/3198.ts
+#EXTINF:-1,(GR) ANT1
+http://mv.ipmdmv.com:8000/live/kika/kika/3202.ts
+#EXTINF:-1,(GR) MEGA TV
+http://mv.ipmdmv.com:8000/live/kika/kika/3199.ts
+#EXTINF:-1,(GR) ALPHA TV
+http://mv.ipmdmv.com:8000/live/kika/kika/7963.ts
+#EXTINF:-1,(GR) MAKEDONIA TV
+http://mv.ipmdmv.com:8000/live/kika/kika/3200.ts
+#EXTINF:-1,(GR) EPSILON TV
+http://mv.ipmdmv.com:8000/live/kika/kika/3201.ts
+#EXTINF:-1,(GR) CHANNEL 9
+http://mv.ipmdmv.com:8000/live/kika/kika/7964.ts
+#EXTINF:-1,(GR) 4E TV
+http://mv.ipmdmv.com:8000/live/kika/kika/3203.ts
+#EXTINF:-1,(GR) THRAKI TV
+http://mv.ipmdmv.com:8000/live/kika/kika/7499.ts
+#EXTINF:-1,(GR) SIGMA TV
+http://mv.ipmdmv.com:8000/live/kika/kika/7500.ts
+#EXTINF:-1,(GR) MAD TV
+http://mv.ipmdmv.com:8000/live/kika/kika/7501.ts
+#EXTINF:-1,(GR) KPHTH TV
+http://mv.ipmdmv.com:8000/live/kika/kika/7497.ts
+#EXTINF:-1,(GR)  RIK Sat
+http://mv.ipmdmv.com:8000/live/kika/kika/94624.ts
+#EXTINF:-1,(GR) Fox HD GR
+http://mv.ipmdmv.com:8000/live/kika/kika/129097.ts
+#EXTINF:-1,(GR) Fox Life HD GR
+http://mv.ipmdmv.com:8000/live/kika/kika/129096.ts
+#EXTINF:-1,(GR) E! GR
+http://mv.ipmdmv.com:8000/live/kika/kika/129162.ts
+#EXTINF:-1,(GR) Plus Cyprus GR
+http://mv.ipmdmv.com:8000/live/kika/kika/129104.ts
+#EXTINF:-1,(GR) TLC GR
+http://mv.ipmdmv.com:8000/live/kika/kika/129100.ts
+#EXTINF:-1,(GR) Sundance HD GR
+http://mv.ipmdmv.com:8000/live/kika/kika/129085.ts
+#EXTINF:-1,(GR) Greek Mix GR
+http://mv.ipmdmv.com:8000/live/kika/kika/129122.ts
+#EXTINF:-1,(GR) Ionian TV GR
+http://mv.ipmdmv.com:8000/live/kika/kika/129115.ts
+#EXTINF:-1,(GR) Nickelodeon GR
+http://mv.ipmdmv.com:8000/live/kika/kika/129158.ts
+#EXTINF:-1,(GR) Baby TV GR
+http://mv.ipmdmv.com:8000/live/kika/kika/129143.ts
+#EXTINF:-1,(GR) Disney Channel GR
+http://mv.ipmdmv.com:8000/live/kika/kika/129130.ts
+#EXTINF:-1,(GR) Disney Junior GR
+http://mv.ipmdmv.com:8000/live/kika/kika/129129.ts
+#EXTINF:-1,(GR) Disney XD GR
+http://mv.ipmdmv.com:8000/live/kika/kika/129128.ts
+#EXTINF:-1,(GR) Kids 1 GR
+http://mv.ipmdmv.com:8000/live/kika/kika/129114.ts
+#EXTINF:-1,(GR) Kids 2 GR
+http://mv.ipmdmv.com:8000/live/kika/kika/129113.ts
+#EXTINF:-1,(GR) Kids 3 GR
+http://mv.ipmdmv.com:8000/live/kika/kika/129112.ts
+#EXTINF:-1,(GR) Kids 4 GR
+http://mv.ipmdmv.com:8000/live/kika/kika/129111.ts
+#EXTINF:-1,(GR) Kids 5 GR
+http://mv.ipmdmv.com:8000/live/kika/kika/129110.ts
+#EXTINF:-1,(GR) Kids 6 GR
+http://mv.ipmdmv.com:8000/live/kika/kika/129109.ts
+#EXTINF:-1,(GR) Kids 7 GR
+http://mv.ipmdmv.com:8000/live/kika/kika/129108.ts
+#EXTINF:-1,(GR) Kids 9 GR
+http://mv.ipmdmv.com:8000/live/kika/kika/129107.ts
+#EXTINF:-1,(GR) Kids 10 GR
+http://mv.ipmdmv.com:8000/live/kika/kika/129106.ts
+#EXTINF:-1,(GR) Discovery Channel GR
+http://mv.ipmdmv.com:8000/live/kika/kika/129153.ts
+#EXTINF:-1,(GR) Discovery ID GR
+http://mv.ipmdmv.com:8000/live/kika/kika/129133.ts
+#EXTINF:-1,(GR) Discovery IDX GR
+http://mv.ipmdmv.com:8000/live/kika/kika/129132.ts
+#EXTINF:-1,(GR) Discovery Science GR
+http://mv.ipmdmv.com:8000/live/kika/kika/129131.ts
+#EXTINF:-1,(GR) Discovery ShowCase HD GR
+http://mv.ipmdmv.com:8000/live/kika/kika/129151.ts
+#EXTINF:-1,(GR) Animal Planet GR
+http://mv.ipmdmv.com:8000/live/kika/kika/129164.ts
+#EXTINF:-1,(GR) DTX GR
+http://mv.ipmdmv.com:8000/live/kika/kika/129127.ts
+#EXTINF:-1,(GR) Travel Channel HD GR
+http://mv.ipmdmv.com:8000/live/kika/kika/129150.ts
+#EXTINF:-1,(GR) Viasat History GR
+http://mv.ipmdmv.com:8000/live/kika/kika/129103.ts
+#EXTINF:-1,(GR) History HD GR
+http://mv.ipmdmv.com:8000/live/kika/kika/129154.ts
+#EXTINF:-1,(GR) Natat Geo HD GR
+http://mv.ipmdmv.com:8000/live/kika/kika/129163.ts
+#EXTINF:-1,(GR) OTE History GR
+http://mv.ipmdmv.com:8000/live/kika/kika/129105.ts
+#EXTINF:-1,(GR) Nat Geo Wild HD GR
+http://mv.ipmdmv.com:8000/live/kika/kika/129155.ts
+#EXTINF:-1,(GR) Village HD GR
+http://mv.ipmdmv.com:8000/live/kika/kika/129084.ts
+#EXTINF:-1,(GR) Cinema Greek 1 GR
+http://mv.ipmdmv.com:8000/live/kika/kika/129135.ts
+#EXTINF:-1,(GR) Cinema Greek 2 GR
+http://mv.ipmdmv.com:8000/live/kika/kika/129134.ts
+#EXTINF:-1,(GR) Best Movies 1 GR
+http://mv.ipmdmv.com:8000/live/kika/kika/129142.ts
+#EXTINF:-1,(GR) Best Movies 2 GR
+http://mv.ipmdmv.com:8000/live/kika/kika/129141.ts
+#EXTINF:-1,(GR) Best Movies 3 GR
+http://mv.ipmdmv.com:8000/live/kika/kika/129140.ts
+#EXTINF:-1,(GR) Best Movies 4 GR
+http://mv.ipmdmv.com:8000/live/kika/kika/129139.ts
+#EXTINF:-1,(GR) Best Movies 5 GR
+http://mv.ipmdmv.com:8000/live/kika/kika/129138.ts
+#EXTINF:-1,(GR) Best Movies 6 GR
+http://mv.ipmdmv.com:8000/live/kika/kika/129137.ts
+#EXTINF:-1,(GR) OTE Cinema 1 FHD GR
+http://mv.ipmdmv.com:8000/live/kika/kika/129089.ts
+#EXTINF:-1,(GR) OTE Cinema 1 HD GR
+http://mv.ipmdmv.com:8000/live/kika/kika/129149.ts
+#EXTINF:-1,(GR) OTE Cinema 2 FHD GR
+http://mv.ipmdmv.com:8000/live/kika/kika/129088.ts
+#EXTINF:-1,(GR) OTE Cinema 2 HD GR
+http://mv.ipmdmv.com:8000/live/kika/kika/129148.ts
+#EXTINF:-1,(GR) OTE Cinema 3 HD GR
+http://mv.ipmdmv.com:8000/live/kika/kika/129087.ts
+#EXTINF:-1,(GR) OTE Cinema 4 HD GR
+http://mv.ipmdmv.com:8000/live/kika/kika/129086.ts
+#EXTINF:-1,(GR) Greek Old Movies 1 GR
+http://mv.ipmdmv.com:8000/live/kika/kika/129121.ts
+#EXTINF:-1,(GR) Greek Old Movies 2 GR
+http://mv.ipmdmv.com:8000/live/kika/kika/129120.ts
+#EXTINF:-1,(GR) Greek Old Movies 3 GR
+http://mv.ipmdmv.com:8000/live/kika/kika/129119.ts
+#EXTINF:-1,(GR) Greek Series 1 GR
+http://mv.ipmdmv.com:8000/live/kika/kika/129118.ts
+#EXTINF:-1,(GR) Greek Series 2 GR
+http://mv.ipmdmv.com:8000/live/kika/kika/129117.ts
+#EXTINF:-1,(GR) Greek Cinema 80s 1 GR
+http://mv.ipmdmv.com:8000/live/kika/kika/129125.ts
+#EXTINF:-1,(GR) Greek Cinema 80s 2 GR
+http://mv.ipmdmv.com:8000/live/kika/kika/129124.ts
+#EXTINF:-1,(GR) Greek Cinema 80s 3 GR
+http://mv.ipmdmv.com:8000/live/kika/kika/129123.ts
+#EXTINF:-1,(GR) OTE SPORT 1
+http://mv.ipmdmv.com:8000/live/kika/kika/128414.ts
+#EXTINF:-1,(GR) OTE SPORT 2
+http://mv.ipmdmv.com:8000/live/kika/kika/128415.ts
+#EXTINF:-1,(GR) OTE SPORT 3
+http://mv.ipmdmv.com:8000/live/kika/kika/128416.ts
+#EXTINF:-1,(GR) OTE SPORT 4
+http://mv.ipmdmv.com:8000/live/kika/kika/128417.ts
+#EXTINF:-1,(GR) OTE SPORT 5
+http://mv.ipmdmv.com:8000/live/kika/kika/128418.ts
+#EXTINF:-1,(GR) OTE SPORT 6
+http://mv.ipmdmv.com:8000/live/kika/kika/128419.ts
+#EXTINF:-1,(GR) OTE SPORT 7
+http://mv.ipmdmv.com:8000/live/kika/kika/128420.ts
+#EXTINF:-1,(GR) OTE SPORT 8
+http://mv.ipmdmv.com:8000/live/kika/kika/128421.ts
+#EXTINF:-1,(GR) Edge Sports FHD GR
+http://mv.ipmdmv.com:8000/live/kika/kika/129099.ts
+#EXTINF:-1,(GR) EuroSport 1 GR
+http://mv.ipmdmv.com:8000/live/kika/kika/129160.ts
+#EXTINF:-1,(GR) EuroSport 2 GR
+http://mv.ipmdmv.com:8000/live/kika/kika/129098.ts
+#EXTINF:-1,(GR) Motor Vision GR
+http://mv.ipmdmv.com:8000/live/kika/kika/129095.ts
+#EXTINF:-1,(GR) TileSport TV GR
+http://mv.ipmdmv.com:8000/live/kika/kika/129152.ts
